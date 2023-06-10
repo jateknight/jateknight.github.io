@@ -58,7 +58,7 @@ Bash the enemy with your weapon, dealing {30/33/36/39/42/45/48/51/54/57}% damage
 
 แรงดูด มุมมองมิลค์สเตอริโอไพลิน ซิ้มธุรกรรมเจล ป๊อกความหมายคอปเตอร์ซูมกราวนด์ กาญจน์กุมภาพันธ์แชมปิยองอุปการคุณ แพทเทิร์น เนอะอยุติธรรมโชว์รูมซีอีโอ เทคบอร์ดบิลสต็อคจึ๊ก ไตรมาสเสือโคร่งคอร์ปอเรชั่นนินจา เช็งเม้งวีไอพีป๊อก ภคันทลาพาธทับซ้อนช็อตเซ็กซี่โมเดล คอลัมนิสต์แบด ล็อตโดนัทไง โจ๋คลาสสิก วาทกรรม โมหจริตหมิงปอดแหกหลวงตาฟลุค
 
-คอนแท็คสจ๊วต โปรเจกเตอร์ฮัม ชาร์ป วโรกาส ป๋าโกะซิ้มวอลนัท พันธกิจไฟแนนซ์สเตริโอสารขัณฑ์หลวงพี่ พลาซ่าสไปเดอร์ฟิวเจอร์ทับซ้อน ลีกเบอร์เกอร์ปาร์ตี้ราชบัณฑิตยสถาน โพลล์เวเฟอร์แอปพริคอทหลวงพี่ฟยอร์ด คันธาระจิ๊กไฮเวย์ ปอดแหกม้งคอนโดรอยัลตี้ ชัวร์ ลิมิตนอมินี﻿กรรมาชนคอนเซปต์พรีเมียม แอนด์ลีก ธัมโม หมายปองธัมโมเซ็กซี่เซฟตี้
+คอนแท็คสจ๊วต โปรเจกเตอร์ฮัม ชาร์ป วโรกาส ป๋าโกะซิ้มวอลนัท พันธกิจไฟแนนซ์สเตริโอสารขัณฑ์หลวงพี่ พลาซ่าสไปเดอร์ฟิวเจอร์ทับซ้อน ลีกเบอร์เกอร์ปาร์ตี้ราชบัณฑิตยสถาน โพลล์เวเฟอร์แอปพริคอทหลวงพี่ฟยอร์ด คันธาระจิ๊กไฮเวย์ ปอดแหกม้งคอนโดรอยัลตี้ ชัวร์ ลิมิตนอมินี﻿กรรมาชนคอนเซปต์พรีเมียม แอนด์ลีก ธัมโม หมายปองธัมโมเซ็กซี่เซฟตี้g
 Tags: Basic, Bludgeoning, Fury, Physical, Damage, Crowd Control, Two-Handed.`,
 		nameLocalized: {
 			"deDE": "Hieb",
@@ -98,7 +98,7 @@ Tags: Basic, Bludgeoning, Fury, Physical, Damage, Crowd Control, Two-Handed.`,
 	"Enhanced Bash": {
 		baseSkill: "Bash",
 		connections: [ "Bash", "Battle Bash", "Combat Bash" ],
-		description: `Damaging a Stunned enemy with Bash grants you 10% Base Life as Fortify. Double this amount when using a Two-Handed weapon.`,
+		description: `DamagingDamagingDamagingDamagingDamagingDamagingDamagingDamaging a Stunned enemy with Bash grants you 10% Base Life as Fortify. Double this amount when using a Two-Handed weapon.`,
 		nameLocalized: {
 			"deDE": "Verbesserter Hieb",
 			"esES": "Porrazo mejorado",
