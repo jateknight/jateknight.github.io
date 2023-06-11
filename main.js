@@ -1067,7 +1067,8 @@ const localeFlagPairs = {
 	"ruRU": "ru",
 	"trTR": "tr",
 	"zhCN": "cn",
-	"zhTW": "tw"
+	"zhTW": "tw",
+	"thTH": "th"
 };
 const localeFlagPairEntries = Object.entries(localeFlagPairs);
 function handleLocaleTemplateResult(data) {
