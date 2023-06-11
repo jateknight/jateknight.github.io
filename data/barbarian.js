@@ -1664,7 +1664,8 @@ Tags: Defensive, Shout, Crowd Control, Damage Reduction, Cooldown.`,
 			"ruRU": "Подстрекающий крик",
 			"trTR": "Meydan Okuyan Çığlık",
 			"zhCN": "挑战怒吼",
-			"zhTW": "挑戰怒吼"
+			"zhTW": "挑戰怒吼",
+			"thTH": "Challenging Shout"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 25 Sek.\nVerspottet Gegner in der Nähe und erhaltet 6 Sek. lang {40/42/44/46/48/50/52/54/56/58}% Schadensreduktion.\n\nTags: Defensiv, Ruf, Kontrollverlust, Schadensreduktion, Abklingzeit.",
@@ -1679,7 +1680,8 @@ Tags: Defensive, Shout, Crowd Control, Damage Reduction, Cooldown.`,
 			"ruRU": "Время восстановления: 25 сек.\nВы провоцируете ближайших противников и получаете на {40/42/44/46/48/50/52/54/56/58}% меньше урона в течение 6 сек.\n\nTags: Защита, Крик, Контроль, Уменьшение урона, Время восстановления.",
 			"trTR": "Bekleme Süresi: 25 saniye\nYakındaki düşmanları Kışkırt ve 6 saniyeliğine {40/42/44/46/48/50/52/54/56/58}% Hasar Azaltma kazan.\n\nTags: Savunma, Çığlık, Kitle Kontrolü, Hasar Azaltma, Bekleme Süresi.",
 			"zhCN": "冷却时间: 25 秒\n嘲讽附近的敌人并获得 {40/42/44/46/48/50/52/54/56/58}% 伤害减免, 持续 6 秒。\n\nTags: 防御, 战吼, 群控, 伤害减免, 冷却时间.",
-			"zhTW": "冷卻時間:25 秒\n嘲諷附近的敵人,獲得 {40/42/44/46/48/50/52/54/56/58}% 傷害減免效果,持續 6 秒。\n\nTags: 防禦, 怒吼, 控場, 傷害減免, 冷卻時間."
+			"zhTW": "冷卻時間:25 秒\n嘲諷附近的敵人,獲得 {40/42/44/46/48/50/52/54/56/58}% 傷害減免效果,持續 6 秒。\n\nTags: 防禦, 怒吼, 控場, 傷害減免, 冷卻時間.",
+			"thTH": "Cooldown: 25 วินาที\nยั่วยุศัตรูรอบตัว และได้รับ {40/42/44/46/48/50/52/54/56/58}% Damage Reduction เป็นระยะเวลา 6 วินาที. \n\nTags: Defensive, Shout, Crowd Control, Damage Reduction, Cooldown."
 },
 		id: 38,
 		maxPoints: 5,
@@ -1703,7 +1705,8 @@ Tags: Defensive, Shout, Crowd Control, Damage Reduction, Cooldown.`,
 			"ruRU": "Усиленный подстрекающий крик",
 			"trTR": "Geliştirilmiş Meydan Okuyan Çığlık",
 			"zhCN": "强化挑战怒吼",
-			"zhTW": "強化挑戰怒吼"
+			"zhTW": "強化挑戰怒吼",
+			"thTH": "Enhanced Challenging Shout"
 },
 		descriptionLocalized: {
 			"deDE": "Solange Herausforderungsruf aktiv ist, wird Euer maximales Leben um x20% erhöht.",
@@ -1718,7 +1721,8 @@ Tags: Defensive, Shout, Crowd Control, Damage Reduction, Cooldown.`,
 			"ruRU": "Пока действует \"Подстрекающий крик\", ваш максимальный запас здоровья увеличивается на x20%.",
 			"trTR": "Meydan Okuyan Çığlık etkinken x20% bonus Maksimum Can kazan.",
 			"zhCN": "挑战怒吼激活时, 生命上限获得 x20% 加成。",
-			"zhTW": "挑戰怒吼效果期間,你的生命值上限額外提高 x20%。"
+			"zhTW": "挑戰怒吼效果期間,你的生命值上限額外提高 x20%。",
+			"thTH": "ขณะที่อยู่ในผลของสกิล Challenging Shout, ได้รับ x20% พลังชีวิตสูงสุด"
 },
 		id: 39,
 		maxPoints: 1,
@@ -1742,7 +1746,8 @@ Tags: Defensive, Shout, Crowd Control, Damage Reduction, Cooldown.`,
 			"ruRU": "Стратегический подстрекающий крик",
 			"trTR": "Stratejik Meydan Okuyan Çığlık",
 			"zhCN": "战略挑战怒吼",
-			"zhTW": "戰略挑戰怒吼"
+			"zhTW": "戰略挑戰怒吼",
+			"thTH": "Strategic Challening Shout"
 },
 		descriptionLocalized: {
 			"deDE": "Solange Herausforderungsruf aktiv ist, erhaltet Ihr Dornen in Höhe von 30% Eures maximalen Lebens.",
@@ -1757,7 +1762,8 @@ Tags: Defensive, Shout, Crowd Control, Damage Reduction, Cooldown.`,
 			"ruRU": "Пока действует \"Подстрекающий крик\", вы получаете эффект шипов в объеме 30% максимального запаса здоровья.",
 			"trTR": "Meydan Okuyan Çığlık etkinken Maksimum Canının 30% kadarına eşit Diken kazan.",
 			"zhCN": "挑战怒吼激活时, 获得相当于 30% 生命上限的荆棘。",
-			"zhTW": "在挑戰怒吼效果期間,獲得等同於生命值上限 30% 的荊棘效果。"
+			"zhTW": "在挑戰怒吼效果期間,獲得等同於生命值上限 30% 的荊棘效果。",
+			"thTH": "ขณะที่อยู่ในผลของสกิล Challenging Shout, ได้รับ Thorns เป็นจำนวน 30% ของพลังชีวิตสูงสุด"
 },
 		id: 40,
 		maxPoints: 1,
@@ -1781,7 +1787,8 @@ Tags: Defensive, Shout, Crowd Control, Damage Reduction, Cooldown.`,
 			"ruRU": "Тактический подстрекающий крик",
 			"trTR": "Taktiksel Meydan Okuyan Çığlık",
 			"zhCN": "战术挑战怒吼",
-			"zhTW": "戰術挑戰怒吼"
+			"zhTW": "戰術挑戰怒吼",
+			"thTH": "Tactical Challenging Shout"
 },
 		descriptionLocalized: {
 			"deDE": "Solange Herausforderungsruf aktiv ist, erhaltet Ihr jedes Mal, wenn Ihr Schaden erleidet, 3 Wut.",
@@ -1796,7 +1803,8 @@ Tags: Defensive, Shout, Crowd Control, Damage Reduction, Cooldown.`,
 			"ruRU": "Пока действует \"Подстрекающий крик\", вы накапливаете 3 ед. ярости каждый раз, когда получаете урон.",
 			"trTR": "Meydan Okuyan Çığlık etkinken her hasar aldığında 3 Hiddet kazanırsın.",
 			"zhCN": "挑战怒吼激活时, 每次受到伤害都会获得 3 点怒气。",
-			"zhTW": "挑戰怒吼效果期間,你每次受到傷害都會產生 3 點怒氣。"
+			"zhTW": "挑戰怒吼效果期間,你每次受到傷害都會產生 3 點怒氣。",
+			"thTH": "ในขณะที่อยู่ในผลของสกิล Challenging Shout, ได้รับ 3 Fury ทุกครั้งที่ได้รับความเสียหาย"
 },
 		id: 41,
 		maxPoints: 1,
@@ -1822,7 +1830,8 @@ Tags: Defensive, Barrier, Cooldown, Life.`,
 			"ruRU": "Железная кожа",
 			"trTR": "Demir Deri",
 			"zhCN": "钢铁之肤",
-			"zhTW": "鋼鐵之膚"
+			"zhTW": "鋼鐵之膚",
+			"thTH": "Iron Skin"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 14 Sek.\nStählt Euch und erhaltet eine Barriere, die 5 Sek. lang {50/55/60/65/70/75/80/85/90/95}% Eures verlorenen Lebens absorbiert.\n\nTags: Defensiv, Barriere, Abklingzeit, Leben.",
@@ -1837,7 +1846,8 @@ Tags: Defensive, Barrier, Cooldown, Life.`,
 			"ruRU": "Время восстановления: 14 сек.\nВы собираетесь с силами и окружаете себя барьером, который поглощает урон в объеме {50/55/60/65/70/75/80/85/90/95}% недостающего у вас здоровья. Время действия барьера – 5 сек.\n\nTags: Защита, Барьер, Время восстановления, Здоровье.",
 			"trTR": "Bekleme Süresi: 14 saniye\nKendini çelikle donatarak 5 saniyeliğine eksik Canının {50/55/60/65/70/75/80/85/90/95}% kadarına eşit soğuran bir Bariyer kazan.\n\nTags: Savunma, Bariyer, Bekleme Süresi, Can.",
 			"zhCN": "冷却时间: 14 秒\n强化自己, 获得一个能吸收相当于已损失生命 {50/55/60/65/70/75/80/85/90/95}% 的屏障, 持续 5 秒。\n\nTags: 防御, 屏障, 冷却时间, 生命.",
-			"zhTW": "冷卻時間:14 秒\n站穩雙腳,獲得一道能吸收等同失去生命值 {50/55/60/65/70/75/80/85/90/95}% 的屏障,持續 5 秒。\n\nTags: 防禦, 屏障, 冷卻時間, 生命值."
+			"zhTW": "冷卻時間:14 秒\n站穩雙腳,獲得一道能吸收等同失去生命值 {50/55/60/65/70/75/80/85/90/95}% 的屏障,持續 5 秒。\n\nTags: 防禦, 屏障, 冷卻時間, 生命值.",
+			"thTH": "Cooldown: 14 วินาที\nสร้างเกราะป้องกัน {50/55/60/65/70/75/80/85/90/95}% ของพลังชีวิตที่หายไป เป็นระยะเวลา 5 วินาที . \n\nTags: .Defensive, Barrier, Cooldown, Life"
 },
 		id: 42,
 		maxPoints: 5,
@@ -1861,7 +1871,8 @@ Tags: Defensive, Barrier, Cooldown, Life.`,
 			"ruRU": "Усиленная железная кожа",
 			"trTR": "Geliştirilmiş Demir Deri",
 			"zhCN": "强化钢铁之肤",
-			"zhTW": "強化鋼鐵之膚"
+			"zhTW": "強化鋼鐵之膚",
+			"thTH": "Enhanced Iron Skin"
 },
 		descriptionLocalized: {
 			"deDE": "Die Barriere von Eisenhaut absorbiert 10% des maximalen Lebens mehr.",
@@ -1876,7 +1887,8 @@ Tags: Defensive, Barrier, Cooldown, Life.`,
 			"ruRU": "Барьер \"Железной кожи\" дополнительно поглощает урон в размере еще 10% вашего максимального запаса здоровья.",
 			"trTR": "Demir Derinin Bariyeri Maksimum Canının 10% kadarını daha soğurur.",
 			"zhCN": "钢铁之肤的屏障额外吸收你的生命上限的 10%。",
-			"zhTW": "鋼鐵之膚的屏障會額外吸收等同你生命值上限 10% 的傷害。"
+			"zhTW": "鋼鐵之膚的屏障會額外吸收等同你生命值上限 10% 的傷害。",
+			"thTH": "Iron Skin จะสร้างเกราะป้องกันเพิ่มขึ้นอีก 10% ของพลังชีวิตสูงสุด"
 },
 		id: 43,
 		maxPoints: 1,
@@ -1900,7 +1912,8 @@ Tags: Defensive, Barrier, Cooldown, Life.`,
 			"ruRU": "Тактическая железная кожа",
 			"trTR": "Taktiksel Demir Deri",
 			"zhCN": "战术钢铁之肤",
-			"zhTW": "戰術鋼鐵之膚"
+			"zhTW": "戰術鋼鐵之膚",
+			"thTH": "Tactical Iron Skin"
 },
 		descriptionLocalized: {
 			"deDE": "Solange Eisenhaut aktiv ist, werdet Ihr pro Sekunde um 10% der ursprünglichen Höhe der Barriere als Leben pro Sekunde geheilt.",
@@ -1915,7 +1928,8 @@ Tags: Defensive, Barrier, Cooldown, Life.`,
 			"ruRU": "Пока действует \"Железная кожа\", вы раз в секунду восполняете здоровье, равное 10% изначальной прочности барьера.",
 			"trTR": "Demir Deri etkinken saniye başına Bariyerin başlangıç miktarının 10% kadarına eşit İyileş.",
 			"zhCN": "钢铁之肤激活时, 每秒恢复相当于屏障初始数值 10% 的生命。",
-			"zhTW": "在鋼鐵之膚效果期間,每秒治療等同屏障原始數值 10% 的生命值。"
+			"zhTW": "在鋼鐵之膚效果期間,每秒治療等同屏障原始數值 10% 的生命值。",
+			"thTH": "ในขณะที่อยู่ในผลของสกิล Iron Skin, ฟื้นฟูพลังชีวิต 10% ของจำนวนเกราะที่ได้รับ ทุกวินาที"
 },
 		id: 44,
 		maxPoints: 1,
@@ -1939,7 +1953,8 @@ Tags: Defensive, Barrier, Cooldown, Life.`,
 			"ruRU": "Стратегическая железная кожа",
 			"trTR": "Stratejik Demir Deri",
 			"zhCN": "战略钢铁之肤",
-			"zhTW": "戰略鋼鐵之膚"
+			"zhTW": "戰略鋼鐵之膚",
+			"thTH": "Strategic Iron Skin"
 },
 		descriptionLocalized: {
 			"deDE": "Eisenhaut verleiht außerdem 15% Eures Basislebens als Stählung. Die Menge verdoppelt sich, wenn Ihr beim Einsatz weniger als 50% Leben habt.",
@@ -1954,7 +1969,8 @@ Tags: Defensive, Barrier, Cooldown, Life.`,
 			"ruRU": "\"Железная кожа\" также дает вам укрепление в объеме 15% базового запаса здоровья. Этот объем удваивается, если ваш уровень здоровья ниже 50%.",
 			"trTR": "Demir Deri ayrıca 15% Temel Canı Güçlendirme olarak kazandırır. 50% Can altındayken kullanıldığında bu miktar ikiye katlanır.",
 			"zhCN": "钢铁之肤也会强固你 15% 的基础生命。生命低于 50% 时, 该数值翻倍。",
-			"zhTW": "鋼鐵之膚也會賦予等同 15% 基礎生命值的強韌。在生命值低於 50% 時施放可使此效果加倍。"
+			"zhTW": "鋼鐵之膚也會賦予等同 15% 基礎生命值的強韌。在生命值低於 50% 時施放可使此效果加倍。",
+			"thTH": "Iron Skin จะมอบ Fortify 15% ของพลังชิวิตพื้นฐานของคุณ, เพิ่มเป็นสองเท่าหากใช้สกิลขณะที่พลังชีวิตเหลือต่ากว่า 50%"
 },
 		id: 45,
 		maxPoints: 1,
@@ -1979,7 +1995,8 @@ Tags: Life, Thorns.`,
 			"ruRU": "Вспышка гнева",
 			"trTR": "Patlama",
 			"zhCN": "血气外冲",
-			"zhTW": "爆發"
+			"zhTW": "爆發",
+			"thTH": "Outburst"
 },
 		descriptionLocalized: {
 			"deDE": "Erhaltet {20/40/60/80/100/120/140/160/180/200} Dornen. Erhaltet zusätzlich 10 Dornen pro 50 zusätzlichem maximalen Leben.\n\nTags: Leben, Dornen.",
@@ -1994,7 +2011,8 @@ Tags: Life, Thorns.`,
 			"ruRU": "Вы получаете {20/40/60/80/100/120/140/160/180/200} к показателю эффекта шипов. Вы также получаете 10 к показателю эффекта шипов за каждые 50 ед. здоровья, прибавленные к максимальному запасу.\n\nTags: Здоровье, Шипы.",
 			"trTR": "{20/40/60/80/100/120/140/160/180/200} Diken kazan. Ayrıca sahip olduğun her 50 bonus Maksimum Can başına 10 Diken kazan.\n\nTags: Can, Dikenler.",
 			"zhCN": "获得 {20/40/60/80/100/120/140/160/180/200} 点荆棘。每拥有 50 点生命上限加成, 也会获得 10 点荆棘。\n\nTags: 生命, 荆棘.",
-			"zhTW": "獲得 {20/40/60/80/100/120/140/160/180/200} 點荊棘。生命值上限每提高 50 點可獲得 10 點荊棘。\n\nTags: 生命值, 荊棘."
+			"zhTW": "獲得 {20/40/60/80/100/120/140/160/180/200} 點荊棘。生命值上限每提高 50 點可獲得 10 點荊棘。\n\nTags: 生命值, 荊棘.",
+			"thTH": "ได้รับ {20/40/60/80/100/120/140/160/180/200} Thorns. และได้รับ 10 Thorns เพิ่มขึ้นต่อ 50 โบนัสพลังชีวิตสูงสุดที่คุณมี. \n\nTags: Life, Thorns."
 },
 		id: 46,
 		maxPoints: 3,
@@ -2019,7 +2037,8 @@ Tags: Bleed, Thorns, Damage.`,
 			"ruRU": "Шипастый щит",
 			"trTR": "Çivi Gibi",
 			"zhCN": "坚如钢钉",
-			"zhTW": "意志堅定"
+			"zhTW": "意志堅定",
+			"thTH": "Tough as Nails"
 },
 		descriptionLocalized: {
 			"deDE": "Erhöht Eure Dornen um +{3/6/9/12/15/18/21/24/27/30}%. Wenn Gegner Euch treffen, erleiden sie im Verlauf von 5 Sek. 10% Eures Dornenschadens als Blutung.\n\nTags: Blutung, Dornen, Schaden.",
@@ -2034,7 +2053,8 @@ Tags: Bleed, Thorns, Damage.`,
 			"ruRU": "Эффект шипов усиливается на +{3/6/9/12/15/18/21/24/27/30}%. Атакующие вас противники получают еще 10% урона от эффекта шипов как урон от кровотечения за 5 сек.\n\nTags: Кровотечение, Шипы, Урон.",
 			"trTR": "Dikenlerini +{3/6/9/12/15/18/21/24/27/30}% artır. Düşmanlar sana vurduğunda 5 saniye boyunca Dikenlerinin ilave %10 kadarını Kanama hasarı olarak alır.\n\nTags: Kanama, Dikenler, Hasar.",
 			"zhCN": "你的荆棘提高 +{3/6/9/12/15/18/21/24/27/30}%。命中你的敌人会在 5 秒内额外受到流血伤害,数值相当于你荆棘的 10%。\n\nTags: 流血, 荆棘, 伤害.",
-			"zhTW": "你的荊棘提高 +{3/6/9/12/15/18/21/24/27/30}%。當敵人擊中你時,其會額外在 5 秒內受到等同你 10% 荊棘的流血傷害。\n\nTags: 流血, 荊棘, 傷害."
+			"zhTW": "你的荊棘提高 +{3/6/9/12/15/18/21/24/27/30}%。當敵人擊中你時,其會額外在 5 秒內受到等同你 10% 荊棘的流血傷害。\n\nTags: 流血, 荊棘, 傷害.",
+			"thTH": "เพิ่มจำนวน Thorns ที่คุณมี +{3/6/9/12/15/18/21/24/27/30}%. เมื่อศัตรูโจมตีคุณ, ศัตรูเหล่านั้นจะได้รับ 10% ของจำนวน Thorns ที่คุณมี เป็นความเสียหาย Bleeding ภายในระยะเวลา 5 วินาที"
 },
 		id: 47,
 		maxPoints: 3,
@@ -2061,7 +2081,8 @@ Tags: Defensive, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Топот",
 			"trTR": "Tepinme",
 			"zhCN": "大地践踏",
-			"zhTW": "震地踐踏"
+			"zhTW": "震地踐踏",
+			"thTH": "Ground Stomp"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: {16/15.2/14.4/13.76/13.12/12.64/12.16/11.84/11.52/11.2/10.88/10.56/10.4/10.24/10.08/9.92/9.84/9.76/9.68/9.6} Sek.\nGlückstrefferchance: 33% (per hit)\nStampft auf den Boden, verursacht {9.5/10.5/11.4/12.4/13.3/14.3/15.2/16.2/17.1/18}% Schaden und betäubt 3 Sek. lang Gegner in der Nähe.\n\nTags: Defensiv, Kontrollverlust, Schaden, Physisch, Abklingzeit.",
@@ -2076,7 +2097,8 @@ Tags: Defensive, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Время восстановления: {16/15.2/14.4/13.76/13.12/12.64/12.16/11.84/11.52/11.2/10.88/10.56/10.4/10.24/10.08/9.92/9.84/9.76/9.68/9.6} сек.\nВероятность удачного удара: 33% (per hit)\nВы с силой бьете по земле, нанося ближайшим противникам {9.5/10.5/11.4/12.4/13.3/14.3/15.2/16.2/17.1/18}% ед. урона и оглушая их на 3 сек.\n\nTags: Защита, Контроль, Урон, Физический урон, Время восстановления.",
 			"trTR": "Bekleme Süresi: {16/15.2/14.4/13.76/13.12/12.64/12.16/11.84/11.52/11.2/10.88/10.56/10.4/10.24/10.08/9.92/9.84/9.76/9.68/9.6} saniye\nŞanslı Vuruş İhtimali: 33% (per hit)\nYere vurarak {9.5/10.5/11.4/12.4/13.3/14.3/15.2/16.2/17.1/18}% hasar ver ve etraftaki düşmanları 3 saniyeliğine Sersemlet.\n\nTags: Savunma, Kitle Kontrolü, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "冷却时间: {16/15.2/14.4/13.76/13.12/12.64/12.16/11.84/11.52/11.2/10.88/10.56/10.4/10.24/10.08/9.92/9.84/9.76/9.68/9.6} 秒\n幸运一击几率: 33% (per hit)\n砸击地面, 造成 {9.5/10.5/11.4/12.4/13.3/14.3/15.2/16.2/17.1/18}% 点伤害并使周围所有敌人昏迷 3 秒。\n\nTags: 防御, 群控, 伤害, 物理, 冷却时间.",
-			"zhTW": "冷卻時間:{16/15.2/14.4/13.76/13.12/12.64/12.16/11.84/11.52/11.2/10.88/10.56/10.4/10.24/10.08/9.92/9.84/9.76/9.68/9.6} 秒\n幸運觸發機率: 33% (per hit)\n猛擊地面,造成 {9.5/10.5/11.4/12.4/13.3/14.3/15.2/16.2/17.1/18}% 點傷害並擊昏附近的敵人,持續 3 秒。\n\nTags: 防禦, 控場, 傷害, 物理, 冷卻時間."
+			"zhTW": "冷卻時間:{16/15.2/14.4/13.76/13.12/12.64/12.16/11.84/11.52/11.2/10.88/10.56/10.4/10.24/10.08/9.92/9.84/9.76/9.68/9.6} 秒\n幸運觸發機率: 33% (per hit)\n猛擊地面,造成 {9.5/10.5/11.4/12.4/13.3/14.3/15.2/16.2/17.1/18}% 點傷害並擊昏附近的敵人,持續 3 秒。\n\nTags: 防禦, 控場, 傷害, 物理, 冷卻時間.",
+			"thTH": "Cooldown: {16/15.2/14.4/13.76/13.12/12.64/12.16/11.84/11.52/11.2/10.88/10.56/10.4/10.24/10.08/9.92/9.84/9.76/9.68/9.6} วินาที\nLucky Hit Chance: 33% (per hit)\nทำความเสียหาย {9.5/10.5/11.4/12.4/13.3/14.3/15.2/16.2/17.1/18}% และ Stun ศัตรูรอบตัว 3 วินาที. \n\nTags: Defensive, Crowd Control, Damage, Physical, Cooldown."
 },
 		id: 48,
 		maxPoints: 5,
@@ -2100,7 +2122,8 @@ Tags: Defensive, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Усиленный топот",
 			"trTR": "Geliştirilmiş Tepinme",
 			"zhCN": "强化大地践踏",
-			"zhTW": "強化震地踐踏"
+			"zhTW": "強化震地踐踏",
+			"thTH": "Enhanced Ground Stomp"
 },
 		descriptionLocalized: {
 			"deDE": "Erhöht die Dauer von Aufstampfen um 1 Sek.",
@@ -2115,7 +2138,8 @@ Tags: Defensive, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Время действия \"Топота\" увеличивается на 1 сек.",
 			"trTR": "Tepinmenin süresini 1 saniye artır.",
 			"zhCN": "大地践踏的持续时间延长 1 秒。",
-			"zhTW": "震地踐踏的持續時間延長 1 秒。"
+			"zhTW": "震地踐踏的持續時間延長 1 秒。",
+			"thTH": "เพิ่มระยะเวลา Ground Stomp 1 วินาที"
 },
 		id: 49,
 		maxPoints: 1,
@@ -2139,7 +2163,8 @@ Tags: Defensive, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Тактический топот",
 			"trTR": "Taktiksel Tepinme",
 			"zhCN": "战术大地践踏",
-			"zhTW": "戰術震地踐踏"
+			"zhTW": "戰術震地踐踏",
+			"thTH": "Tactical Ground Stomp"
 },
 		descriptionLocalized: {
 			"deDE": "Aufstampfen erzeugt 25 Wut.",
@@ -2154,7 +2179,8 @@ Tags: Defensive, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "\"Топот\" дает 25 ед. ярости.",
 			"trTR": "Tepinme 25 Hiddet üretir.",
 			"zhCN": "大地践踏生成 25 点怒气。",
-			"zhTW": "震地踐踏會產生 25 點怒氣。"
+			"zhTW": "震地踐踏會產生 25 點怒氣。",
+			"thTH": "เมื่อใช้ Ground Stomp จะได้รับ 25 Fury"
 },
 		id: 50,
 		maxPoints: 1,
@@ -2178,7 +2204,8 @@ Tags: Defensive, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Стратегический топот",
 			"trTR": "Stratejik Tepinme",
 			"zhCN": "战略大地践踏",
-			"zhTW": "戰略震地踐踏"
+			"zhTW": "戰略震地踐踏",
+			"thTH": "Strategic Ground Stomp"
 },
 		descriptionLocalized: {
 			"deDE": "Verringert die Abklingzeit für Eure ultimative Fertigkeit für jeden Gegner, der durch Aufstampfen Schaden erleidet, um 1 Sek.",
@@ -2193,7 +2220,8 @@ Tags: Defensive, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Время восстановления мощного умения сокращается на 1 сек. за каждого противника, пораженного \"Топотом\".",
 			"trTR": "Tepinme ile hasar verilen her bir düşman başına Ulti Yeteneğinin Bekleme Süresini 1 saniye azalt.",
 			"zhCN": "使用大地践踏每对一名敌人造成伤害, 可以使你终极技能的冷却时间缩短 1 秒。",
-			"zhTW": "震地踐踏每對一個敵人造成傷害,都會使你的絕招冷卻時間縮短 1 秒。"
+			"zhTW": "震地踐踏每對一個敵人造成傷害,都會使你的絕招冷卻時間縮短 1 秒。",
+			"thTH": "ลด Cooldown ของสกิล Ultimate 1 วินาที ต่อจำนวนศัตรูที่ได้รับความเสียหายจาก Ground Stomp"
 },
 		id: 51,
 		maxPoints: 1,
@@ -2219,7 +2247,8 @@ Tags: Defensive, Shout, Fury, Movement, Cooldown.`,
 			"ruRU": "Воодушевляющий клич",
 			"trTR": "Yüreklendirici Nara",
 			"zhCN": "集结呐喊",
-			"zhTW": "振奮戰吼"
+			"zhTW": "振奮戰吼",
+			"thTH": "Rallying Cry"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 25 Sek.\nLasst einen Schlachtruf erschallen, der 6 Sek. lang Eure Bewegungsgeschwindigkeit um x{40/44/48/52/56/60/64/68/72/76}% und Eure Ressourcenerzeugung um +30% erhöht. Die Bewegungsgeschwindigkeit und Ressourcenerzeugung von Verbündeten in der Nähe wird 3 Sek. lang erhöht.\n\nTags: Defensiv, Ruf, Wut, Bewegung, Abklingzeit.",
@@ -2234,7 +2263,8 @@ Tags: Defensive, Shout, Fury, Movement, Cooldown.`,
 			"ruRU": "Время восстановления: 25 сек.\nОбодряющий клич повышает вашу скорость передвижения на +30%, а скорость накопления ресурса – на x{40/44/48/52/56/60/64/68/72/76}% на 6 сек. Также усиливает находящихся рядом союзников на 3 сек.\n\nTags: Защита, Крик, Ярость, Движение, Время восстановления.",
 			"trTR": "Bekleme Süresi: 25 saniye\nYüreklendirici bir nara atarak kendin için 6 saniyeliğine ve Yakındaki müttefikler için 3 saniyeliğine olmak üzere Hareket Hızını +30% ve Kaynak Üretimini x{40/44/48/52/56/60/64/68/72/76}% artır.\n\nTags: Savunma, Çığlık, Hiddet, Hareket, Bekleme Süresi.",
 			"zhCN": "冷却时间: 25 秒\n高呼集结呐喊, 使你的移动速度提高 +30%, 资源生成速度提高 x{40/44/48/52/56/60/64/68/72/76}%, 持续 6 秒, 附近盟友的效果为 3 秒。\n\nTags: 防御, 战吼, 怒气, 移动, 冷却时间.",
-			"zhTW": "冷卻時間:25 秒\n發出振奮士氣的戰吼,使你的移動速度提高 +30%、資源產生提高 x{40/44/48/52/56/60/64/68/72/76}%,持續 6 秒。附近的盟友也獲得這些效果,持續 3 秒。\n\nTags: 防禦, 怒吼, 怒氣, 移動, 冷卻時間."
+			"zhTW": "冷卻時間:25 秒\n發出振奮士氣的戰吼,使你的移動速度提高 +30%、資源產生提高 x{40/44/48/52/56/60/64/68/72/76}%,持續 6 秒。附近的盟友也獲得這些效果,持續 3 秒。\n\nTags: 防禦, 怒吼, 怒氣, 移動, 冷卻時間.",
+			"thTH": "Cooldown: 25 วินาที\nเพิ่มความเร็วในการเคลื่อนที่ +30% และการฟื้นฟูทรัพยากร x{40/44/48/52/56/60/64/68/72/76}% เป็นระยะเวลา 6 วินาที ให้กับคุณ, และพันธมิตรรอบคัวเป็นระยะเวลา - วินาที  . \n\nTags: Defensive, Shout, Fury, Movement, Cooldown."
 },
 		id: 52,
 		maxPoints: 5,
@@ -2258,7 +2288,8 @@ Tags: Defensive, Shout, Fury, Movement, Cooldown.`,
 			"ruRU": "Усиленный воодушевляющий клич",
 			"trTR": "Geliştirilmiş Yüreklendirici Nara",
 			"zhCN": "强化集结呐喊",
-			"zhTW": "強化振奮戰吼"
+			"zhTW": "強化振奮戰吼",
+			"thTH": "Enhanced Rallying Cry"
 },
 		descriptionLocalized: {
 			"deDE": "Schlachtruf macht Euch unaufhaltsam, solange er aktiv ist.",
@@ -2273,7 +2304,8 @@ Tags: Defensive, Shout, Fury, Movement, Cooldown.`,
 			"ruRU": "\"Воодушевляющий клич\" также дает вам неудержимость.",
 			"trTR": "Yüreklendirici Nara etkinken sana Durdurulamaz kazandırır.",
 			"zhCN": "集结呐喊激活时使你获得不可阻挡。",
-			"zhTW": "振奮戰吼效果期間會賦予你無阻效果。"
+			"zhTW": "振奮戰吼效果期間會賦予你無阻效果。",
+			"thTH": "Rallying Cry จะทำให้คุณอยู่ในสถานะ Unstoppable"
 },
 		id: 53,
 		maxPoints: 1,
@@ -2297,7 +2329,8 @@ Tags: Defensive, Shout, Fury, Movement, Cooldown.`,
 			"ruRU": "Стратегический воодушевляющий клич",
 			"trTR": "Stratejik Yüreklendirici Nara",
 			"zhCN": "战略集结呐喊",
-			"zhTW": "戰略振奮戰吼"
+			"zhTW": "戰略振奮戰吼",
+			"thTH": "Strategic Rallying Cry"
 },
 		descriptionLocalized: {
 			"deDE": "Schlachtruf verleiht Euch 10% Eures Basislebens als Stählung. Während Schlachtruf aktiv ist, erhaltet Ihr jedes Mal, wenn Ihr direkten Schaden erleidet oder verursacht, zusätzlich 2% Eures Basislebens als Stählung.",
@@ -2312,7 +2345,8 @@ Tags: Defensive, Shout, Fury, Movement, Cooldown.`,
 			"ruRU": "\"Воодушевляющий клич\" дает вам укрепление в объеме 10% базового запаса здоровья. Пока действует \"Воодушевляющий клич\", вы дополнительно получаете укрепление в объеме 2% базового запаса здоровья, когда получаете или наносите прямой урон.",
 			"trTR": "Yüreklendirici Nara sana 10% Temel Canı Güçlendirme olarak kazandırır. Yüreklendirici Nara etkinken her doğrudan hasar aldığında veya verdiğinde ilave 2% Temel Canı Güçlendirme olarak kazanırsın.",
 			"zhCN": "集结呐喊强固你 10% 基础生命。集结呐喊激活时, 你每次受到或造成直接伤害, 都会额外强固你 2% 基础生命。",
-			"zhTW": "振奮戰吼可賦予你等同 10% 基礎生命值的強韌。振奮戰吼效果期間,你每次受到或造成直接傷害,可額外賦予你等同 2% 基礎生命值的強韌。"
+			"zhTW": "振奮戰吼可賦予你等同 10% 基礎生命值的強韌。振奮戰吼效果期間,你每次受到或造成直接傷害,可額外賦予你等同 2% 基礎生命值的強韌。",
+			"thTH": "Rallying Cry จะมอบ Fortify เป็นจำนวน 10% ของพลังชีวิตพื้นฐานให้แก่คุณ, ในขณะที่อยู่ในผลของสกิล Rallying Cry, คุณจะได้รับ Fortify เป็นจำนวน 2% ของพลังชีวิตพื้นฐาน ทุกๆครั้งที่คุณทำความเสียหาย หรือได้รับความเสียหาย"
 },
 		id: 54,
 		maxPoints: 1,
@@ -2336,7 +2370,8 @@ Tags: Defensive, Shout, Fury, Movement, Cooldown.`,
 			"ruRU": "Тактический воодушевляющий клич",
 			"trTR": "Taktiksel Yüreklendirici Nara",
 			"zhCN": "战术集结呐喊",
-			"zhTW": "戰術振奮戰吼"
+			"zhTW": "戰術振奮戰吼",
+			"thTH": "Tactical Rallying Cry"
 },
 		descriptionLocalized: {
 			"deDE": "Schlachtruf erzeugt 20 Wut und gewährt Euch zusätzliche x20% Ressourcenerzeugung.",
@@ -2351,7 +2386,8 @@ Tags: Defensive, Shout, Fury, Movement, Cooldown.`,
 			"ruRU": "\"Воодушевляющий клич\" дает 20 ед. ярости и повышает скорость восполнения ресурсов на x20%.",
 			"trTR": "Yüreklendirici Nara 20 Hiddet üretir ve sana ilave x20% Kaynak Üretimi kazandırır.",
 			"zhCN": "集结呐喊生成 20 点怒气, 并使你的资源生成速度提高 x20%。",
-			"zhTW": "振奮戰吼會產生 20 點怒氣,並賦予你額外 x20% 資源產生。"
+			"zhTW": "振奮戰吼會產生 20 點怒氣,並賦予你額外 x20% 資源產生。",
+			"thTH": "Rallying Cry จะมอบ 20 Fury และการฟื้นฟูทรัพยากร x20% เพิ่มเติมให้แก่คุณ"
 },
 		id: 55,
 		maxPoints: 1,
@@ -2376,7 +2412,8 @@ Tags: Life.`,
 			"ruRU": "Довлеющее присутствие",
 			"trTR": "Heybetli Duruş",
 			"zhCN": "杀气凌人",
-			"zhTW": "氣勢不凡"
+			"zhTW": "氣勢不凡",
+			"thTH": "Imposing Presence"
 },
 		descriptionLocalized: {
 			"deDE": "Erhaltet zusätzlich x{5/10/15/20/25/30/35/40/45/50}% maximales Leben.\n\nTags: Leben.",
@@ -2391,7 +2428,8 @@ Tags: Life.`,
 			"ruRU": "Максимальный запас здоровья увеличивается на x{5/10/15/20/25/30/35/40/45/50}%.\n\nTags: Здоровье.",
 			"trTR": "İlave x{5/10/15/20/25/30/35/40/45/50}% Maksimum Can kazan.\n\nTags: Can.",
 			"zhCN": "生命上限额外提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 生命.",
-			"zhTW": "生命值上限提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 生命值."
+			"zhTW": "生命值上限提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 生命值.",
+			"thTH": "ได้รับ x{5/10/15/20/25/30/35/40/45/50}% พลังชีวิตสูงสุด"
 },
 		id: 56,
 		maxPoints: 3,
@@ -2416,7 +2454,8 @@ Tags: Damage Reduction, Elite Monsters.`,
 			"ruRU": "Боевой азарт",
 			"trTR": "Savaş Dinçliği",
 			"zhCN": "勇武活力",
-			"zhTW": "戰爭活力"
+			"zhTW": "戰爭活力",
+			"thTH": "Martial Vigor"
 },
 		descriptionLocalized: {
 			"deDE": "Die Schadensreduktion gegen Elitegegner erhöht sich um {3/6/9/12/15/18/21/24/27/30}%.\n\nTags: Schadensreduktion, Elitemonster.",
@@ -2431,7 +2470,8 @@ Tags: Damage Reduction, Elite Monsters.`,
 			"ruRU": "Урон от особых противников уменьшается на {3/6/9/12/15/18/21/24/27/30}%.\n\nTags: Уменьшение урона, Особые монстры.",
 			"trTR": "Seçkinlere karşı Hasar Azaltma {3/6/9/12/15/18/21/24/27/30}% artar.\n\nTags: Hasar Azaltma, Seçkin Canavarlar.",
 			"zhCN": "面对精英怪时获得的伤害减免提高 {3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 伤害减免, 精英怪物.",
-			"zhTW": "對精英怪物的傷害減免效果提高 {3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 傷害減免, 精英怪物."
+			"zhTW": "對精英怪物的傷害減免效果提高 {3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 傷害減免, 精英怪物.",
+			"thTH": "ได้รับ Damage Reduction จากศัตรู Elite เพิ่มขึ้น {3/6/9/12/15/18/21/24/27/30}%"
 },
 		id: 57,
 		maxPoints: 3,
@@ -2462,7 +2502,8 @@ Tags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Натиск",
 			"trTR": "Hücum",
 			"zhCN": "冲锋",
-			"zhTW": "衝鋒"
+			"zhTW": "衝鋒",
+			"thTH": "Charge"
 },
 		descriptionLocalized: {
 			"deDE": "Attack Speed Multiplier: 1.5\nAbklingzeit: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} Sek.\nGlückstrefferchance: 33% (per hit)\nWerdet unaufhaltsam und stürmt nach vorn, wobei Ihr Gegner mitstoßt und ihnen dann einen Hieb in Höhe von {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% Schaden versetzt und sie zurückstoßt.\n\nTags: Raufbold, Unaufhaltsam, Kontrollverlust, Schaden, Physisch, Abklingzeit.",
@@ -2477,7 +2518,8 @@ Tags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Attack Speed Multiplier: 1.5\nВремя восстановления: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} сек.\nВероятность удачного удара: 33% (per hit)\nВы получаете неудержимость и устремляетесь вперед, толкая противников, а затем взмахиваете оружием, нанося врагам {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% ед. урона и отбрасывая их.\n\nTags: Бой без правил, Неудержимость, Контроль, Урон, Физический урон, Время восстановления.",
 			"trTR": "Attack Speed Multiplier: 1.5\nBekleme Süresi: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} saniye\nŞanslı Vuruş İhtimali: 33% (per hit)\nDurdurulamaz ol ve ileri hücum ederek düşmanları beraberinde sürükledikten sonra onlara darbe indirerek {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% hasar verip onları Geri Savur.\n\nTags: Kapışma, Durdurulamaz, Kitle Kontrolü, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "Attack Speed Multiplier: 1.5\n冷却时间: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸运一击几率: 33% (per hit)\n变得不可阻挡并向前冲锋, 推动接触到的敌人然后从其中间穿过, 造成 {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% 点伤害并将其击退。\n\nTags: 搏斗, 不可阻挡, 群控, 伤害, 物理, 冷却时间.",
-			"zhTW": "Attack Speed Multiplier: 1.5\n冷卻時間:{17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸運觸發機率: 33% (per hit)\n獲得無阻狀態,向前衝刺推動敵人,然後再揮擊武器穿越,造成 {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% 點傷害並擊退他們。\n\nTags: 爭鬥, 無阻, 控場, 傷害, 物理, 冷卻時間."
+			"zhTW": "Attack Speed Multiplier: 1.5\n冷卻時間:{17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸運觸發機率: 33% (per hit)\n獲得無阻狀態,向前衝刺推動敵人,然後再揮擊武器穿越,造成 {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% 點傷害並擊退他們。\n\nTags: 爭鬥, 無阻, 控場, 傷害, 物理, 冷卻時間.",
+			"thTH": "ความเร็วในการโจมตี: 1.5\nCooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit: 33% (per hit)\nเข้าสู่สถานะ Unstoppable และพุ่งชนศัตรู, ศัตรูที่ถูกชนจะได้รับความเสียหาย {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% และถูกผลักออก. \n\nTags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown."
 },
 		id: 58,
 		maxPoints: 5,
@@ -2501,7 +2543,8 @@ Tags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Усиленный натиск",
 			"trTR": "Geliştirilmiş Hücum",
 			"zhCN": "强化冲锋",
-			"zhTW": "強化衝鋒"
+			"zhTW": "強化衝鋒",
+			"thTH": "Enhanced Charge"
 },
 		descriptionLocalized: {
 			"deDE": "Gegner, die von Ansturm in Terrain gestoßen werden, erleiden 15% Schaden und sind 3 Sek. lang betäubt.",
@@ -2516,7 +2559,8 @@ Tags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "При столкновении с препятствиями отброшенные \"Натиском\" противники получают 15% ед. урона и оглушаются на 3 сек.",
 			"trTR": "Hücum ile Geri Savrularak yere çarpan düşmanlar 15% hasar alır ve 3 saniyeliğine Sersemletilir.",
 			"zhCN": "被冲锋的击退效果撞到地形上的敌人受到 15% 点伤害并陷入昏迷状态, 持续 3 秒。",
-			"zhTW": "被衝鋒擊退撞到地形的敵人會受到 15% 點傷害並被擊昏 3 秒。"
+			"zhTW": "被衝鋒擊退撞到地形的敵人會受到 15% 點傷害並被擊昏 3 秒。",
+			"thTH": "ศัตรูที่ถูกผลักออกชนกับสิ่งแวดล้อมจะได้รับความเสียหาย 15% และ Stun เป็นระยะเวลา 3 วินาที"
 },
 		id: 59,
 		maxPoints: 1,
@@ -2540,7 +2584,8 @@ Tags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Внушительный натиск",
 			"trTR": "Güçlü Hücum",
 			"zhCN": "强力冲锋",
-			"zhTW": "強力衝鋒"
+			"zhTW": "強力衝鋒",
+			"thTH": "Power Charge"
 },
 		descriptionLocalized: {
 			"deDE": "Reduziert die Abklingzeit von Ansturm um 3 Sek., wenn ein Gegner in Terrain gestoßen wird.",
@@ -2555,7 +2600,8 @@ Tags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Когда \"Натиск\" отбрасывает противника в препятствие, время восстановления этого умения сокращается на 3 сек.",
 			"trTR": "Hücum, bir düşmanı Geri Savurarak yere çarptırırsa Hücumun Bekleme Süresini 3 saniye azalt.",
 			"zhCN": "如果将敌人击退至地形上, 则冲锋的冷却时间缩短 3 秒。",
-			"zhTW": "若衝鋒將敵人擊退並撞至地形上,其冷卻時間縮短 3 秒。"
+			"zhTW": "若衝鋒將敵人擊退並撞至地形上,其冷卻時間縮短 3 秒。",
+			"thTH": "ลด Cooldown สกิล Charge 3 วินาที หากศัตรูถูกผลักออกชนกับสิ่งแวดล้อม"
 },
 		id: 60,
 		maxPoints: 1,
@@ -2579,7 +2625,8 @@ Tags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Могучий натиск",
 			"trTR": "Kudretli Hücum",
 			"zhCN": "强劲冲锋",
-			"zhTW": "巨力衝鋒"
+			"zhTW": "巨力衝鋒",
+			"thTH": "Mighty Charge"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr Gegnern mit Ansturm Schaden zufügt, sind sie 2 Sek. lang verwundbar.",
@@ -2594,7 +2641,8 @@ Tags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Противники, пораженные \"Натиском\", становятся уязвимыми на 2 сек.",
 			"trTR": "Hücum ile hasar verilen düşmanlar 2 saniyeliğine Savunmasız hâle gelir.",
 			"zhCN": "冲锋对敌人造成伤害的同时也会使其陷入易伤状态, 持续 2 秒。",
-			"zhTW": "受到衝鋒傷害的敵人會易傷 2 秒。"
+			"zhTW": "受到衝鋒傷害的敵人會易傷 2 秒。",
+			"thTH": "ศัตรูที่ได้รับความเสียหายจาก Charge จะอยู่ในสถานะ Vulnerable เป็นระยะเวลา 2 วินาที"
 },
 		id: 61,
 		maxPoints: 1,
@@ -2620,7 +2668,8 @@ Tags: Brawling, Shout, Damage, Cooldown.`,
 			"ruRU": "Воинственный клич",
 			"trTR": "Savaş Narası",
 			"zhCN": "战吼",
-			"zhTW": "戰吼"
+			"zhTW": "戰吼",
+			"thTH": "War Cry"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 25 Sek.\nLasst einen mächtigen Schlachtruf erschallen, der 6 Sek. lang Euren verursachten Schaden um x{15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}% erhöht. Der verursachte Schaden von Verbündeten in der Nähe wird 3 Sek. lang erhöht.\n\nTags: Raufbold, Ruf, Schaden, Abklingzeit.",
@@ -2635,7 +2684,8 @@ Tags: Brawling, Shout, Damage, Cooldown.`,
 			"ruRU": "Время восстановления: 25 сек.\nМощный воинственный клич увеличивает наносимый вами урон на x{15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}% на 6 сек. Усиливает находящихся рядом союзников на 3 сек.\n\nTags: Бой без правил, Крик, Урон, Время восстановления.",
 			"trTR": "Bekleme Süresi: 25 saniye\nKudretli bir savaş narası atarak verilen hasarı kendin için 6, Yakındaki müttefikler için 3 saniyeliğine x{15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}% artır.\n\nTags: Kapışma, Çığlık, Hasar, Bekleme Süresi.",
 			"zhCN": "冷却时间: 25 秒\n发出震天动地的战吼。你造成的伤害提高 x{15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}%, 持续 6 秒, 附近的盟友持续 3 秒。\n\nTags: 搏斗, 战吼, 伤害, 冷却时间.",
-			"zhTW": "冷卻時間: 25 秒\n發出強力戰吼。使你和附近盟友造成的傷害提高 x{15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}%。你的效果持續 6 秒,附近盟友的效果持續 3 秒。\n\nTags: 爭鬥, 怒吼, 傷害, 冷卻時間."
+			"zhTW": "冷卻時間: 25 秒\n發出強力戰吼。使你和附近盟友造成的傷害提高 x{15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}%。你的效果持續 6 秒,附近盟友的效果持續 3 秒。\n\nTags: 爭鬥, 怒吼, 傷害, 冷卻時間.",
+			"thTH": "Cooldown: 25 วินาที\nเพิ่มพลังโจมตี x{15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}% ให้แก่คุณ 6 วินาที, และพันธมิตรรอบตัว 3 วินาที . \n\nTags: Brawling, Shout, Damage, Cooldown."
 },
 		id: 62,
 		maxPoints: 5,
@@ -2659,7 +2709,8 @@ Tags: Brawling, Shout, Damage, Cooldown.`,
 			"ruRU": "Усиленный воинственный клич",
 			"trTR": "Geliştirilmiş Savaş Narası",
 			"zhCN": "强化战吼",
-			"zhTW": "強化戰吼"
+			"zhTW": "強化戰吼",
+			"thTH": "Enhanced War Cry"
 },
 		descriptionLocalized: {
 			"deDE": "Kriegsschrei versetzt Euch 4 Sek. lang in den Berserkermodus.",
@@ -2674,7 +2725,8 @@ Tags: Brawling, Shout, Damage, Cooldown.`,
 			"ruRU": "\"Воинственный клич\" дает вам эффект берсерк на 4 сек.",
 			"trTR": "Savaş Narası sana 4 saniyeliğine Başıbozukluk kazandırır.",
 			"zhCN": "战吼使你获得狂暴, 持续 4 秒。",
-			"zhTW": "戰吼使你狂暴,持續 4 秒。"
+			"zhTW": "戰吼使你狂暴,持續 4 秒。",
+			"thTH": "War Cry จะมอบสถานะ Berserking เป็นระยะเวลา 4 วินาที"
 },
 		id: 63,
 		maxPoints: 1,
@@ -2698,7 +2750,8 @@ Tags: Brawling, Shout, Damage, Cooldown.`,
 			"ruRU": "Внушительный воинственный клич",
 			"trTR": "Güçlü Savaş Narası",
 			"zhCN": "强力战吼",
-			"zhTW": "強力戰吼"
+			"zhTW": "強力戰吼",
+			"thTH": "Power War Cry"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn sich beim Wirken von Kriegsschrei mindestens 6 Gegner in der Nähe befinden, erhöht sich Euer Schadensbonus zusätzlich um x10%.",
@@ -2713,7 +2766,8 @@ Tags: Brawling, Shout, Damage, Cooldown.`,
 			"ruRU": "Если вы применяете \"Воинственный клич\", когда рядом есть не менее 6 противников, наносимый урон увеличивается еще на x10%.",
 			"trTR": "Savaş Narası kullandığında Yakında en az 6 düşman varsa hasar bonusun ek olarak x10% artar.",
 			"zhCN": "如果施放战吼时附近有至少 6 名敌人, 你的伤害加成额外提高 x10%。",
-			"zhTW": "如果施放戰吼時附近有至少 6 個敵人,你的傷害加成額外提高 x10%。"
+			"zhTW": "如果施放戰吼時附近有至少 6 個敵人,你的傷害加成額外提高 x10%。",
+			"thTH": "หากมีศัตรูอยู่รอบตัวอย่างน้อย 6 ตัว เมื่อคุณใช้สกิล War Cry, จะได้รับพลังโจมตีเพิ่มขึ้นอีก x10%"
 },
 		id: 64,
 		maxPoints: 1,
@@ -2737,7 +2791,8 @@ Tags: Brawling, Shout, Damage, Cooldown.`,
 			"ruRU": "Мощный воинственный клич",
 			"trTR": "Kudretli Savaş Narası",
 			"zhCN": "强劲战吼",
-			"zhTW": "巨力戰吼"
+			"zhTW": "巨力戰吼",
+			"thTH": "Mighty War Cry"
 },
 		descriptionLocalized: {
 			"deDE": "Kriegsschrei verleiht Euch 15% Basisleben als Stählung.",
@@ -2752,7 +2807,8 @@ Tags: Brawling, Shout, Damage, Cooldown.`,
 			"ruRU": "\"Воинственный клич\" дает вам укрепление в объеме 15% базового запаса здоровья.",
 			"trTR": "Savaş Narası sana 15% Temel Canı Güçlendirme olarak kazandırır.",
 			"zhCN": "战吼强固你 15% 基础生命。",
-			"zhTW": "戰吼可賦予你等同 15% 基礎生命值的強韌。"
+			"zhTW": "戰吼可賦予你等同 15% 基礎生命值的強韌。",
+			"thTH": "War Cry จะมอบ Fortify เป็นจำนวน 15% ของพลังชีวิตพื้นฐาน"
 },
 		id: 65,
 		maxPoints: 1,
@@ -2777,7 +2833,8 @@ Tags: Shout.`,
 			"ruRU": "Громогласность",
 			"trTR": "Gürleyen Ses",
 			"zhCN": "震耳嗓音",
-			"zhTW": "震耳迴盪"
+			"zhTW": "震耳迴盪",
+			"thTH": "Booming Voice"
 },
 		descriptionLocalized: {
 			"deDE": "Die Dauer Eurer Rufeffekte erhöht sich um x{8/16/24/32/40/48/56/64/72/80}%.\n\nTags: Ruf.",
@@ -2792,7 +2849,8 @@ Tags: Shout.`,
 			"ruRU": "Ваши \"Крики\" действуют на x{8/16/24/32/40/48/56/64/72/80}% дольше.\n\nTags: Крик.",
 			"trTR": "Çığlık Yeteneği etkilerinin süresi x{8/16/24/32/40/48/56/64/72/80}% artar.\n\nTags: Çığlık.",
 			"zhCN": "你的战吼技能效果的持续时间延长 x{8/16/24/32/40/48/56/64/72/80}%。\n\nTags: 战吼.",
-			"zhTW": "你的怒吼技能效果持續時間延長 x{8/16/24/32/40/48/56/64/72/80}%。\n\nTags: 怒吼."
+			"zhTW": "你的怒吼技能效果持續時間延長 x{8/16/24/32/40/48/56/64/72/80}%。\n\nTags: 怒吼.",
+			"thTH": "ผลของสกิล Shout ของคุณจะมีระยะเวลานานขึ้น x{8/16/24/32/40/48/56/64/72/80}%"
 },
 		id: 66,
 		maxPoints: 3,
@@ -2817,7 +2875,8 @@ Tags: Shout, Healing.`,
 			"ruRU": "Лидер рейда",
 			"trTR": "Baskın Lideri",
 			"zhCN": "团战领袖",
-			"zhTW": "團隊領袖"
+			"zhTW": "團隊領袖",
+			"thTH": "Raid Leader"
 },
 		descriptionLocalized: {
 			"deDE": "Eure Rufe heilen außerdem Eure Verbündeten um {1/2/3/4/5/6/7/8/9/10}% ihres maximalen Lebens pro Sekunde.\n\nTags: Ruf, Heilung.",
@@ -2832,7 +2891,8 @@ Tags: Shout, Healing.`,
 			"ruRU": "Ваши боевые крики также восполняют союзникам {1/2/3/4/5/6/7/8/9/10}% максимального запаса здоровья раз в секунду.\n\nTags: Крик, Исцеление.",
 			"trTR": "Çığlıkların ayrıca müttefiklerini saniye başına Maksimum Canlarının {1/2/3/4/5/6/7/8/9/10}% kadarına eşit İyileştirir.\n\nTags: Çığlık, İyileşme.",
 			"zhCN": "你的战吼也会使盟友每秒恢复 {1/2/3/4/5/6/7/8/9/10}%生命上限。\n\nTags: 战吼, 治疗.",
-			"zhTW": "你的怒吼也會使盟友每秒恢復其生命值上限的 {1/2/3/4/5/6/7/8/9/10}%。\n\nTags: 怒吼, 治療."
+			"zhTW": "你的怒吼也會使盟友每秒恢復其生命值上限的 {1/2/3/4/5/6/7/8/9/10}%。\n\nTags: 怒吼, 治療.",
+			"thTH": "สกิล Shout ของคุณจะฟื้นฟูพลังชีวิตให้แก่พันธมิตรเป็นจำนวน {1/2/3/4/5/6/7/8/9/10}% ต่อวินาที ของพลังชีวิตสูงสุดของพวกเขา"
 },
 		id: 67,
 		maxPoints: 3,
@@ -2857,7 +2917,8 @@ Tags: Damage Reduction, Shout.`,
 			"ruRU": "Утробный рев",
 			"trTR": "Gırtlaktan Bağırma",
 			"zhCN": "低沉咆哮",
-			"zhTW": "嘶聲狂吼"
+			"zhTW": "嘶聲狂吼",
+			"thTH": "Guttural Yell"
 },
 		descriptionLocalized: {
 			"deDE": "Eure Ruffertigkeiten lassen Gegner 5 Sek. lang {4/8/12/16/20/24/28/32/36/40}% weniger Schaden verursachen.\n\nTags: Schadensreduktion, Ruf.",
@@ -2872,7 +2933,8 @@ Tags: Damage Reduction, Shout.`,
 			"ruRU": "Ваши \"Крики\" уменьшают наносимый противниками урон на {4/8/12/16/20/24/28/32/36/40}% на 5 сек.\n\nTags: Уменьшение урона, Крик.",
 			"trTR": "Çığlık Yeteneklerin düşmanların 5 saniyeliğine {4/8/12/16/20/24/28/32/36/40}% daha az hasar vermesine neden olur.\n\nTags: Hasar Azaltma, Çığlık.",
 			"zhCN": "你的战吼技能使敌人造成的伤害降低 {4/8/12/16/20/24/28/32/36/40}%, 持续 5 秒。\n\nTags: 伤害减免, 战吼.",
-			"zhTW": "你的怒吼技能會使敵人造成的傷害降低 {4/8/12/16/20/24/28/32/36/40}%,持續 5 秒。\n\nTags: 傷害減免, 怒吼."
+			"zhTW": "你的怒吼技能會使敵人造成的傷害降低 {4/8/12/16/20/24/28/32/36/40}%,持續 5 秒。\n\nTags: 傷害減免, 怒吼.",
+			"thTH": "สกิล Shout ของคุณจะทำให้ศัตรูทำความเสียหายน้อยลง {4/8/12/16/20/24/28/32/36/40}% เป็นระยะเวลา 5 วินาที"
 },
 		id: 68,
 		maxPoints: 3,
@@ -2900,7 +2962,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Прыжок",
 			"trTR": "Sıçra",
 			"zhCN": "腾空斩",
-			"zhTW": "躍擊"
+			"zhTW": "躍擊",
+			"thTH": "Leap"
 },
 		descriptionLocalized: {
 			"deDE": "Attack Speed Multiplier: 1.3\nAbklingzeit: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} Sek.\nGlückstrefferchance: 66% (per hit)\nSpringt nach vorn und schmettert nach unten, um Gegnern in der Nähe beim Aufprall {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% Schaden zuzufügen und sie zurückzustoßen.\n\nTags: Raufbold, Kontrollverlust, Schaden, Physisch, Abklingzeit.",
@@ -2915,7 +2978,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Attack Speed Multiplier: 1.3\nВремя восстановления: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} сек.\nВероятность удачного удара: 66% (per hit)\nВы прыгаете вперед и проводите удар, нанося {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% ед. урона и отбрасывая противников в точке приземления.\n\nTags: Бой без правил, Контроль, Урон, Физический урон, Время восстановления.",
 			"trTR": "Attack Speed Multiplier: 1.3\nBekleme Süresi: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} saniye\nŞanslı Vuruş İhtimali: 66% (per hit)\nİleri sıçrayıp yere vurarak {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% hasar ver ve çarpma anında etraftaki düşmanları Geriye Savur.\n\nTags: Kapışma, Kitle Kontrolü, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "Attack Speed Multiplier: 1.3\n冷却时间: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸运一击几率: 66% (per hit)\n向前跳跃然后落地猛击, 造成 {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% 点伤害并在命中时击退周围的敌人。\n\nTags: 搏斗, 群控, 伤害, 物理, 冷却时间.",
-			"zhTW": "Attack Speed Multiplier: 1.3\n冷卻時間:{17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸運觸發機率: 66% (per hit)\n猛力一躍並向下重擊,落地時造成 {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% 點傷害並擊退附近的敵人。\n\nTags: 爭鬥, 控場, 傷害, 物理, 冷卻時間."
+			"zhTW": "Attack Speed Multiplier: 1.3\n冷卻時間:{17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸運觸發機率: 66% (per hit)\n猛力一躍並向下重擊,落地時造成 {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% 點傷害並擊退附近的敵人。\n\nTags: 爭鬥, 控場, 傷害, 物理, 冷卻時間.",
+			"thTH": "ความเร็วในการโจมตี: 1.3\nCooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit: (ต่อครั้ง)\nพุ่งเข้าหาศัตรูทำความเสียหาย . \n\nTags: ."
 },
 		id: 69,
 		maxPoints: 5,
@@ -2939,7 +3003,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Усиленный прыжок",
 			"trTR": "Geliştirilmiş Sıçra",
 			"zhCN": "强化腾空斩",
-			"zhTW": "強化躍擊"
+			"zhTW": "強化躍擊",
+			"thTH": "Enhanced Leap"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Sprung keinen Gegnern Schaden zufügt, verringert sich die Abklingzeit um 4 Sek.",
@@ -2954,7 +3019,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Если \"Прыжок\" не наносит урон ни одному противнику, его время восстановления сокращается на 4 сек.",
 			"trTR": "Sıçra herhangi bir düşmana hasar vermezse Bekleme Süresi 4 saniye azalır.",
 			"zhCN": "如果腾空斩没有对任何敌人造成伤害, 则其冷却时间缩短 4 秒。",
-			"zhTW": "如果躍擊未對敵人造成傷害,冷卻時間會縮短 4 秒。"
+			"zhTW": "如果躍擊未對敵人造成傷害,冷卻時間會縮短 4 秒。",
+			"thTH": "หากสกิล Leap ไม่ได้ทำความเสียหายแก่ศัตรู, ลด Cooldown 4 วินาที"
 },
 		id: 70,
 		maxPoints: 1,
@@ -2978,7 +3044,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Могучий прыжок",
 			"trTR": "Kudretli Sıçra",
 			"zhCN": "强劲腾空斩",
-			"zhTW": "巨力躍擊"
+			"zhTW": "巨力躍擊",
+			"thTH": "Mighty Leap"
 },
 		descriptionLocalized: {
 			"deDE": "Gegner, die durch Sprung Schaden erleiden, werden 5 Sek. lang um 50% verlangsamt.",
@@ -2993,7 +3060,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Нанеся урон противникам, \"Прыжок\" замедляет их на 50% на 5 сек.",
 			"trTR": "Sıçra ile hasar verilen düşmanlar 5 saniyeliğine 50% Yavaşlatılır.",
 			"zhCN": "腾空斩对敌人造成伤害会使其减速 50%, 持续 5 秒。",
-			"zhTW": "受到躍擊傷害的敵人會遭到緩速 50%,持續 5 秒。"
+			"zhTW": "受到躍擊傷害的敵人會遭到緩速 50%,持續 5 秒。",
+			"thTH": "ศัตรูที่ได้รับความเสียหายจาก Leap จะอยู่ในสถานะ Slowed 50% เป็นระยะเวลา 5 วินาที"
 },
 		id: 71,
 		maxPoints: 1,
@@ -3017,7 +3085,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Внушительный прыжок",
 			"trTR": "Güçlü Sıçra",
 			"zhCN": "强力腾空斩",
-			"zhTW": "強力躍擊"
+			"zhTW": "強力躍擊",
+			"thTH": "Power Leap"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Sprung mindestens einem Gegner Schaden zufügt, erhaltet Ihr 40 Wut.",
@@ -3032,7 +3101,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Если \"Прыжок\" наносит урон хотя бы одному противнику, вы накапливаете 40 ед. ярости.",
 			"trTR": "Sıçra en az bir düşmana hasar verirse 40 Hiddet kazan.",
 			"zhCN": "如果腾空斩对至少一名敌人造成伤害, 则获得 40 点怒气。",
-			"zhTW": "躍擊對至少一個敵人造成傷害時,你會獲得 40 點怒氣。"
+			"zhTW": "躍擊對至少一個敵人造成傷害時,你會獲得 40 點怒氣。",
+			"thTH": "หาก Leap ทำความเสียหายศัตรูอย่างน้อยหนึ่งตัว, จะได้รับ 40 Fury"
 },
 		id: 72,
 		maxPoints: 1,
@@ -3060,7 +3130,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Удар ногой",
 			"trTR": "Tekme",
 			"zhCN": "踢击",
-			"zhTW": "踢擊"
+			"zhTW": "踢擊",
+			"thTH": "Kick"
 },
 		descriptionLocalized: {
 			"deDE": "Aufladungen: 2\nAufladungsabklingzeit: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} Sek.\nGlückstrefferchance: 40% (per hit)\nFührt einen kräftigen Tritt aus, der 18% Schaden verursacht und Gegner vor Euch zurückstößt. Gegner, die in Terrain gestoßen werden, erleiden 54% Schaden und sind 3 Sek. lang betäubt.\n\nTags: Raufbold, Kontrollverlust, Schaden, Physisch, Abklingzeit.",
@@ -3075,7 +3146,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Количество зарядов: 2.\nВремя восстановления заряда: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} сек.\nВероятность удачного удара: 40% (per hit)\nВы с силой бьете ногой, нанося 18% ед. урона и отбрасывая противников перед собой. При столкновении с препятствиями отброшенные противники получают еще 54% ед. урона и оглушаются на 3 сек.\n\nTags: Бой без правил, Контроль, Урон, Физический урон, Время восстановления.",
 			"trTR": "Yük: 2\nYük Bekleme Süresi: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} saniye\nŞanslı Vuruş İhtimali: 40% (per hit)\n18% hasar veren ve önündeki düşmanları Geri Savuran güçlü bir tekme at. Geri Savrularak yeren çarpan düşmanlar ilave 54% hasar alır ve 3 saniyeliğine Sersemletilir.\n\nTags: Kapışma, Kitle Kontrolü, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "使用次数: 2\n充能冷却时间: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸运一击几率: 40% (per hit)\n发起一次强力踢击, 对你面前的敌人造成 18% 点伤害并将其击退。被击退至地形上的敌人额外受到 54% 点伤害并陷入昏迷, 持续 3 秒。\n\nTags: 搏斗, 群控, 伤害, 物理, 冷却时间.",
-			"zhTW": "使用次數:2\n使用次數恢復時間:{17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸運觸發機率: 40% (per hit)\n對你前方的敵人施展踢擊,造成 18% 點傷害並將敵人擊退。遭擊退時撞到地形的敵人會額外受到 54% 點傷害,並被擊昏 3 秒。\n\nTags: 爭鬥, 控場, 傷害, 物理, 冷卻時間."
+			"zhTW": "使用次數:2\n使用次數恢復時間:{17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸運觸發機率: 40% (per hit)\n對你前方的敵人施展踢擊,造成 18% 點傷害並將敵人擊退。遭擊退時撞到地形的敵人會額外受到 54% 點傷害,並被擊昏 3 秒。\n\nTags: 爭鬥, 控場, 傷害, 物理, 冷卻時間.",
+			"thTH": "Charges: 2\nCharge Cooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit Chance: 40% (per hit)\n ทำความเสียหาย 18% แก่ศัตรูด้านหน้า และผลักออก, ศัตรูที่ถูกผลักออกชนกับสิ่งแวดล้อมจะได้รับความเสียหายเพิ่มเติม 54% และ Stun เป็นระยะเวลา 3 วินาที"
 },
 		id: 73,
 		maxPoints: 5,
@@ -3099,7 +3171,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Усиленный удар ногой",
 			"trTR": "Geliştirilmiş Tekme",
 			"zhCN": "强化踢击",
-			"zhTW": "強化踢擊"
+			"zhTW": "強化踢擊",
+			"thTH": "Enhanced Kick"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr Gegnern mit Tritt Schaden zufügt, sind sie 4 Sek. lang verwundbar.",
@@ -3114,7 +3187,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Противники, пораженные \"Ударом ногой\", становятся уязвимыми на 4 сек.",
 			"trTR": "Tekme ile hasar verilen düşmanlar 4 saniyeliğine Savunmasız hâle gelir.",
 			"zhCN": "踢击对敌人造成伤害的同时也会使其陷入易伤状态, 持续 4 秒。",
-			"zhTW": "受到踢擊傷害的敵人會易傷,持續 4 秒。"
+			"zhTW": "受到踢擊傷害的敵人會易傷,持續 4 秒。",
+			"thTH": "ศัตรูที่ถูกทำความเสียหายด้วยสกิล Kick จะอยู่ในสถานะ Vulnerable เป็นระยะเวลา 4 วินาที"
 },
 		id: 74,
 		maxPoints: 1,
@@ -3138,7 +3212,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Могучий удар ногой",
 			"trTR": "Kudretli Tekme",
 			"zhCN": "强劲踢击",
-			"zhTW": "巨力踢擊"
+			"zhTW": "巨力踢擊",
+			"thTH": "Mighty Kick"
 },
 		descriptionLocalized: {
 			"deDE": "Gegner, die von Tritt getroffen und zurückgestoßen wurden, fügen Gegnern, mit denen sie zusammenstoßen, 54% Schaden zu. Gegner, die auf diese Art Schaden erleiden, werden 2 Sek. lang niedergeschlagen.",
@@ -3153,7 +3228,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Противники, отброшенные \"Ударом ногой\", наносят 54% ед. урона целям, с которыми они сталкиваются по пути. Тех, в свою очередь, столкновение сбивает с ног на 2 сек.",
 			"trTR": "Tekmelenmiş düşmanlar Geri Savrulurken çarptıkları düşmanlara 54% hasar verir. Bu şekilde hasar alan düşmanlar 2 saniyeliğine Yere Serilir.",
 			"zhCN": "被踢击击退的敌人碰撞到其他敌人时对其造成 54% 点伤害。受到该伤害的敌人会被击倒 2 秒。",
-			"zhTW": "遭踢擊擊退的敵人撞到其他敵人時會造成 54% 點傷害。受到此傷害的敵人會被擊倒 2 秒。"
+			"zhTW": "遭踢擊擊退的敵人撞到其他敵人時會造成 54% 點傷害。受到此傷害的敵人會被擊倒 2 秒。",
+			"thTH": "เมื่อศัตรูที่ถูกผลักออกจะทำความเสียหาย 54% แก่ศัตรูที่ขวางทาง, ศัตรูที่ได้รับความเสียหายนี้จะอยู่ในสถานะ Knocked Down เป็นระยะเวลา 2 วินาที"
 },
 		id: 75,
 		maxPoints: 1,
@@ -3177,7 +3253,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Внушительный удар ногой",
 			"trTR": "Güçlü Tekme",
 			"zhCN": "强力踢击",
-			"zhTW": "強力踢擊"
+			"zhTW": "強力踢擊",
+			"thTH": "Power Kick"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Tritt einem Gegner Schaden zufügt, verbraucht die Fertigkeit Eure gesamte Wut und verursacht zusätzlich 20% Schaden pro 10 verbrauchter Wut. Tritt stößt Gegner nicht länger zurück.",
@@ -3192,7 +3269,8 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Когда \"Удар ногой\" наносит противнику урон, он поглощает весь запас ярости и наносит еще по 20% ед. урона за 10 ед. потраченной ярости. \"Удар ногой\" больше не отбрасывает противников.",
 			"trTR": "Tekme bir düşmana hasar verirse tüm Hiddetini tüketir ve harcanan 10 Hiddet başına ilave 20% hasar verir. Tekme artık düşmanları Geri Savurmaz.",
 			"zhCN": "踢击对一名敌人造成伤害会消耗你的所有怒气, 并且每消耗 10 点怒气造成额外 20% 点伤害。踢击不再击退敌人。",
-			"zhTW": "踢擊對敵人造成傷害時會消耗所有怒氣,每消耗 10 點怒氣便額外造成 20% 點傷害。但踢擊不再擊退敵人。"
+			"zhTW": "踢擊對敵人造成傷害時會消耗所有怒氣,每消耗 10 點怒氣便額外造成 20% 點傷害。但踢擊不再擊退敵人。",
+			"thTH": "เมื่อสกิล Kick ทำความเสียหาย, จะใช้ Fury ทั้งหมดที่คุณมี และทำความเสียหายเพิ่มเติม 20% ต่อจำนวน 10 Fury ที่ใช้, สกิล Kick จะไม่ผลักศัตรูออก."
 },
 		id: 76,
 		maxPoints: 1,
@@ -3217,7 +3295,8 @@ Tags: Berserking, Damage Reduction.`,
 			"ruRU": "Яростное сопротивление",
 			"trTR": "Agresif Direnç",
 			"zhCN": "以攻为守",
-			"zhTW": "激烈抵抗"
+			"zhTW": "激烈抵抗",
+			"thTH": "Aggressive Resistance"
 },
 		descriptionLocalized: {
 			"deDE": "Erhaltet im Berserkermodus {3/6/9/12/15/18/21/24/27/30}% Schadensreduktion.\n\nTags: Berserkermodus, Schadensreduktion.",
@@ -3232,7 +3311,8 @@ Tags: Berserking, Damage Reduction.`,
 			"ruRU": "В состоянии берсерка вы получаете на {3/6/9/12/15/18/21/24/27/30}% меньше урона.\n\nTags: Берсерк, Уменьшение урона.",
 			"trTR": "Başıbozukluk sırasında {3/6/9/12/15/18/21/24/27/30}% Hasar Azaltma kazan.\n\nTags: Başıbozukluk, Hasar Azaltma.",
 			"zhCN": "狂暴状态下获得 {3/6/9/12/15/18/21/24/27/30}% 伤害减免。\n\nTags: 狂暴, 伤害减免.",
-			"zhTW": "狂暴時,你獲得 {3/6/9/12/15/18/21/24/27/30}% 傷害減免。\n\nTags: 狂暴, 傷害減免."
+			"zhTW": "狂暴時,你獲得 {3/6/9/12/15/18/21/24/27/30}% 傷害減免。\n\nTags: 狂暴, 傷害減免.",
+			"thTH": "ได้รับ {3/6/9/12/15/18/21/24/27/30}% Damage Reduction ในขณะที่อยู่ในสถานะ Berserking"
 },
 		id: 77,
 		maxPoints: 3,
@@ -3257,7 +3337,8 @@ Tags: Berserking, Fury.`,
 			"ruRU": "Живительная ярость",
 			"trTR": "Verimli Hiddet",
 			"zhCN": "充沛怒气",
-			"zhTW": "怒氣湧現"
+			"zhTW": "怒氣湧現",
+			"thTH": "Prolific Fury"
 },
 		descriptionLocalized: {
 			"deDE": "Im Berserkermodus erhöht sich Eure Wuterzeugung um x{6/12/18/24/30/36/42/48/54/60}%.\n\nTags: Berserkermodus, Wut.",
@@ -3272,7 +3353,8 @@ Tags: Berserking, Fury.`,
 			"ruRU": "В состоянии берсерка вы накапливаете на x{6/12/18/24/30/36/42/48/54/60}% больше ярости.\n\nTags: Берсерк, Ярость.",
 			"trTR": "Başıbozukluk sırasında Hiddet Üretimi x{6/12/18/24/30/36/42/48/54/60}% artar.\n\nTags: Başıbozukluk, Hiddet.",
 			"zhCN": "狂暴状态下, 怒气生成速度提高 x{6/12/18/24/30/36/42/48/54/60}%。\n\nTags: 狂暴, 怒气.",
-			"zhTW": "在狂暴持續期間,怒氣產生提高 x{6/12/18/24/30/36/42/48/54/60}%。\n\nTags: 狂暴, 怒氣."
+			"zhTW": "在狂暴持續期間,怒氣產生提高 x{6/12/18/24/30/36/42/48/54/60}%。\n\nTags: 狂暴, 怒氣.",
+			"thTH": "ในขณะที่อยู่ในสถานะ Berserking, การฟื้นฟู Fury จะเพิ่มขึ้น x{6/12/18/24/30/36/42/48/54/60}%."
 },
 		id: 78,
 		maxPoints: 3,
@@ -3297,7 +3379,8 @@ Tags: Berserking, Brawling.`,
 			"ruRU": "Боевое рвение",
 			"trTR": "Savaş Coşkusu",
 			"zhCN": "战斗狂热",
-			"zhTW": "戰鬥狂熱"
+			"zhTW": "戰鬥狂熱",
+			"thTH": "Battle Fervor"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn eine Raufboldfertigkeit mindestens einem Gegner Schaden zufügt, verfallt Ihr {1/2/3/4/5/6/7/8/9/10} Sek. lang in den Berserkermodus.\n\nTags: Berserkermodus, Raufbold.",
@@ -3312,7 +3395,8 @@ Tags: Berserking, Brawling.`,
 			"ruRU": "Когда вы поражаете хотя бы одного противника умением категории \"Бой без правил\", вы получаете эффект берсерк на {1/2/3/4/5/6/7/8/9/10} сек.\n\nTags: Берсерк, Бой без правил.",
 			"trTR": "Bir Kapışma Yeteneği en az bir düşmana hasar verirse {1/2/3/4/5/6/7/8/9/10} saniyeliğine Başıbozukluk kazan.\n\nTags: Başıbozukluk, Kapışma.",
 			"zhCN": "搏斗技能至少对一名敌人造成伤害时获得狂暴效果, 持续 {1/2/3/4/5/6/7/8/9/10} 秒。\n\nTags: 狂暴, 搏斗.",
-			"zhTW": "爭鬥技能對至少一個敵人造成傷害時,你會獲得狂暴,持續 {1/2/3/4/5/6/7/8/9/10} 秒。\n\nTags: 狂暴, 爭鬥."
+			"zhTW": "爭鬥技能對至少一個敵人造成傷害時,你會獲得狂暴,持續 {1/2/3/4/5/6/7/8/9/10} 秒。\n\nTags: 狂暴, 爭鬥.",
+			"thTH": "เมื่อใช้สกิล Brawling ทำความเสียหายศัตรูอย่างน้อย 1 ตัว, ได้รับสถานะ Berserking เป็นระยะเวลา {1/2/3/4/5/6/7/8/9/10} วินาที"
 },
 		id: 125,
 		maxPoints: 3,
@@ -3337,7 +3421,8 @@ Tags: Movement.`,
 			"ruRU": "Быстрота",
 			"trTR": "Çabukluk",
 			"zhCN": "身手矫健",
-			"zhTW": "迅捷"
+			"zhTW": "迅捷",
+			"thTH": "Swiftness"
 },
 		descriptionLocalized: {
 			"deDE": "Bewegungsgeschwindigkeit erhöht sich um +{4/8/12/16/20/24/28/32/36/40}%.\n\nTags: Bewegung.",
@@ -3352,7 +3437,8 @@ Tags: Movement.`,
 			"ruRU": "Скорость передвижения повышается на +{4/8/12/16/20/24/28/32/36/40}%.\n\nTags: Движение.",
 			"trTR": "Hareket Hızı +{4/8/12/16/20/24/28/32/36/40}% artar.\n\nTags: Hareket.",
 			"zhCN": "移动速度提高 +{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 移动.",
-			"zhTW": "移動速度提高 +{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 移動."
+			"zhTW": "移動速度提高 +{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 移動.",
+			"thTH": "เพิ่มความเร็วในการเคลื่อนที่ +{4/8/12/16/20/24/28/32/36/40}%"
 },
 		id: 80,
 		maxPoints: 3,
@@ -3377,7 +3463,8 @@ Tags: Crowd Control.`,
 			"ruRU": "Стремительные инстинкты",
 			"trTR": "Hızlı Dürtüler",
 			"zhCN": "怒发冲冠",
-			"zhTW": "血氣方剛"
+			"zhTW": "血氣方剛",
+			"thTH": "Quick Impulses"
 },
 		descriptionLocalized: {
 			"deDE": "Reduziert die Dauer von Kontrollverlusteffekten um {6/12/18/24/30/36/42/48/54/60}%.\n\nTags: Kontrollverlust.",
@@ -3392,7 +3479,8 @@ Tags: Crowd Control.`,
 			"ruRU": "Время действия эффектов контроля сокращается на {6/12/18/24/30/36/42/48/54/60}%.\n\nTags: Контроль.",
 			"trTR": "Kontrol Engelleyici Etkilerin süresini {6/12/18/24/30/36/42/48/54/60}% azalt.\n\nTags: Kitle Kontrolü.",
 			"zhCN": "控制类限制效果的持续时间缩短 {6/12/18/24/30/36/42/48/54/60}%。\n\nTags: 群控.",
-			"zhTW": "控場效果的持續時間縮短 {6/12/18/24/30/36/42/48/54/60}%。\n\nTags: 控場."
+			"zhTW": "控場效果的持續時間縮短 {6/12/18/24/30/36/42/48/54/60}%。\n\nTags: 控場.",
+			"thTH": "ลดระยะเวลา Control Impairing ที่คุณได้รับ {6/12/18/24/30/36/42/48/54/60}%"
 },
 		id: 81,
 		maxPoints: 3,
