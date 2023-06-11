@@ -68,7 +68,8 @@ Tags: Basic, Darkness, Channeled, Damage, Shadow Damage Over Time, Essence, Corp
 			"ruRU": "Распад",
 			"trTR": "Çürüme",
 			"zhCN": "分解",
-			"zhTW": "分解"
+			"zhTW": "分解",
+			"thTH": "Decompose"
 },
 		descriptionLocalized: {
 			"deDE": "Erzeugte Essenz: 7 pro Sekunde\nGlückstrefferchance: 40% (per use)\nReißt das Fleisch von den Knochen eines Gegners, verursacht {30/33/36/39/42/45/48/51/54/57}% Schaden pro Sekunde und bildet aus dem Fleisch alle 2.5 Sek. eine nutzbare Leiche.\n\nTags: Basis, Dunkelheit, Kanalisiert, Schaden, Schattenschaden über Zeit, Essenz, Leiche.",
@@ -83,7 +84,8 @@ Tags: Basic, Darkness, Channeled, Damage, Shadow Damage Over Time, Essence, Corp
 			"ruRU": "Дает эссенцию: 7 ед. в сек.\nВероятность удачного удара: 40% (per use)\nВы вырываете плоть противника, нанося {30/33/36/39/42/45/48/51/54/57}% ед. урона в секунду. Создает труп раз в 2.5 сек.\n\nTags: Базовое, Тьма, Поддерживаемое, Урон, Периодический урон от темной магии, Эссенция, Труп.",
 			"trTR": "Öz Üret: Saniyede 7\nŞanslı Vuruş İhtimali: 40% (per use)\nBir düşmanın etini ayırarak saniyede {30/33/36/39/42/45/48/51/54/57}% hasar ver ve her 2.5 saniyede bir kez kullanılabilir bir Ceset oluştur.\n\nTags: Temel, Karanlık, Yönlendirmeli, Hasar, Zamanla Gölge Hasarı, Öz, Ceset.",
 			"zhCN": "生成精魂: 每秒 7 点\n幸运一击几率: 40% (per use)\n从敌人身上撕扯血肉, 每秒造成 {30/33/36/39/42/45/48/51/54/57}% 点伤害, 并且每 2.5 秒用这些血肉塑成一具可以使用的亡骸。\n\nTags: 基础, 黑暗, 引导, 伤害, 持续性暗影伤害, 精魂, 亡骸.",
-			"zhTW": "產生魂能:每秒 7 點\n幸運觸發機率:40% (per use)\n撕裂敵人的血肉,每秒造成 {30/33/36/39/42/45/48/51/54/57}% 點傷害,並且每 2.5 秒利用血肉生成一具可使用的屍體。\n\nTags: 基本, 黑暗, 引導, 傷害, 暗影持續傷害, 魂能, 屍體."
+			"zhTW": "產生魂能:每秒 7 點\n幸運觸發機率:40% (per use)\n撕裂敵人的血肉,每秒造成 {30/33/36/39/42/45/48/51/54/57}% 點傷害,並且每 2.5 秒利用血肉生成一具可使用的屍體。\n\nTags: 基本, 黑暗, 引導, 傷害, 暗影持續傷害, 魂能, 屍體.",
+			"thTH": "ได้รับ Essence: 7 ต่อวินาที\nLucky Hit Chance: 40% (per use)\nทำความเสียหาย {30/33/36/39/42/45/48/51/54/57}% ทุกวินาทีแก่ศัตรู และสร้างซากศพทุก 2.5 วินาที\nTags: Basic, Darkness, Channeled, Damage, Shadow Damage Over Time, Essence, Corpse."
 },
 		id: 0,
 		maxPoints: 5,
@@ -107,7 +109,8 @@ Tags: Basic, Darkness, Channeled, Damage, Shadow Damage Over Time, Essence, Corp
 			"ruRU": "Усиленный распад",
 			"trTR": "Geliştirilmiş Çürüme",
 			"zhCN": "强化分解",
-			"zhTW": "強化分解"
+			"zhTW": "強化分解",
+			"thTH": "Enhanced Decompose"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn ein Gegner stirbt, während er zersetzt ist, erhaltet Ihr 10 Essenz.",
@@ -122,7 +125,8 @@ Tags: Basic, Darkness, Channeled, Damage, Shadow Damage Over Time, Essence, Corp
 			"ruRU": "Если противник погибает под действием \"Распада\", вы накапливаете 10 ед. эссенции.",
 			"trTR": "Bir düşman Çürürken ölürse 10 Öz kazanırsın.",
 			"zhCN": "如果一名敌人在被分解时死亡, 你获得 10 点精魂。",
-			"zhTW": "敵人在分解狀態下死亡時,你獲得 10 點魂能。"
+			"zhTW": "敵人在分解狀態下死亡時,你獲得 10 點魂能。",
+			"thTH": "หากศัตรูตายในระยะเวลาของสกิล Decompose, ได้รับ 10 Essence."
 },
 		id: 1,
 		maxPoints: 1,
@@ -146,7 +150,8 @@ Tags: Basic, Darkness, Channeled, Damage, Shadow Damage Over Time, Essence, Corp
 			"ruRU": "Распад послушника",
 			"trTR": "Müridin Çürümesi",
 			"zhCN": "助祭的分解",
-			"zhTW": "侍僧之分解"
+			"zhTW": "侍僧之分解",
+			"thTH": "Acolyte's Decompose"
 },
 		descriptionLocalized: {
 			"deDE": "Ihr und Eure Diener fügen Gegnern, die zersetzt werden, x10% mehr nichtphysischen Schaden zu.",
@@ -161,7 +166,8 @@ Tags: Basic, Darkness, Channeled, Damage, Shadow Damage Over Time, Essence, Corp
 			"ruRU": "Вы и ваши прислужники наносите на x10% больше урона противникам под действием \"Распада\".",
 			"trTR": "Sen ve Yardakçıların Çürüyen düşmanlara x10% artırılmış hasar verirsiniz.",
 			"zhCN": "你和你的仆从对被分解的敌人造成的伤害提高 x10%。",
-			"zhTW": "你和你的僕從對遭到分解的敵人造成的傷害提高 x10%。"
+			"zhTW": "你和你的僕從對遭到分解的敵人造成的傷害提高 x10%。",
+			"thTH": "คุณและสมุนทำความเสียหายเพิ่มขึ้น x10% แก่ศัตรูที่เป็นเป้าหมายของสกิล Decompose"
 },
 		id: 2,
 		maxPoints: 1,
@@ -185,7 +191,8 @@ Tags: Basic, Darkness, Channeled, Damage, Shadow Damage Over Time, Essence, Corp
 			"ruRU": "Распад новичка",
 			"trTR": "Yeni Üyenin Çürümesi",
 			"zhCN": "学徒的分解",
-			"zhTW": "輔祭之分解"
+			"zhTW": "輔祭之分解",
+			"thTH": "Initiate's Decompose"
 },
 		descriptionLocalized: {
 			"deDE": "Zersetzen verlangsamt Gegner um 30%.",
@@ -200,7 +207,8 @@ Tags: Basic, Darkness, Channeled, Damage, Shadow Damage Over Time, Essence, Corp
 			"ruRU": "\"Распад\" замедляет противников на 30%.",
 			"trTR": "Çürüme düşmanları 30% Yavaşlatır.",
 			"zhCN": "分解使敌人减速 30%。",
-			"zhTW": "分解會使敵人緩速 30%。"
+			"zhTW": "分解會使敵人緩速 30%。",
+			"thTH": "Decompose จะ Slows ศัตรู 30%"
 },
 		id: 3,
 		maxPoints: 1,
@@ -228,7 +236,8 @@ Tags: Basic, Darkness, Damage, Shadow, Essence, Damage Reduction.`,
 			"ruRU": "Жатва",
 			"trTR": "Biç",
 			"zhCN": "收割",
-			"zhTW": "收割"
+			"zhTW": "收割",
+			"thTH": "Reap"
 },
 		descriptionLocalized: {
 			"deDE": "Attack Speed Multiplier: 0.8\nErzeugte Essenz: 4 pro getroffenem Gegner\nGlückstrefferchance: 16.667% (per hit)\nSchwingt eine geisterhafte Sense vor Euch und verursacht {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% Schaden. Wenn Ihr einen Gegner mit Blutige Ernte trefft, erhöht sich Eure Schadensreduktion 2 Sek. lang um 15%.\n\nTags: Basis, Dunkelheit, Schaden, Schatten, Essenz, Schadensreduktion.",
@@ -243,7 +252,8 @@ Tags: Basic, Darkness, Damage, Shadow, Essence, Damage Reduction.`,
 			"ruRU": "Attack Speed Multiplier: 0.8\nДает эссенцию: 4 ед. за каждого пораженного противника.\nВероятность удачного удара: 16.667% (per hit)\nВы взмахиваете перед собой призрачной косой, нанося {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% ед. урона. Когда \"Жатва\" поражает противника, получаемый вами урон уменьшается на 15% на 2 сек.\n\nTags: Базовое, Тьма, Урон, Темная магия, Эссенция, Уменьшение урона.",
 			"trTR": "Attack Speed Multiplier: 0.8\nÖz Üret: Vurulan düşman başına 4\nŞanslı Vuruş İhtimali: 16.667% (per hit)\nSemavi bir tırpanı önüne doğru savurarak {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% hasar ver. Biç ile bir düşmana vurmak 2 saniyeliğine Hasar Azaltmanı 15% artırır.\n\nTags: Temel, Karanlık, Hasar, Gölge, Öz, Hasar Azaltma.",
 			"zhCN": "Attack Speed Multiplier: 0.8\n生成精魂: 每命中一名敌人 4 点\n幸运一击几率: 16.667% (per hit)\n在你面前挥舞一把无形的镰刀, 造成 {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% 点伤害。使用收割命中敌人会使你的伤害减免效果提高 15%, 持续 2 秒。\n\nTags: 基础, 黑暗, 伤害, 暗影, 精魂, 伤害减免.",
-			"zhTW": "Attack Speed Multiplier: 0.8\n產生魂能:每擊中一個敵人產生 4 點\n幸運觸發機率: 16.667% (per hit)\n使用幽靈鐮刀朝你的前方揮擊,造成 {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% 點傷害。以收割擊中敵人時,會使你的傷害減免提高 15%,持續 2 秒。\n\nTags: 基本, 黑暗, 傷害, 暗影, 魂能, 傷害減免."
+			"zhTW": "Attack Speed Multiplier: 0.8\n產生魂能:每擊中一個敵人產生 4 點\n幸運觸發機率: 16.667% (per hit)\n使用幽靈鐮刀朝你的前方揮擊,造成 {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% 點傷害。以收割擊中敵人時,會使你的傷害減免提高 15%,持續 2 秒。\n\nTags: 基本, 黑暗, 傷害, 暗影, 魂能, 傷害減免.",
+			"thTH": "ความเร็วในการโจมตี: 0.8\nได้รับ Essence: 4 ต่อศัตรูที่โดน\nLucky Hit Chance: 16.667% (per hit)\nทำความเสียหาย {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}%, เมื่อทำความเสียหายด้วยสกิลนี้ คุณจะได้รับ Damage Reduction 15% เป็นระยะเวลา 2 วินาที\n\nTags: Basic, Darkness, Damage, Shadow, Essence, Damage Reduction."
 },
 		id: 4,
 		maxPoints: 5,
@@ -267,7 +277,8 @@ Tags: Basic, Darkness, Damage, Shadow, Essence, Damage Reduction.`,
 			"ruRU": "Усиленная жатва",
 			"trTR": "Geliştirilmiş Biç",
 			"zhCN": "强化收割",
-			"zhTW": "強化收割"
+			"zhTW": "強化收割",
+			"thTH": "Enhanced Reap"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn ein Gegner, der von Blutige Ernte getroffen wurde, innerhalb von 2 Sek. stirbt, erhaltet Ihr 3 Sek. lang +30% Angriffsgeschwindigkeit.",
@@ -282,7 +293,8 @@ Tags: Basic, Darkness, Damage, Shadow, Essence, Damage Reduction.`,
 			"ruRU": "Когда противник, пораженный \"Жатвой\", погибает в течение 2 сек. после получения эффекта, ваша скорость атаки повышается на +30% на 3 сек.",
 			"trTR": "Biç tarafından vurulmuş bir düşman 2 saniye içinde ölürse 3 saniyeliğine +30% Saldırı Hızı kazanırsın.",
 			"zhCN": "如果被收割命中的敌人在 2 秒内死亡, 你的攻击速度提高 +30%, 持续 3 秒。",
-			"zhTW": "若被收割擊中的敵人在 2 秒內死亡,你獲得 +30% 攻擊速度,持續 3 秒。"
+			"zhTW": "若被收割擊中的敵人在 2 秒內死亡,你獲得 +30% 攻擊速度,持續 3 秒。",
+			"thTH": "หากศัตรูที่ได้รับความเสียหายจากสกิล Reap ตายภายใน 2 วินาที, ได้รับความเร็วในการโจมตี +30% เป็นระยะเวลา 3 วินาที."
 },
 		id: 5,
 		maxPoints: 1,
@@ -306,7 +318,8 @@ Tags: Basic, Darkness, Damage, Shadow, Essence, Damage Reduction.`,
 			"ruRU": "Жатва новичка",
 			"trTR": "Yeni Üyenin Biçmesi",
 			"zhCN": "学徒的收割",
-			"zhTW": "輔祭之收割"
+			"zhTW": "輔祭之收割",
+			"thTH": "Initiate's Reap"
 },
 		descriptionLocalized: {
 			"deDE": "Blutige Ernte tötet Gegner, die weniger als 5% Leben haben, sofort. Nicht bei Bossen und Spielercharakteren anwendbar.",
@@ -321,7 +334,8 @@ Tags: Basic, Darkness, Damage, Shadow, Essence, Damage Reduction.`,
 			"ruRU": "\"Жатва\" мгновенно добивает противников с уровнем здоровья ниже 5%. Не действует на боссов и игроков.",
 			"trTR": "Biç 5% Can altındaki düşmanları anında öldürür. Oyuncular ve Patronlar için geçerli değildir.",
 			"zhCN": "收割会立即消灭生命低于 5% 的敌人。对首领或玩家无效。",
-			"zhTW": "收割會立刻殺死生命值低於 5% 的敵人。此效果不適用於首領或玩家。"
+			"zhTW": "收割會立刻殺死生命值低於 5% 的敵人。此效果不適用於首領或玩家。",
+			"thTH": "Reap จะสังหารศัตรูที่พลังชีวิตต่ำกว่า 5% ทันที. ไม่มีผลกับ Bosses หรือ ผู้เล่น."
 },
 		id: 6,
 		maxPoints: 1,
@@ -345,7 +359,8 @@ Tags: Basic, Darkness, Damage, Shadow, Essence, Damage Reduction.`,
 			"ruRU": "Жатва послушника",
 			"trTR": "Müridin Biçmesi",
 			"zhCN": "助祭的收割",
-			"zhTW": "侍僧之收割"
+			"zhTW": "侍僧之收割",
+			"thTH": "Acolyte's Reap"
 },
 		descriptionLocalized: {
 			"deDE": "Blutige Ernte erschafft eine Leiche unter dem ersten getroffenen Gegner. Kann nur einmal alle 5 Sek. auftreten.",
@@ -360,7 +375,8 @@ Tags: Basic, Darkness, Damage, Shadow, Essence, Damage Reduction.`,
 			"ruRU": "\"Жатва\" создает труп под первым пораженным противником. Срабатывает не чаще раза в 5 сек.",
 			"trTR": "Biç, vurulan ilk düşmanın altında bir Ceset oluşturur. Sadece 5 saniyede bir kez gerçekleşebilir.",
 			"zhCN": "收割命中第一名敌人时生成一具亡骸。该效果每 5 秒只能触发一次。",
-			"zhTW": "收割會在第一個擊中的敵人下方生成屍體。此效果每 5 秒只能觸發一次。"
+			"zhTW": "收割會在第一個擊中的敵人下方生成屍體。此效果每 5 秒只能觸發一次。",
+			"thTH": "Reap จะสร้างซากศพใต้ศัตรูตัวแรกที่ได้รับความเสียหาย. ผลของสกิลนี้จะทำงานทุก 5 วินาที เท่านั้น"
 },
 		id: 7,
 		maxPoints: 1,
@@ -387,7 +403,8 @@ Tags: Basic, Blood, Blood Orb, Damage, Physical, Essence.`,
 			"ruRU": "Кровоизлияние",
 			"trTR": "Kan Kaybı",
 			"zhCN": "出血",
-			"zhTW": "出血"
+			"zhTW": "出血",
+			"thTH": "Hemorrhage"
 },
 		descriptionLocalized: {
 			"deDE": "Erzeugte Essenz: 8\nGlückstrefferchance: 35% (per hit)\nVerspritzt das Blut eines Gegners und fügt ihm {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% Schaden zu. Blutsturz hat eine Chance von 20%, eine Blutkugel zu erzeugen.\n\nTags: Basis, Blut, Blutkugel, Schaden, Physisch, Essenz.",
@@ -402,7 +419,8 @@ Tags: Basic, Blood, Blood Orb, Damage, Physical, Essence.`,
 			"ruRU": "Дает эссенцию: 8 ед.\nВероятность удачного удара: 35% (per hit)\nВы пускаете противнику кровь, нанося {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% ед. урона. \"Кровоизлияние\" с вероятностью 20% создает сферу крови.\n\nTags: Базовое, Кровь, Сфера крови, Урон, Физический урон, Эссенция.",
 			"trTR": "Öz Üret: 8\nŞanslı Vuruş İhtimali: 35% (per hit)\nBir düşmanın kanını patlatarak {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% hasar ver. Kan Kaybı 20% ihtimalle bir Kan Küresi düşürür.\n\nTags: Temel, Kan, Kan Küresi, Hasar, Fiziksel, Öz.",
 			"zhCN": "生成精魂: 8\n幸运一击几率: 35% (per hit)\n使一名敌人出血, 造成 {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% 点伤害。出血额外有 20% 几率生成一颗生命球。\n\nTags: 基础, 鲜血, 生命球, 伤害, 物理, 精魂.",
-			"zhTW": "產生魂能:8\n幸運觸發機率: 35% (per hit)\n使敵人大量出血,造成 {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% 點傷害。出血有 20% 機率生成生命之球。\n\nTags: 基本, 鮮血, 生命之球, 傷害, 物理, 魂能."
+			"zhTW": "產生魂能:8\n幸運觸發機率: 35% (per hit)\n使敵人大量出血,造成 {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% 點傷害。出血有 20% 機率生成生命之球。\n\nTags: 基本, 鮮血, 生命之球, 傷害, 物理, 魂能.",
+			"thTH": "ได้รับ Essence: 8\nLucky Hit Chance: 35% (per hit)\nทำความเสียหาย {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}%. Hemorrhage มีโอกาส 20% ที่จะสร้าง Blood Orb"
 },
 		id: 8,
 		maxPoints: 5,
@@ -426,7 +444,8 @@ Tags: Basic, Blood, Blood Orb, Damage, Physical, Essence.`,
 			"ruRU": "Усиленное кровоизлияние",
 			"trTR": "Geliştirilmiş Kan Kaybı",
 			"zhCN": "强化出血",
-			"zhTW": "強化出血"
+			"zhTW": "強化出血",
+			"thTH": "Enhanced Hemorrhage"
 },
 		descriptionLocalized: {
 			"deDE": "Nachdem Ihr eine Blutkugel aufgesammelt habt, fügt Euer nächster Blutsturz auch Gegnern in der Nähe Eures Ziels Schaden zu und gewährt 2 zusätzliche Essenz für jeden getroffenen Gegner.",
@@ -441,7 +460,8 @@ Tags: Basic, Blood, Blood Orb, Damage, Physical, Essence.`,
 			"ruRU": "Когда вы подбираете сферу крови, следующее \"Кровоизлияние\" также наносит урон противникам вокруг цели и дает еще 2 ед. эссенции за каждого пораженного противника.",
 			"trTR": "Bir Kan Küresi aldığında sonraki Kan Kaybı hedefinin çevresindeki düşmanlara da hasar verir ve vurulan düşman başına ilave 2 Öz kazandırır.",
 			"zhCN": "拾取一颗生命球后, 你下一个出血也会对你目标周围的敌人造成伤害, 并且每命中一名敌人额外获得 2 点精魂。",
-			"zhTW": "拾取生命之球後,你的下一個出血會對你目標附近的敵人造成傷害,且每擊中一個敵人便賦予 2 點額外魂能。"
+			"zhTW": "拾取生命之球後,你的下一個出血會對你目標附近的敵人造成傷害,且每擊中一個敵人便賦予 2 點額外魂能。",
+			"thTH": "หลังจากที่เก็บ Blood Orb ได้, การใช้สกิล Hemorrhage ครั้งต่อไปจะทำความเสียหายรอบตัวเป้าหมาย และได้รับ 2 Essence เพิ่มเติมตามจำนวนศัตรูที่โดน"
 },
 		id: 9,
 		maxPoints: 1,
@@ -465,7 +485,8 @@ Tags: Basic, Blood, Blood Orb, Damage, Physical, Essence.`,
 			"ruRU": "Кровоизлияние послушника",
 			"trTR": "Müridin Kan Kaybı",
 			"zhCN": "助祭的出血",
-			"zhTW": "侍僧之出血"
+			"zhTW": "侍僧之出血",
+			"thTH": "Acolyte's Hemorrhage"
 },
 		descriptionLocalized: {
 			"deDE": "Blutsturz erhält zusätzlich +20% Angriffsgeschwindigkeit, während Ihr gesund seid.",
@@ -480,7 +501,8 @@ Tags: Basic, Blood, Blood Orb, Damage, Physical, Essence.`,
 			"ruRU": "Пока у вас высокий уровень здоровья, скорость атаки \"Кровоизлияния\" повышается на +20%.",
 			"trTR": "Kan Kaybı Sağlıklıyken ilave +20% Saldırı Hızı kazandırır.",
 			"zhCN": "健康状态下, 出血额外获得 +20% 攻击速度加成。",
-			"zhTW": "在健康狀態下施放出血,可額外獲得 +20% 攻擊速度。"
+			"zhTW": "在健康狀態下施放出血,可額外獲得 +20% 攻擊速度。",
+			"thTH": "Hemorrhage โจมตีเร็วขึ้น +20% เมื่อคุณอยู่ในสถานะ Healthy."
 },
 		id: 10,
 		maxPoints: 1,
@@ -504,7 +526,8 @@ Tags: Basic, Blood, Blood Orb, Damage, Physical, Essence.`,
 			"ruRU": "Кровоизлияние новичка",
 			"trTR": "Yeni Üyenin Kan Kaybı",
 			"zhCN": "学徒的出血",
-			"zhTW": "輔祭之出血"
+			"zhTW": "輔祭之出血",
+			"thTH": "Initiate's Hemorrhage"
 },
 		descriptionLocalized: {
 			"deDE": "Blutsturz verleiht jedes Mal, wenn ein Gegner getroffen wird, 1.6% Basisleben als Stählung und verfügt über eine Chance von 1.5% für jeden getroffenen Gegner, Stählung in Höhe von 100% Eures Basislebens zu verleihen.",
@@ -519,7 +542,8 @@ Tags: Basic, Blood, Blood Orb, Damage, Physical, Essence.`,
 			"ruRU": "\"Кровоизлияние\" дает вам укрепление в объеме 1.6% базового запаса здоровья каждый раз, когда поражает противника, а также с вероятностью 1.5% за каждого пораженного противника может дать вам укрепление в объеме 100% базового запаса здоровья.",
 			"trTR": "Kan Kaybı bir düşmana her isabet ettiğinde Temel Canının 1.6% kadarına eşit Güçlendirme kazandırır ve vurulan düşman başına 1.5% ihtimalle seni Temel Canının 100% kadarına eşit Güçlendirir.",
 			"zhCN": "出血每次命中敌人, 强固你 1.6% 基础生命, 而且每命中一名敌人有 1.5% 几率强固你 100% 基础生命。",
-			"zhTW": "出血每次擊中敵人,會賦予你等同 1.6% 基礎生命值的強韌。且每擊中一個敵人有 1.5% 機率賦予你等同 100% 基礎生命值的強韌。"
+			"zhTW": "出血每次擊中敵人,會賦予你等同 1.6% 基礎生命值的強韌。且每擊中一個敵人有 1.5% 機率賦予你等同 100% 基礎生命值的強韌。",
+			"thTH": "Hemorrhage จะมอบ Fortify เป็นจำนวน 1.6% ของพลังชีวิตพื้นฐาน ทุกๆครั้งที่ทำความเสียหายแก่ศัตรู, และมีโอกาส 1.5% ต่อศัตรูที่ได้รับความเสียหาย ที่จะ Fortify เป็นจำนวน 100% ของพลังชีวิตพื้นฐาน."
 },
 		id: 11,
 		maxPoints: 1,
@@ -546,7 +570,8 @@ Tags: Basic, Bone, Damage, Physical, Essence.`,
 			"ruRU": "Костяные осколки",
 			"trTR": "Kemik Parçaları",
 			"zhCN": "白骨碎片",
-			"zhTW": "骸骨裂片"
+			"zhTW": "骸骨裂片",
+			"thTH": "Bone Splinters"
 },
 		descriptionLocalized: {
 			"deDE": "Erzeugte Essenz: 6\nGlückstrefferchance: 17% (per hit)\nFeuert 3 Knochensplitter ab, die jeweils {8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2}% Schaden verursachen. Jedes Mal, wenn ein Gegner vom selben Einsatz von Knochensplitter getroffen wird, erhaltet Ihr 1 Essenz.\n\nTags: Basis, Knochen, Schaden, Physisch, Essenz.",
@@ -561,7 +586,8 @@ Tags: Basic, Bone, Damage, Physical, Essence.`,
 			"ruRU": "Дает эссенцию: 6 ед.\nВероятность удачного удара: 17% (per hit)\nВы выпускаете 3 костяных осколка, наносящих по {8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2}% ед. урона. Когда \"Костяные осколки\", вызванные одним применением, поражают одну и ту же цель более одного раза, вы накапливаете по 1 ед. эссенции.\n\nTags: Базовое, Кости, Урон, Физический урон, Эссенция.",
 			"trTR": "Öz Üret: 6\nŞanslı Vuruş İhtimali: 17% (per hit)\nHer biri {8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2}% hasar veren 3 kemik parçası fırlat. Bir düşman tek bir Kemik Parçaları kullanımıyla her vurulduğunda 1 Öz kazanırsın.\n\nTags: Temel, Kemik, Hasar, Fiziksel, Öz.",
 			"zhCN": "生成精魂: 6\n幸运一击几率: 17% (per hit)\n发射 3 枚白骨碎片, 每枚碎片造成 {8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2}% 点伤害。随后每次敌人被单次施放的白骨碎片命中时, 你都会获得 1 点精魂。\n\nTags: 基础, 白骨, 伤害, 物理, 精魂.",
-			"zhTW": "產生魂能:6\n幸運觸發機率: 17% (per hit)\n發射 3 塊骸骨裂片,每片造成 {8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2}% 點傷害。同一次施放骸骨裂片時,若有敵人遭多次擊中,則每次擊中使你獲得 1 點魂能。\n\nTags: 基本, 骸骨, 傷害, 物理, 魂能."
+			"zhTW": "產生魂能:6\n幸運觸發機率: 17% (per hit)\n發射 3 塊骸骨裂片,每片造成 {8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2}% 點傷害。同一次施放骸骨裂片時,若有敵人遭多次擊中,則每次擊中使你獲得 1 點魂能。\n\nTags: 基本, 骸骨, 傷害, 物理, 魂能.",
+			"thTH": "ได้รับ Essence 6\nLucky Hit Chance: 17% (per hit)\nยิงกระดูก 3 ดอก ทำความเสียหาย {8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2}% ต่อดอก. ทุกครั้งที่ศัตรูได้รับความเสียหายมากกว่า 1 ครั้งในการใช้สกิล Bone Splitter ครั้งนึง จะได้รับ 1 Essence.\n\nTags: Basic, Bone, Damage, Physical, Essence."
 },
 		id: 12,
 		maxPoints: 5,
@@ -585,7 +611,8 @@ Tags: Basic, Bone, Damage, Physical, Essence.`,
 			"ruRU": "Усиленные костяные осколки",
 			"trTR": "Geliştirilmiş Kemik Parçaları",
 			"zhCN": "强化白骨碎片",
-			"zhTW": "強化骸骨裂片"
+			"zhTW": "強化骸骨裂片",
+			"thTH": "Enhanced Bone Splinters"
 },
 		descriptionLocalized: {
 			"deDE": "Knochensplitter verfügt über eine Chance von 25%, 2 zusätzliche Projekte abzufeuern, wenn Ihr beim Wirken mindestens 50 Essenz habt.",
@@ -600,7 +627,8 @@ Tags: Basic, Bone, Damage, Physical, Essence.`,
 			"ruRU": "\"Костяные осколки\" с вероятностью 25% выпускают еще 2 снаряда:снарядов, если на момент применения у вас есть 50 ед. эссенции или более.",
 			"trTR": "Kemik Parçaları 50 veya daha fazla Öze sahipken kullanıldığında 25% ihtimalle 2 ilave mermi fırlatır.",
 			"zhCN": "释放技能时, 如果你拥有 50 点及更多精魂, 白骨碎片 则有 25% 几率额外发射 2 枚投射物。",
-			"zhTW": "若你在 50 點魂能以上時施放骸骨裂片,有 25% 機率發射 2 個額外的投射攻擊。"
+			"zhTW": "若你在 50 點魂能以上時施放骸骨裂片,有 25% 機率發射 2 個額外的投射攻擊。",
+			"thTH": "Bone Splinters มีโอกาส 25% ที่จะยิงกระดูกเพิ่ม 2 ดอก เมื่อคุณใช้สกิลในขณะที่คุณมี Essence 50 หรือมากกว่า"
 },
 		id: 13,
 		maxPoints: 1,
@@ -624,7 +652,8 @@ Tags: Basic, Bone, Damage, Physical, Essence.`,
 			"ruRU": "Костяные осколки послушника",
 			"trTR": "Müridin Kemik Parçaları",
 			"zhCN": "助祭白骨碎片",
-			"zhTW": "侍僧之骸骨裂片"
+			"zhTW": "侍僧之骸骨裂片",
+			"thTH": "Acolyte's Bone Splinters"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr denselben Gegner mindestens 3-mal mit demselben Wirken von Knochensplitter trefft, werden 4 Sek. lang +8% kritische Trefferchance gewährt.",
@@ -639,7 +668,8 @@ Tags: Basic, Bone, Damage, Physical, Essence.`,
 			"ruRU": "Когда \"Костяные осколки\" поражают одного противника 3 раза:раз за одно применение, вероятность критического удара повышается на +8% на 4 сек.",
 			"trTR": "Tek bir Kemik Parçaları kullanımıyla aynı düşmana en az 3 kez vurmak, 4 saniyeliğine +8% Kritik Vuruş İhtimali kazandırır.",
 			"zhCN": "同一次施放的白骨碎片命中相同敌人至少 3 次后, 获得 +8% 暴击几率加成, 持续 4 秒。",
-			"zhTW": "同一次施放骸骨裂片時,若擊中同一名敵人至少 3 次,可賦予你 +8% 爆擊機率,持續 4 秒。"
+			"zhTW": "同一次施放骸骨裂片時,若擊中同一名敵人至少 3 次,可賦予你 +8% 爆擊機率,持續 4 秒。",
+			"thTH": "หากศัตรูได้รับความเสียหาย 3 ครั้งในการใช้สกิล Bone Splinter ครั้งเดียว คุณจะได้รับ +8% ในการโจมตี Critical เป็นระยะเวลา 4 วินาที."
 },
 		id: 14,
 		maxPoints: 1,
@@ -663,7 +693,8 @@ Tags: Basic, Bone, Damage, Physical, Essence.`,
 			"ruRU": "Костяные осколки новичка",
 			"trTR": "Yeni Üyenin Kemik Parçaları",
 			"zhCN": "学徒的白骨碎片",
-			"zhTW": "輔祭之骸骨裂片"
+			"zhTW": "輔祭之骸骨裂片",
+			"thTH": "Initiate's Bone Splinters"
 },
 		descriptionLocalized: {
 			"deDE": "Knochensplitter verfügt über eine Chance von 20%, Gegner 2 Sek. lang verwundbar zu machen.",
@@ -678,7 +709,8 @@ Tags: Basic, Bone, Damage, Physical, Essence.`,
 			"ruRU": "\"Костяные осколки\" с вероятностью 20% за попадание делают противников уязвимыми на 2 сек.",
 			"trTR": "Kemik Parçaları vuruş başına 20% ihtimalle 2 saniyeliğine düşmanları Savunmasız hâle getirir.",
 			"zhCN": "白骨碎片每次命中都有 20% 几率使敌人陷入易伤状态, 持续 2 秒。",
-			"zhTW": "骸骨裂片每次命中有 20% 機率使敵人易傷,持續 2 秒。"
+			"zhTW": "骸骨裂片每次命中有 20% 機率使敵人易傷,持續 2 秒。",
+			"thTH": "Bone Splinters มีโอกาส 20% ที่จะทำให้ศัตรูอยู่ในสถานะ Vulnerable เป็นระยะเวลา 2 วินาที."
 },
 		id: 15,
 		maxPoints: 1,
