@@ -82,7 +82,7 @@ Tags: Basic, Bludgeoning, Fury, Physical, Damage, Crowd Control, Two-Handed.`,
 			"trTR": "Attack Speed Multiplier: 1.25\nHiddet Oluştur: 10\nŞanslı Vuruş İhtimali: 50% (per hit)\nSilahınla düşmana darbe indirerek {30/33/36/39/42/45/48/51/54/57}% hasar ver. Düşmanlara 4 kez darbe indirdikten sonra sonraki Darben, 1.25 saniyeliğine Sersemletir. Bir Çift El silah kullanılıyorsa bu süre artarak 2 saniye olur.\n\nTags: Temel, Ezici, Hiddet, Fiziksel, Hasar, Kitle Kontrolü, Çift El.",
 			"zhCN": "Attack Speed Multiplier: 1.25\n生成怒气: 10\n幸运一击几率: 50% (per hit)\n使用你的武器猛击敌人, 造成 {30/33/36/39/42/45/48/51/54/57}% 点伤害。猛击敌人 4 次后, 你的下一个猛击会击晕敌人 1.25 秒, 如果使用双手武器该效果提高至 2 秒。\n\nTags: 基础, 钝击, 怒气, 物理, 伤害, 群控, 双手.",
 			"zhTW": "Attack Speed Multiplier: 1.25\n產生怒氣:10\n幸運觸發機率: 50% (per hit)\n使用武器猛擊敵人時,造成 {30/33/36/39/42/45/48/51/54/57}% 點傷害。猛擊敵人 4 次後,你的下一個猛擊會擊昏 1.25 秒,若使用雙手武器則提高至 2 秒。\n\nTags: 基本, 鈍擊, 怒氣, 物理, 傷害, 控場, 雙手.",
-			"thTH": "ความเร็วในการโจมตี: 1.25\nเพิ่ม Fury: 10\nLucky Hit: 50% (ต่อครั้ง)\n ทำความเสียหาย {30/33/36/39/42/45/48/51/54/57}% . เมื่อทำความเสียหายได้ 4 ครั้ง Bash ครั้งต่อไปจะ Stun เป็นระยะเวลา 1.25 วินาที, เพิ่มเป็น 2 วินาที หากใช้อาวุธ 2 มือ.\n\nTags: Basic, Bludgeoning, Fury, Physical, Damage, Crowd Control, Two-Handed."
+			"thTH": "ความเร็วในการโจมตี: 1.25\nได้รับ Fury: 10\nLucky Hit: 50% (per hit)\n ทำความเสียหาย {30/33/36/39/42/45/48/51/54/57}% . เมื่อทำความเสียหายได้ 4 ครั้ง Bash ครั้งต่อไปจะ Stun เป็นระยะเวลา 1.25 วินาที, เพิ่มเป็น 2 วินาที หากใช้อาวุธ 2 มือ.\n\nTags: Basic, Bludgeoning, Fury, Physical, Damage, Crowd Control, Two-Handed."
 },
 		id: 0,
 		maxPoints: 5,
@@ -250,7 +250,7 @@ Tags: Basic, Damage, Physical, Fury, Movement.`,
 			"trTR": "Attack Speed Multiplier: 1.25\nHiddet Üret: 9\nŞanslı Vuruş İhtimali: 50% (per hit)\nİleri atıl ve bir düşmana vurarak {30/33/36/39/42/45/48/51/54/57}% hasar ver.\n\nTags: Temel, Hasar, Fiziksel, Hiddet, Hareket.",
 			"zhCN": "Attack Speed Multiplier: 1.25\n生成怒气: 9\n幸运一击几率: 50% (per hit)\n向前突刺并打击一名敌人, 造成 {30/33/36/39/42/45/48/51/54/57}% 点伤害。\n\nTags: 基础, 伤害, 物理, 怒气, 移动.",
 			"zhTW": "Attack Speed Multiplier: 1.25\n產生怒氣:9\n幸運觸發機率: 50% (per hit)\n向前猛撲發動攻擊,對敵人造成 {30/33/36/39/42/45/48/51/54/57}% 點傷害。\n\nTags: 基本, 傷害, 物理, 怒氣, 移動.",
-			"thTH": "ความเร็วในการโจมตี: 1.25\nเพิ่ม Fury: 9\nLucky Hit: 50% (ต่อครั้ง)\nพุ่งเข้าหาศัตรูทำความเสียหาย {30/33/36/39/42/45/48/51/54/57}%. \n\nTags: Basic, Damage, Physical, Fury, Movement."
+			"thTH": "ความเร็วในการโจมตี: 1.25\nได้รับ Fury: 9\nLucky Hit: 50% (per hit)\nพุ่งเข้าหาศัตรูทำความเสียหาย {30/33/36/39/42/45/48/51/54/57}%. \n\nTags: Basic, Damage, Physical, Fury, Movement."
 },
 		id: 4,
 		maxPoints: 5,
@@ -420,7 +420,7 @@ Tags: Basic, Dual Wield, Fury, Physical, Damage, Attack Speed.`,
 			"trTR": "Attack Speed Multiplier: 1.25\nHiddet Üret: 4\nŞanslı Vuruş İhtimali: 30% (per hit)\nHızlı bir darbe serisi başlatarak her vuruş çiftiyle {20/22/24/26/28/30/32/34/36/38}% hasar ver.\n\nÇılgınlık bir düşmana isabet ederse Saldırı Hızı 3 saniyeliğine +20% artar. Artış en fazla +60% olabilir.\n\nTags: Temel, İkili Silah, Hiddet, Fiziksel, Hasar, Saldırı Hızı.",
 			"zhCN": "Attack Speed Multiplier: 1.25\n生成怒气: 4\n幸运一击几率: 30% (per hit)\n发动一连串快速打击, 每一组攻击造成 {20/22/24/26/28/30/32/34/36/38}% 点伤害。\n\n如果狂乱命中敌人, 其攻击速度提高 +20%, 持续 3 秒, 最多提高 +60%。\n\nTags: 基础, 双持, 怒气, 物理, 伤害, 攻击速度.",
 			"zhTW": "Attack Speed Multiplier: 1.25\n產生怒氣:4\n幸運觸發機率: 30% (per hit)\n快速連續攻擊,每組攻擊造成 {20/22/24/26/28/30/32/34/36/38}% 點傷害。\n\n若狂亂擊中敵人,其攻擊速度提高 +20%,持續 3 秒,最多提高 +60%。\n\nTags: 基本, 雙持, 怒氣, 物理, 傷害, 攻擊速度.",
-			"thTH": "ความเร็วในการโจมตี: 1.25\nเพิ่ม Fury: 4\nLucky Hit: 30% (ต่อครั้ง)\nทำความเสียหาย {20/22/24/26/28/30/32/34/36/38}% เมื่อ Frenzy โจมตีศัตรู จะเพิ่มความเร็วในการโจมตี +20% เป็นระยะเวลา 3 วินาที, เพิ่มได้สูงสุด +60%. \n\nTags: Basic, Dual Wield, Fury, Physical, Damage, Attack Speed."
+			"thTH": "ความเร็วในการโจมตี: 1.25\nได้รับ Fury: 4\nLucky Hit: 30% (per hit)\nทำความเสียหาย {20/22/24/26/28/30/32/34/36/38}% เมื่อ Frenzy โจมตีศัตรู จะเพิ่มความเร็วในการโจมตี +20% เป็นระยะเวลา 3 วินาที, เพิ่มได้สูงสุด +60%. \n\nTags: Basic, Dual Wield, Fury, Physical, Damage, Attack Speed."
 },
 		id: 8,
 		maxPoints: 5,
@@ -461,7 +461,7 @@ Tags: Basic, Dual Wield, Fury, Physical, Damage, Attack Speed.`,
 			"trTR": "Çılgınlık +60% bonus Saldırı Hızı kazandırıyorken ayrıca2 ilave Hiddet üretir.",
 			"zhCN": "狂乱 使攻击速度提高 +60%, 也会额外生成 2 点怒气。",
 			"zhTW": "狂亂使攻擊速度提高 +60% 期間,也會額外產生 2 點怒氣。",
-			"thTH": "เมื่อได้รับความเร็วในการโจมตี +60% จาก Frenzy, จะเพิ่ม Fury เพิ่มเติม 2"
+			"thTH": "เมื่อได้รับความเร็วในการโจมตี +60% จาก Frenzy, จะได้รับ Fury เพิ่มเติม 2"
 },
 		id: 9,
 		maxPoints: 1,
@@ -587,7 +587,7 @@ Tags: Basic, Bleed, Slashing, Fury, Damage, Physical.`,
 			"trTR": "Hiddet Üret: 9\nŞanslı Vuruş İhtimali: 50% (per use)\nDüşmanın derisini yüzerek {5/5.5/6/6.5/7/7.5/8/8.5/9/9.5}% hasar ver ve 5 saniye boyunca {36/39.5/43/47/50.5/54/57.5/61/65/68.5}% Kanama hasarı uygula.\n\nTags: Temel, Kanama, Kesici, Hiddet, Hasar, Fiziksel.",
 			"zhCN": "生成怒气: 9\n幸运一击几率: 50% (per use)\n剥掉敌人的皮, 造成 {5/5.5/6/6.5/7/7.5/8/8.5/9/9.5}% 点伤害, 并在 5 秒内造成 {36/39.5/43/47/50.5/54/57.5/61/65/68.5}% 点流血伤害。\n\nTags: 基础, 流血, 劈斩, 怒气, 伤害, 物理.",
 			"zhTW": "產生怒氣:9\n幸運觸發機率:50% (per use)\n將敵人剝皮,造成 {5/5.5/6/6.5/7/7.5/8/8.5/9/9.5}% 點傷害,並使其在 5 秒內受到 {36/39.5/43/47/50.5/54/57.5/61/65/68.5}% 點流血傷害。\n\nTags: 基本, 流血, 斬擊, 怒氣, 傷害, 物理.",
-			"thTH": "เพิ่ม Fury: 9\nLucky Hit: 50%(ต่อครั้ง)\nทำความเสียหาย {5/5.5/6/6.5/7/7.5/8/8.5/9/9.5}% และความเสียหาย Bleeding {36/39.5/43/47/50.5/54/57.5/61/65/68.5}% ภายใน 5 วินาที . \n\nTags: ."
+			"thTH": "ได้รับ Fury: 9\nLucky Hit: 50%(per use)\nทำความเสียหาย {5/5.5/6/6.5/7/7.5/8/8.5/9/9.5}% และความเสียหาย Bleeding {36/39.5/43/47/50.5/54/57.5/61/65/68.5}% ภายใน 5 วินาที . \n\nTags: ."
 },
 		id: 12,
 		maxPoints: 5,
@@ -741,7 +741,8 @@ Tags: Core, Bludgeoning, Fury, Physical, Damage, Two-Handed.`,
 			"ruRU": "Молот Древних",
 			"trTR": "Kadimlerin Çekici",
 			"zhCN": "先祖之锤",
-			"zhTW": "先祖之鎚"
+			"zhTW": "先祖之鎚",
+			"thTH": "Hammer of the Ancients"
 },
 		descriptionLocalized: {
 			"deDE": "Attack Speed Multiplier: 1.1\nWutkosten: 35\nGlückstrefferchance: 50% (per hit)\nSchmettert Euren Hammer mit dem Zorn der Urahnen nach unten und verursacht {50/55/60/65/70/75/80/85/90/95}% Schaden in einem konzentrierten Bereich.\n\nTags: Kern, Wuchtwaffe, Wut, Physisch, Schaden, Zweihändig.",
@@ -756,7 +757,8 @@ Tags: Core, Bludgeoning, Fury, Physical, Damage, Two-Handed.`,
 			"ruRU": "Attack Speed Multiplier: 1.1\nЗатраты ярости: 35 ед.\nВероятность удачного удара: 50% (per hit)\nВы обрушиваете свое оружие с яростью Древних, нанося {50/55/60/65/70/75/80/85/90/95}% ед. урона целям в небольшой области.\n\nTags: Основное, Дробящее оружие, Ярость, Физический урон, Урон, Двуручное.",
 			"trTR": "Attack Speed Multiplier: 1.1\nHiddet Bedeli: 35\nŞanslı Vuruş İhtimali: 50% (per hit)\nKadimlerin öfkesiyle çekicini yere vurarak belirli bir bölgeye {50/55/60/65/70/75/80/85/90/95}% hasar ver.\n\nTags: Çekirdek, Ezici, Hiddet, Fiziksel, Hasar, Çift El.",
 			"zhCN": "Attack Speed Multiplier: 1.1\n怒气消耗: 35\n幸运一击几率: 50% (per hit)\n带着先祖的怒火砸下你的锤子, 对一片集中区域造成 {50/55/60/65/70/75/80/85/90/95}% 点伤害。\n\nTags: 核心, 钝击, 怒气, 物理, 伤害, 双手.",
-			"zhTW": "Attack Speed Multiplier: 1.1\n怒氣消耗:35\n幸運觸發機率: 50% (per hit)\n以先祖的憤怒砸下重鎚,對集中區域造成 {50/55/60/65/70/75/80/85/90/95}% 點傷害。\n\nTags: 核心, 鈍擊, 怒氣, 物理, 傷害, 雙手."
+			"zhTW": "Attack Speed Multiplier: 1.1\n怒氣消耗:35\n幸運觸發機率: 50% (per hit)\n以先祖的憤怒砸下重鎚,對集中區域造成 {50/55/60/65/70/75/80/85/90/95}% 點傷害。\n\nTags: 核心, 鈍擊, 怒氣, 物理, 傷害, 雙手.",
+			"thTH": "ความเร็วในการโจมตี: 1.1\nใช้ Fury: 35\nLucky Hit: 50%(per hit)\nททำความเสียหาย {50/55/60/65/70/75/80/85/90/95}% ในพื้นที่ด้านหน้าของคุณ. \n\nTags: Core, Bludgeoning, Fury, Physical, Damage, Two-Handed."
 },
 		id: 16,
 		maxPoints: 5,
@@ -780,7 +782,8 @@ Tags: Core, Bludgeoning, Fury, Physical, Damage, Two-Handed.`,
 			"ruRU": "Усиленный молот Древних",
 			"trTR": "Geliştirilmiş Kadimlerin Çekici",
 			"zhCN": "强化先祖之锤",
-			"zhTW": "強化先祖之鎚"
+			"zhTW": "強化先祖之鎚",
+			"thTH": "Enhanced Hammer of the Ancients"
 },
 		descriptionLocalized: {
 			"deDE": "Erzeugt 5 Sek. lang x3% mehr Wut für jeden Gegner, der von Hammer der Urahnen getroffen wurde. Bis zu 10-mal stapelbar.",
@@ -795,7 +798,8 @@ Tags: Core, Bludgeoning, Fury, Physical, Damage, Two-Handed.`,
 			"ruRU": "Когда \"Молот Древних\" наносит урон, вы накапливаете на x3% ед. больше ярости в течение 5 сек. за каждого пораженного противника. Эффект суммируется до 10 раз.",
 			"trTR": "Kadimlerin Çekici ile hasar verilen düşman başına 5 saniye boyunca x3% daha fazla Hiddet üret. 10 kez biriktirilebilir.",
 			"zhCN": "每有一个被先祖之锤伤害的敌人, 便可额外获得 x3% 怒气, 持续 5 秒, 最多可叠加 10 次。",
-			"zhTW": "先祖之鎚每對一個敵人造成傷害,你會獲得 x3% 額外怒氣,持續 5 秒,最多可堆疊 10 次。"
+			"zhTW": "先祖之鎚每對一個敵人造成傷害,你會獲得 x3% 額外怒氣,持續 5 秒,最多可堆疊 10 次。",
+			"thTH": "ได้รับ Fury เพิ่มขึ้น x3% เป็นระยะเวลา 5 วินาที ต่อจำนวนศัตรูที่ได้รับความเสียหายจาก Hammer of the Ancients, ซ้อนทับกันได้สูงสุด 10 ครั้ง"
 },
 		id: 17,
 		maxPoints: 1,
@@ -819,7 +823,8 @@ Tags: Core, Bludgeoning, Fury, Physical, Damage, Two-Handed.`,
 			"ruRU": "Жестокий молот Древних",
 			"trTR": "Şiddetli Kadimlerin Çekici",
 			"zhCN": "暴力先祖之锤",
-			"zhTW": "凶暴先祖之鎚"
+			"zhTW": "凶暴先祖之鎚",
+			"thTH": "Violent Hammer of the Ancients"
 },
 		descriptionLocalized: {
 			"deDE": "Nach Überwältigen mit Hammer der Urahnen verursacht Ihr 5 Sek. lang x30% mehr Schaden.",
@@ -834,7 +839,8 @@ Tags: Core, Bludgeoning, Fury, Physical, Damage, Two-Handed.`,
 			"ruRU": "Когда \"Молот Древних\" наносит подавляющий урон, наносимый вами урон увеличивается на x30% на 5 сек.",
 			"trTR": "Kadimlerin Çekici ile Aşırı Güçlendikten sonra 5 saniyeliğine x30% daha fazla hasar verirsin.",
 			"zhCN": "使用先祖之锤造成压制后, 你造成的伤害提高 x30%, 持续 5 秒。",
-			"zhTW": "以先祖之鎚造成壓制後,你造成的傷害提高 x30%,持續 5 秒。"
+			"zhTW": "以先祖之鎚造成壓制後,你造成的傷害提高 x30%,持續 5 秒。",
+			"thTH": "หลังจากที่คุณ Overpower ด้วย Hammer of the Ancients, คุณจะทำความเสียหายเพิ่มขึ้น x30% เป็นระยะเวลา 5 วินาที"
 },
 		id: 18,
 		maxPoints: 1,
@@ -858,7 +864,8 @@ Tags: Core, Bludgeoning, Fury, Physical, Damage, Two-Handed.`,
 			"ruRU": "Яростный молот Древних",
 			"trTR": "Hiddetli Kadimlerin Çekici",
 			"zhCN": "狂怒先祖之锤",
-			"zhTW": "狂怒先祖之鎚"
+			"zhTW": "狂怒先祖之鎚",
+			"thTH": "Furious Hammer of the Ancients"
 },
 		descriptionLocalized: {
 			"deDE": "Hammer der Urahnen fügt x1% zusätzlichen Schaden für jeden Wutpunkt zu, den Ihr bei Aktivierung hattet.",
@@ -873,7 +880,8 @@ Tags: Core, Bludgeoning, Fury, Physical, Damage, Two-Handed.`,
 			"ruRU": "\"Молот Древних\" наносит на x1% больше урона за каждую единицу ярости, накопленную на момент применения умения.",
 			"trTR": "Kadimlerin Çekici, kullanırken sahip olduğun Hiddet puanı başına x1% ilave hasar verir.",
 			"zhCN": "使用先祖之锤时, 每有一点怒气, 造成的伤害提高 x1%。",
-			"zhTW": "使用先祖之鎚時,你每擁有一點怒氣,可造成 x1% 額外傷害。"
+			"zhTW": "使用先祖之鎚時,你每擁有一點怒氣,可造成 x1% 額外傷害。",
+			"thTH": "Hammer of the Ancients ทำความเสียหายเพิ่มขึ้น x1% ต่อจำนวน Fury ที่คุณมี"
 },
 		id: 19,
 		maxPoints: 1,
@@ -901,7 +909,8 @@ Tags: Core, Damage, Physical, Fury, Two-Handed.`,
 			"ruRU": "Выброс земли",
 			"trTR": "Ayaklanma",
 			"zhCN": "扬石飞沙",
-			"zhTW": "動盪震擊"
+			"zhTW": "動盪震擊",
+			"thTH": "Upheaval"
 },
 		descriptionLocalized: {
 			"deDE": "Attack Speed Multiplier: 1.1\nWutkosten: 40\nGlückstrefferchance: 25% (per hit)\nBohrt Eure Waffe in den Boden und schleudert Geröll nach vorn, das {70/77/84/91/98/105/112/119/126/133}% Schaden verursacht.\n\nTags: Kern, Schaden, Physisch, Wut, Zweihändig.",
@@ -916,7 +925,8 @@ Tags: Core, Damage, Physical, Fury, Two-Handed.`,
 			"ruRU": "Attack Speed Multiplier: 1.1\nЗатраты ярости: 40 ед.\nВероятность удачного удара: 25% (per hit)\nВы разрываете землю и запускаете вперед обломки, наносящие {70/77/84/91/98/105/112/119/126/133}% ед. урона.\n\nTags: Основное, Урон, Физический урон, Ярость, Двуручное.",
 			"trTR": "Attack Speed Multiplier: 1.1\nHiddet Bedeli: 40\nŞanslı Vuruş İhtimali: 25% (per hit)\nSilahınla yeri yarıp ileriye doğru enkaz fırlatarak {70/77/84/91/98/105/112/119/126/133}% hasar ver.\n\nTags: Çekirdek, Hasar, Fiziksel, Hiddet, Çift El.",
 			"zhCN": "Attack Speed Multiplier: 1.1\n怒气消耗: 40\n幸运一击几率: 25% (per hit)\n用你的武器撕裂大地并向前方扬起碎片, 造成 {70/77/84/91/98/105/112/119/126/133}% 点伤害。\n\nTags: 核心, 伤害, 物理, 怒气, 双手.",
-			"zhTW": "Attack Speed Multiplier: 1.1\n怒氣消耗:40\n幸運觸發機率: 25% (per hit)\n用武器重劈地面,將石塊彈飛砸向敵人,造成 {70/77/84/91/98/105/112/119/126/133}% 點傷害。\n\nTags: 核心, 傷害, 物理, 怒氣, 雙手."
+			"zhTW": "Attack Speed Multiplier: 1.1\n怒氣消耗:40\n幸運觸發機率: 25% (per hit)\n用武器重劈地面,將石塊彈飛砸向敵人,造成 {70/77/84/91/98/105/112/119/126/133}% 點傷害。\n\nTags: 核心, 傷害, 物理, 怒氣, 雙手.",
+			"thTH": "ความเร็วในการโจมตี: 1.1\nใช้ Fury: 40\nLucky Hit: 25%(per hit)\nทำความเสียหาย {70/77/84/91/98/105/112/119/126/133}% ในพื้นที่ด้านหน้าของคุณ. \n\nTags: Core, Damage, Physical, Fury, Two-Handed."
 },
 		id: 20,
 		maxPoints: 5,
@@ -940,7 +950,8 @@ Tags: Core, Damage, Physical, Fury, Two-Handed.`,
 			"ruRU": "Усиленный выброс земли",
 			"trTR": "Geliştirilmiş Ayaklanma",
 			"zhCN": "强化扬石飞沙",
-			"zhTW": "強化動盪震擊"
+			"zhTW": "強化動盪震擊",
+			"thTH": "Enhanced Upheaval"
 },
 		descriptionLocalized: {
 			"deDE": "Aufwühlen verfügt über eine Chance von 20%, alle Gegner, denen die Fertigkeit Schaden zufügt, 2.5 Sek. lang zu betäuben.",
@@ -955,7 +966,8 @@ Tags: Core, Damage, Physical, Fury, Two-Handed.`,
 			"ruRU": "\"Выброс земли\" с вероятностью 20% оглушает пораженных противников на 2.5 сек.",
 			"trTR": "Ayaklanma 20% ihtimalle hasar verdiği tüm düşmanları 2.5 saniyeliğine Sersemletir.",
 			"zhCN": "扬石飞沙造成伤害时有 20% 几率击晕所有敌人, 持续 2.5 秒。",
-			"zhTW": "動盪震擊有 20% 機率擊昏所有擊中造成傷害的敵人,持續 2.5 秒。"
+			"zhTW": "動盪震擊有 20% 機率擊昏所有擊中造成傷害的敵人,持續 2.5 秒。",
+			"thTH": "Upheaval มีโอกาศ 20% ที่จะ Stun 2.5 วินาที แก่ศัตรูทุกตัวที่ได้รับความเสียหาย"
 },
 		id: 21,
 		maxPoints: 1,
@@ -979,7 +991,8 @@ Tags: Core, Damage, Physical, Fury, Two-Handed.`,
 			"ruRU": "Жестокий выброс земли",
 			"trTR": "Şiddetli Ayaklanma",
 			"zhCN": "狂暴扬石飞沙",
-			"zhTW": "凶暴動盪震擊"
+			"zhTW": "凶暴動盪震擊",
+			"thTH": "Violent Upheaval"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Aufwühlen mindestens 2 Gegnern Schaden zufügt, verfallt Ihr 2 Sek. lang in den Berserkermodus. Die Dauer erhöht sich auf 3 Sek., wenn die Fertigkeit mindestens 4 Gegnern Schaden zufügt.",
@@ -994,7 +1007,8 @@ Tags: Core, Damage, Physical, Fury, Two-Handed.`,
 			"ruRU": "Когда \"Выброс земли\" наносит урон 2 или более противникам, вы переходите в состояние берсерка на 2 сек. Если способность поражает хотя бы 4 противников, время действия продлевается до 3 сек.",
 			"trTR": "Ayaklanma en az 2 düşmana hasar verirse 2 saniyeliğine Başıbozukluk kazanırsın. En az 4 düşmana hasar verilirse bu süre artarak 3 saniye olur.",
 			"zhCN": "如果扬石飞沙至少对 2 名敌人造成伤害, 你获得狂暴, 持续 2 秒。如果至少对 4 名敌人造成伤害则延长至 3 秒。",
-			"zhTW": "若動盪震擊對至少 2 個敵人造成傷害,你會獲得狂暴 2 秒。若對至少 4 個敵人造成傷害,則提高至 3 秒。"
+			"zhTW": "若動盪震擊對至少 2 個敵人造成傷害,你會獲得狂暴 2 秒。若對至少 4 個敵人造成傷害,則提高至 3 秒。",
+			"thTH": "หาก Upheaval ทำความเสียหายศัตรูอย่างน้อย 2 ตัวขึ้นไป, ได้รับ Berserking เป็นระยะเวลา 2 วินาที, เพิ่มขึ้นเป็น 3 วินาที หากทำความเสียหายแก่ศัตรูอย่างน้อย 4 ตัวขึ้นไป"
 },
 		id: 22,
 		maxPoints: 1,
@@ -1018,7 +1032,8 @@ Tags: Core, Damage, Physical, Fury, Two-Handed.`,
 			"ruRU": "Яростный выброс земли",
 			"trTR": "Hiddetli Ayaklanma",
 			"zhCN": "狂怒扬石飞沙",
-			"zhTW": "狂怒動盪震擊"
+			"zhTW": "狂怒動盪震擊",
+			"thTH": "Furious Upheaval"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr einem Gegner mit einer anderen Fertigkeit als Aufwühlen direkten Schaden zufügt, verursacht Euer nächster Einsatz von Aufwühlen x3% mehr Schaden (bis zu 10-mal stapelbar).",
@@ -1033,7 +1048,8 @@ Tags: Core, Damage, Physical, Fury, Two-Handed.`,
 			"ruRU": "Когда вы наносите прямой урон любым умением, кроме \"Выброса земли\", ваш следующий \"Выброс земли\" наносит на x3% больше урона. Эффект суммируется до 10 раз.",
 			"trTR": "Ayaklanma olmayan bir yetenekle bir düşmana doğrudan hasar vermek, bir sonraki Ayaklanma kullanımının x3% artırılmış hasar vermesini sağlar ve 10 kez biriktirilebilir.",
 			"zhCN": "使用扬石飞沙之外的技能对敌人造成直接伤害, 可以使你的下一次扬石飞沙造成的伤害提高 x3%, 该效果最多可叠加 10 次。",
-			"zhTW": "使用動盪震擊以外的技能對敵人造成直接傷害,會使你下一次施放動盪震擊造成的傷害提高 x3%,最多可堆疊 10 次。"
+			"zhTW": "使用動盪震擊以外的技能對敵人造成直接傷害,會使你下一次施放動盪震擊造成的傷害提高 x3%,最多可堆疊 10 次。",
+			"thTH": "เมื่อทำความเสียหายด้วยสกิลที่ไม่ใช่ Upheaval จะทำให้การใช้สกิล Upheaval ครั้งต่อไปทำความเสียหายเพิ่มขึ้น x3%, ซ้อนทับกันได้สูงสุด 10 ครั้ง"
 },
 		id: 23,
 		maxPoints: 1,
@@ -1060,7 +1076,8 @@ Tags: Core, Dual Wield, Damage, Physical, Fury.`,
 			"ruRU": "Двойной удар",
 			"trTR": "Çifte Savurma",
 			"zhCN": "双重横扫",
-			"zhTW": "雙手揮擊"
+			"zhTW": "雙手揮擊",
+			"thTH": "Double Swing"
 },
 		descriptionLocalized: {
 			"deDE": "Wutkosten: {#}\nGlückstrefferchance: 30% (per hit)\nSchwingt Eure Waffen aus entgegengesetzten Richtungen und verursacht mit jeder Waffe {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% Schaden. Gegner in der Mitte erleiden durch beide Waffen Schaden.\n\nTags: Kern, Zwei Waffen, Schaden, Physisch, Wut.",
@@ -1075,7 +1092,8 @@ Tags: Core, Dual Wield, Damage, Physical, Fury.`,
 			"ruRU": "Затраты ярости: {#} ед.\nВероятность удачного удара: 30% (per hit)\nВы атакуете оружием в обеих руках, нанося по {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% ед. урона каждым оружием. Противники в центре получают урон от обоих ударов.\n\nTags: Основное, Оружие в каждой руке, Урон, Физический урон, Ярость.",
 			"trTR": "Hiddet Bedeli: {#}\nŞanslı Vuruş İhtimali: 30% (per hit)\nSilahlarını ters yönlerden savurarak her bir silahla {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% hasar ver. Saldırının merkezinde kalan düşmanlar iki silahtan da hasar alır.\n\nTags: Çekirdek, İkili Silah, Hasar, Fiziksel, Hiddet.",
 			"zhCN": "怒气消耗: {#}\n幸运一击几率: 30% (per hit)\n从两侧挥动你的武器, 每把武器造成 {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% 点伤害。在中间的敌人会同时受到两把武器的伤害。\n\nTags: 核心, 双持, 伤害, 物理, 怒气.",
-			"zhTW": "怒氣消耗:{#}\n幸運觸發機率: 30% (per hit)\n使用武器交叉揮擊,每把武器造成 {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% 點傷害。在攻擊範圍中央的敵人會被兩把武器擊中。\n\nTags: 核心, 雙持, 傷害, 物理, 怒氣."
+			"zhTW": "怒氣消耗:{#}\n幸運觸發機率: 30% (per hit)\n使用武器交叉揮擊,每把武器造成 {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% 點傷害。在攻擊範圍中央的敵人會被兩把武器擊中。\n\nTags: 核心, 雙持, 傷害, 物理, 怒氣.",
+			"thTH": "ใช้ Fury: {#}\nLucky Hit: 30% (per hit)\nทำความเสียหาย {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% ด้วยอาวุธในมือทั้งสองข้าง. ศัตรูที่อยู่ตรงกลางจะได้รับความเสียหายจากทั้งสองข้าง. \n\nTags: Core, Dual Wield, Damage, Physical, Fury."
 },
 		id: 24,
 		maxPoints: 5,
@@ -1100,7 +1118,8 @@ Tags: Core, Dual Wield, Damage, Physical, Fury.`,
 			"ruRU": "Усиленный двойной удар",
 			"trTR": "Geliştirilmiş Çifte Savurma",
 			"zhCN": "强化双重横扫",
-			"zhTW": "強化雙手揮擊"
+			"zhTW": "強化雙手揮擊",
+			"thTH": "Enhanced Double Swing"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Doppelschwung einem betäubten oder zurückgestoßenen Gegner Schaden zufügt, erhaltet Ihr 25 Wut.",
@@ -1115,7 +1134,8 @@ Tags: Core, Dual Wield, Damage, Physical, Fury.`,
 			"ruRU": "Если \"Двойной удар\" наносит урон оглушенному или сбитому с ног противнику, вы получаете 25 ед. ярости.",
 			"trTR": "Çifte Savurma Sersemletilmiş veya Yere Serilmiş bir düşmana hasar verirse 25 Hiddet kazan.",
 			"zhCN": "如果双重横扫的伤害击晕或击倒敌人, 获得 25 点怒气。",
-			"zhTW": "雙手揮擊對昏迷或被擊倒的敵人造成傷害時,獲得 25 點怒氣。"
+			"zhTW": "雙手揮擊對昏迷或被擊倒的敵人造成傷害時,獲得 25 點怒氣。",
+			"thTH": "หากใช้สกิล Double Swing แก่ศัตรูอยู่ในสถานะ Stunned หรือ Knocked Down, คุณจะได้รับ 25 Fury"
 },
 		id: 25,
 		maxPoints: 1,
@@ -1139,7 +1159,8 @@ Tags: Core, Dual Wield, Damage, Physical, Fury.`,
 			"ruRU": "Яростный двойной удар",
 			"trTR": "Hiddetli Çifte Savurma",
 			"zhCN": "狂怒双重横扫",
-			"zhTW": "狂怒雙手揮擊"
+			"zhTW": "狂怒雙手揮擊",
+			"thTH": "Furious Double Swing"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr im Berserkermodus Doppelschwung wirkt, hält der Berserkermodus 2 Sek. länger an.",
@@ -1154,7 +1175,8 @@ Tags: Core, Dual Wield, Damage, Physical, Fury.`,
 			"ruRU": "Когда вы применяете \"Двойной удар\" в состоянии берсерка, время действия берсерка продлевается на 2 сек.",
 			"trTR": "Başıbozukluk sırasında Çifte Savurma kullanmak, Başıbozukluk süresini 2 saniye uzatır.",
 			"zhCN": "狂暴状态下施放双重横扫可以获得额外 2 秒狂暴。",
-			"zhTW": "狂暴時施放雙手揮擊會使狂暴延長 2 秒。"
+			"zhTW": "狂暴時施放雙手揮擊會使狂暴延長 2 秒。",
+			"thTH": "เมื่อใช้สกิล Double Swing ในขณะที่ Berserking จะได้รับระยะเวลา Berserking เพิ่มเติม 2 วินาที"
 },
 		id: 26,
 		maxPoints: 1,
@@ -1178,7 +1200,8 @@ Tags: Core, Dual Wield, Damage, Physical, Fury.`,
 			"ruRU": "Жестокий двойной удар",
 			"trTR": "Şiddetli Çifte Savurma",
 			"zhCN": "暴力双重横扫",
-			"zhTW": "凶暴雙手揮擊"
+			"zhTW": "凶暴雙手揮擊",
+			"thTH": "Violent Double Swing"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr einen Gegner mit beiden Treffern von Doppelschwung trefft, wird dieser 1 Sek. lang verwundbar.",
@@ -1193,7 +1216,8 @@ Tags: Core, Dual Wield, Damage, Physical, Fury.`,
 			"ruRU": "Противники, пораженные обеими атаками \"Двойного удара\", становятся уязвимыми на 1 сек.",
 			"trTR": "Bir düşmana Çifte Savurmanın iki saldırısıyla da vurmak, düşmanı 1 saniyeliğine Savunmasız hâle getirir.",
 			"zhCN": "双重横扫的两次攻击对一名敌人造成伤害的同时也会使其陷入易伤状态, 持续 1 秒。",
-			"zhTW": "雙手揮擊的兩手打中同一名敵人時,會使其易傷 1 秒。"
+			"zhTW": "雙手揮擊的兩手打中同一名敵人時,會使其易傷 1 秒。",
+			"thTH": "ศัตรูที่ได้รับความเสียหายจากอาวุธทั้งสองข้างด้วย Double Swing จะทำให้ศัตรูอยู่ในสถานะ Vulnerable เป็นระยะเวลา 1 วินาที"
 },
 		id: 27,
 		maxPoints: 1,
@@ -1218,7 +1242,8 @@ Tags: Vulnerable, Core, Lucky Hit.`,
 			"ruRU": "Уязвимая точка",
 			"trTR": "Baskı Noktası",
 			"zhCN": "点穴打击",
-			"zhTW": "施壓"
+			"zhTW": "施壓",
+			"thTH": "Pressure Point"
 },
 		descriptionLocalized: {
 			"deDE": "Glückstreffer: Eure Kernfertigkeiten verfügen über eine Chance von {10/20/30/40/50/60/70/80/90/100}%, Gegner 2 Sek. lang verwundbar zu machen.\n\nTags: Verwundbar, Kern, Glückstreffer.",
@@ -1233,7 +1258,8 @@ Tags: Vulnerable, Core, Lucky Hit.`,
 			"ruRU": "Удачный удар: ваши основные умения с вероятностью до {10/20/30/40/50/60/70/80/90/100}% делают противников уязвимыми на 2 сек.\n\nTags: Уязвимость, Основное, Удачный удар.",
 			"trTR": "Şanslı Vuruş: Çekirdek yeteneklerin en fazla %{10/20/30/40/50/60/70/80/90/100} ihtimalle düşmanları 2 saniyeliğine Savunmasız hâle getirir.\n\nTags: Savunmasız, Çekirdek, Şanslı Vuruş.",
 			"zhCN": "幸运一击: 你的核心技能最多有 {10/20/30/40/50/60/70/80/90/100}% 几率使敌人陷入易伤状态, 持续 2 秒。\n\nTags: 易伤, 核心, 幸运一击.",
-			"zhTW": "幸運觸發:你的核心技能最高有 {10/20/30/40/50/60/70/80/90/100}% 機率讓敵人易傷,持續 2 秒。\n\nTags: 易傷, 核心, 幸運觸發."
+			"zhTW": "幸運觸發:你的核心技能最高有 {10/20/30/40/50/60/70/80/90/100}% 機率讓敵人易傷,持續 2 秒。\n\nTags: 易傷, 核心, 幸運觸發.",
+			"thTH": "Lucky Hit: สกิล Core มีโอกาศ {10/20/30/40/50/60/70/80/90/100}% ที่จะทำให้ศัตรูอยู่ในสถานะ Vulnerable เป็นระยะเวลา 2 วินาที"
 },
 		id: 28,
 		maxPoints: 3,
@@ -1260,7 +1286,8 @@ Tags: Core, Bleed, Damage, Physical, Fury, Slashing.`,
 			"ruRU": "Рваные раны",
 			"trTR": "Parçala",
 			"zhCN": "痛割",
-			"zhTW": "撕裂"
+			"zhTW": "撕裂",
+			"thTH": "Rend"
 },
 		descriptionLocalized: {
 			"deDE": "Wutkosten: 35\nGlückstrefferchance: 33% (per use)\nSpaltet Gegner vor Euch, wodurch Ihr ihnen {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% Schaden zufügt und im Verlauf von 5 Sek. {96/105.5/115/125/134.5/144/153.5/163/173/182.5}% Blutungsschaden verursacht.\n\nTags: Kern, Blutung, Schaden, Physisch, Wut, Hiebwaffe.",
@@ -1275,7 +1302,8 @@ Tags: Core, Bleed, Damage, Physical, Fury, Slashing.`,
 			"ruRU": "Затраты ярости: 35 ед.\nВероятность удачного удара: 33% (per use)\nВы рубите противников перед собой, нанося им {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% ед. урона мгновенно и еще {96/105.5/115/125/134.5/144/153.5/163/173/182.5}% ед. урона от кровотечения за 5 сек.\n\nTags: Основное, Кровотечение, Урон, Физический урон, Ярость, Рубящее.",
 			"trTR": "Hiddet Bedeli: 35\nŞanslı Vuruş İhtimali: 33% (per use)\nÖnündeki düşmanları ikiye ayırarak {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% hasar ver ve 5 saniye boyunca {96/105.5/115/125/134.5/144/153.5/163/173/182.5}% Kanama hasarı uygula.\n\nTags: Çekirdek, Kanama, Hasar, Fiziksel, Hiddet, Kesici.",
 			"zhCN": "怒气消耗: 35\n幸运一击几率: 33% (per use)\n对面前的敌人发动顺劈斩, 造成 {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% 点伤害并在 5 秒内造成 {96/105.5/115/125/134.5/144/153.5/163/173/182.5}% 点流血伤害。\n\nTags: 核心, 流血, 伤害, 物理, 怒气, 劈斩.",
-			"zhTW": "怒氣消耗:35\n幸運觸發機率:33% (per use)\n劈斬你前方的敵人,造成 {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% 點傷害並在 5 秒內對敵人造成 {96/105.5/115/125/134.5/144/153.5/163/173/182.5}% 點流血傷害。\n\nTags: 核心, 流血, 傷害, 物理, 怒氣, 斬擊."
+			"zhTW": "怒氣消耗:35\n幸運觸發機率:33% (per use)\n劈斬你前方的敵人,造成 {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% 點傷害並在 5 秒內對敵人造成 {96/105.5/115/125/134.5/144/153.5/163/173/182.5}% 點流血傷害。\n\nTags: 核心, 流血, 傷害, 物理, 怒氣, 斬擊.",
+			"thTH": "ใช้ Fury: 35\nLucky Hit: 33% (per use)\nทำความเสียหายศัตรูด้านหน้า ทำความเสียหาย {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% และทำความเสียหาย Bleeding {96/105.5/115/125/134.5/144/153.5/163/173/182.5}% ภายในระยะเวลา 5 วินาที . \n\nTags: ."
 },
 		id: 29,
 		maxPoints: 5,
@@ -1299,7 +1327,8 @@ Tags: Core, Bleed, Damage, Physical, Fury, Slashing.`,
 			"ruRU": "Усиленные рваные раны",
 			"trTR": "Geliştirilmiş Parçala",
 			"zhCN": "强化痛割",
-			"zhTW": "強化撕裂"
+			"zhTW": "強化撕裂",
+			"thTH": "Enhanced Rend"
 },
 		descriptionLocalized: {
 			"deDE": "Direktschaden mit Zerfleischen macht Gegner 2 Sek. länger verwundbar.",
@@ -1314,7 +1343,8 @@ Tags: Core, Bleed, Damage, Physical, Fury, Slashing.`,
 			"ruRU": "Прямой урон от \"Рваных ран\" продлевает действующие на противников эффекты уязвимости на 2 сек.",
 			"trTR": "Parçala ile doğrudan hasar vermek düşmanların üzerindeki Savunmasız süresini 2 saniye uzatır.",
 			"zhCN": "痛割造成直接伤害会使敌人身上的易伤效果延长 2 秒。",
-			"zhTW": "撕裂造成直接傷害時,會使敵人的易傷效果持續時間延長 2 秒。"
+			"zhTW": "撕裂造成直接傷害時,會使敵人的易傷效果持續時間延長 2 秒。",
+			"thTH": "เมื่อทำความเสียหายด้วยสกิล Rend จะเพิ่มระยะเวลา Vulnerable ของศัตรู 2 วินาที"
 },
 		id: 30,
 		maxPoints: 1,
@@ -1338,7 +1368,8 @@ Tags: Core, Bleed, Damage, Physical, Fury, Slashing.`,
 			"ruRU": "Жестокие рваные раны",
 			"trTR": "Şiddetli Parçala",
 			"zhCN": "暴力痛割",
-			"zhTW": "凶暴撕裂"
+			"zhTW": "凶暴撕裂",
+			"thTH": "Violent Rend"
 },
 		descriptionLocalized: {
 			"deDE": "Zerfleischen fügt verwundbaren Gegnern x12% mehr Schaden zu.",
@@ -1353,7 +1384,8 @@ Tags: Core, Bleed, Damage, Physical, Fury, Slashing.`,
 			"ruRU": "\"Рваные раны\" наносят на x12% больше урона уязвимым противникам.",
 			"trTR": "Parçala Savunmasız düşmanlara x12% artırılmış hasar verir.",
 			"zhCN": "痛割对处于易伤状态的敌人造成的伤害提高 x12%。",
-			"zhTW": "撕裂對易傷的敵人造成的傷害提高 x12%。"
+			"zhTW": "撕裂對易傷的敵人造成的傷害提高 x12%。",
+			"thTH": "Rend จะทำความเสียหายเพิ่มขึ้น x12% แก่ศัตรูที่อยู่ในสถานะ Vulnerable"
 },
 		id: 31,
 		maxPoints: 1,
@@ -1377,7 +1409,8 @@ Tags: Core, Bleed, Damage, Physical, Fury, Slashing.`,
 			"ruRU": "Яростные рваные раны",
 			"trTR": "Hiddetli Parçala",
 			"zhCN": "狂怒痛割",
-			"zhTW": "狂怒撕裂"
+			"zhTW": "狂怒撕裂",
+			"thTH": "Furious Rend"
 },
 		descriptionLocalized: {
 			"deDE": "Direkter Schaden mit Zerfleischen verleiht 4 Wut pro getroffenem Gegner, bis maximal 20 Wut.",
@@ -1392,7 +1425,8 @@ Tags: Core, Bleed, Damage, Physical, Fury, Slashing.`,
 			"ruRU": "Прямой урон от \"Рваных ран\" дает 4 ед. ярости за каждого пораженного противника вплоть до 20 ед. ярости.",
 			"trTR": "Parçala ile verilen doğrudan hasar, vurulan düşman başına 4 Hiddet kazandırır. Kazanılan hiddet en fazla 20 olabilir.",
 			"zhCN": "痛割的直接伤害每命中一名敌人获得 4 点怒气, 最多获得 20 点怒气。",
-			"zhTW": "撕裂的直接傷害每擊中一個敵人可讓你獲得 4 點怒氣,最多 20 點怒氣。"
+			"zhTW": "撕裂的直接傷害每擊中一個敵人可讓你獲得 4 點怒氣,最多 20 點怒氣。",
+			"thTH": "เมื่อสกิล Rend ทำความเสียหาย คุณจะได้รับ 4 Fury ต่อจำนวนศัตรูที่โดน, สามารถได้รับสูงสุด 20 Fury"
 },
 		id: 32,
 		maxPoints: 1,
@@ -1419,7 +1453,8 @@ Tags: Core, Channeled, Fury, Physical, Damage.`,
 			"ruRU": "Вихрь",
 			"trTR": "Burgaç",
 			"zhCN": "旋风斩",
-			"zhTW": "旋風斬"
+			"zhTW": "旋風斬",
+			"thTH": "Whirlwind"
 },
 		descriptionLocalized: {
 			"deDE": "Wutkosten: 25 pro Sek.\nGlückstrefferchance: 20% (per hit)\nGreift Gegner in der Nähe schnell an und verursacht {17.3/19.1/20.8/22.5/24.3/26/27.7/29.4/31.2/32.9}% Schaden.\n\nTags: Kern, Kanalisiert, Wut, Physisch, Schaden.",
@@ -1434,7 +1469,8 @@ Tags: Core, Channeled, Fury, Physical, Damage.`,
 			"ruRU": "Затраты ярости: 25 ед. в секунду.\nВероятность удачного удара: 20% (per hit)\nВы стремительно атакуете ближайших противников, нанося {17.3/19.1/20.8/22.5/24.3/26/27.7/29.4/31.2/32.9}% ед. урона.\n\nTags: Основное, Поддерживаемое, Ярость, Физический урон, Урон.",
 			"trTR": "Hiddet Bedeli: Saniyede 25\nŞanslı Vuruş İhtimali: 20% (per hit)\nEtraftaki düşmanlara hızlıca saldırarak {17.3/19.1/20.8/22.5/24.3/26/27.7/29.4/31.2/32.9}% hasar ver.\n\nTags: Çekirdek, Yönlendirmeli, Hiddet, Fiziksel, Hasar.",
 			"zhCN": "怒气消耗: 25点每秒\n幸运一击几率: 20% (per hit)\n快速攻击周围的敌人, 造成 {17.3/19.1/20.8/22.5/24.3/26/27.7/29.4/31.2/32.9}% 点伤害。\n\nTags: 核心, 引导, 怒气, 物理, 伤害.",
-			"zhTW": "怒氣消耗:每秒 25\n幸運觸發機率: 20% (per hit)\n快速攻擊附近敵人,造成 {17.3/19.1/20.8/22.5/24.3/26/27.7/29.4/31.2/32.9}% 點傷害。\n\nTags: 核心, 引導, 怒氣, 物理, 傷害."
+			"zhTW": "怒氣消耗:每秒 25\n幸運觸發機率: 20% (per hit)\n快速攻擊附近敵人,造成 {17.3/19.1/20.8/22.5/24.3/26/27.7/29.4/31.2/32.9}% 點傷害。\n\nTags: 核心, 引導, 怒氣, 物理, 傷害.",
+			"thTH": "ใช้ Fury: 25\nLucky Hit: 20% (per hit)\nทำความเสียหาย {17.3/19.1/20.8/22.5/24.3/26/27.7/29.4/31.2/32.9}% แก่ศัตรูรอบตัวอย่างต่อเนื่อง. \n\nTags: Core, Channeled, Fury, Physical, Damage."
 },
 		id: 33,
 		maxPoints: 5,
@@ -1458,7 +1494,8 @@ Tags: Core, Channeled, Fury, Physical, Damage.`,
 			"ruRU": "Усиленный вихрь",
 			"trTR": "Geliştirilmiş Burgaç",
 			"zhCN": "强化旋风斩",
-			"zhTW": "強化旋風斬"
+			"zhTW": "強化旋風斬",
+			"thTH": "Enhanced Whirlwind"
 },
 		descriptionLocalized: {
 			"deDE": "Erhaltet 1 Wut, wann immer Wirbelwind einem Gegner direkten Schaden zufügt – oder 4 Wut gegen Elitegegner.",
@@ -1473,7 +1510,8 @@ Tags: Core, Channeled, Fury, Physical, Damage.`,
 			"ruRU": "Вы накапливаете 1 ед. ярости, когда \"Вихрь\" наносит прямой урон, и 4 ед. ярости, если урон получает особый противник.",
 			"trTR": "Burgaç düşmanlara her doğrudan hasar verdiğinde 1 Hiddet kazan. Seçkinlere karşı ise 4 Hiddet kazan.",
 			"zhCN": "旋风斩每次对一名敌人造成直接伤害时获得 1 点怒气, 对精英敌人造成伤害则获得 4 点怒气。",
-			"zhTW": "旋風斬每次對敵人造成直接傷害時獲得 1 點怒氣,對精英敵人則獲得 4 點怒氣。"
+			"zhTW": "旋風斬每次對敵人造成直接傷害時獲得 1 點怒氣,對精英敵人則獲得 4 點怒氣。",
+			"thTH": "ทุกครั้งที่สกิล Whirlwind ทำความเสียหายแก่ศัตรู จะได้รับ 1 Fury, หรือ 4 Fury หากทำความเสียหายแก่ศัตรู Elite"
 },
 		id: 34,
 		maxPoints: 1,
@@ -1497,7 +1535,8 @@ Tags: Core, Channeled, Fury, Physical, Damage.`,
 			"ruRU": "Яростный вихрь",
 			"trTR": "Hiddetli Burgaç",
 			"zhCN": "狂怒旋风斩",
-			"zhTW": "狂怒旋風斬"
+			"zhTW": "狂怒旋風斬",
+			"thTH": "Furious Whirlwind"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr eine Hiebwaffe führt, verursacht Wirbelwind im Verlauf von 5 Sek. zusätzlich 40% des Basisschadens als Blutungsschaden.",
@@ -1512,7 +1551,8 @@ Tags: Core, Channeled, Fury, Physical, Damage.`,
 			"ruRU": "При использовании рубящего оружия \"Вихрь\" также наносит урон от кровотечения в объеме 40% базового урона за 5 сек.",
 			"trTR": "Burgaç bir Kesici silah kullanıyorken ayrıca Temel hasarının 40% kadarını 5 saniye boyunca Kanama hasarı olarak uygular.",
 			"zhCN": "使用劈砍武器时, 旋风斩也会在 5 秒内造成 40% 基础伤害的流血伤害。",
-			"zhTW": "使用斬擊武器時,旋風斬會在 5 秒內額外施加等同其基礎傷害 40% 的流血傷害。"
+			"zhTW": "使用斬擊武器時,旋風斬會在 5 秒內額外施加等同其基礎傷害 40% 的流血傷害。",
+			"thTH": "เมื่อใช้อาวุธประเภท Slashing, Whirlwind จะทำความเสียหาย Bleeding 40% ของความเสียหายแรก ภายในระยะเวลา 5 วินาที"
 },
 		id: 35,
 		maxPoints: 1,
@@ -1536,7 +1576,8 @@ Tags: Core, Channeled, Fury, Physical, Damage.`,
 			"ruRU": "Жестокий вихрь",
 			"trTR": "Şiddetli Burgaç",
 			"zhCN": "狂暴旋风斩",
-			"zhTW": "凶暴旋風斬"
+			"zhTW": "凶暴旋風斬",
+			"thTH": "Violent Whirlwind"
 },
 		descriptionLocalized: {
 			"deDE": "Nachdem Wirbelwind 2 Sek. lang eingesetzt wurde, verursacht Wirbelwind x30% mehr Schaden, bis er abgebrochen wird.",
@@ -1551,7 +1592,8 @@ Tags: Core, Channeled, Fury, Physical, Damage.`,
 			"ruRU": "Когда время действия \"Вихря\" достигает 2 сек., наносимый им урон увеличивается на x30% до отмены умения.",
 			"trTR": "2 saniye boyunca Burgaç kullandıktan sonra Burgaç iptal edilene kadar x30% artırılmış hasar verir.",
 			"zhCN": "使用旋风斩持续 2 秒后, 旋风斩造成的伤害提高 x30%, 该效果会一直持续到取消该技能。",
-			"zhTW": "使用旋風斬後的 2 秒內,旋風斬造成的傷害提高 x30%,直到解除為止。"
+			"zhTW": "使用旋風斬後的 2 秒內,旋風斬造成的傷害提高 x30%,直到解除為止。",
+			"thTH": "หลังจากที่ใช้สกิล Whirlwind เป็นระยะเวลา 2 วินาที, Whirlwind จะทำความเสียหายเพิ่มขึ้น x30% จนกว่าจะหยุดการใช้สกิล"
 },
 		id: 36,
 		maxPoints: 1,
@@ -1576,7 +1618,8 @@ Tags: Fury, Basic, Two-Handed.`,
 			"ruRU": "Бесконечная ярость",
 			"trTR": "Sonsuz Hiddet",
 			"zhCN": "无尽怒气",
-			"zhTW": "無盡狂怒"
+			"zhTW": "無盡狂怒",
+			"thTH": "Endless Fury"
 },
 		descriptionLocalized: {
 			"deDE": "Basisfertigkeiten erzeugen x{5/10/15/20/25/30/35/40/45/50}% mehr Wut, wenn Ihr Zweihandwaffen verwendet.\n\nTags: Wut, Basis, Zweihändig.",
@@ -1591,7 +1634,8 @@ Tags: Fury, Basic, Two-Handed.`,
 			"ruRU": "Базовые умения позволяют накопить на x{5/10/15/20/25/30/35/40/45/50}% больше ярости при использовании двуручного оружия.\n\nTags: Ярость, Базовое, Двуручное.",
 			"trTR": "Temel Yetenekler Çift El silahlar kullanırken x{5/10/15/20/25/30/35/40/45/50}% daha fazla Hiddet üretir.\n\nTags: Hiddet, Temel, Çift El.",
 			"zhCN": "使用双手武器时, 基础技能生成的怒气提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 怒气, 基础, 双手.",
-			"zhTW": "使用雙手武器時,基本技能產生的怒氣提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 怒氣, 基本, 雙手."
+			"zhTW": "使用雙手武器時,基本技能產生的怒氣提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 怒氣, 基本, 雙手.",
+			"thTH": "สกิล Basic จะได้รับ x{5/10/15/20/25/30/35/40/45/50}% Fury มากขึ้นเมื่อใช้อาวุธสองมือ"
 },
 		id: 37,
 		maxPoints: 3,
