@@ -2235,7 +2235,7 @@ function handleParagonGlyphSocket(curNode) {
 	if (nodeData.get("allocatedPoints") == 0 && getUnusedPoints(true) == 0) return;
 	handlePlusButton(curNode);
 
-	const activeLocale = readCookie("activeLocale", "enUS");
+	const activeLocale = readCookie("activeLocale", "thTH");
 	const boardIndex = nodeData.get("_boardIndex");
 	const boardHeader = nodeData.get("_boardHeader");
 	const boardContainer = boardHeader.nodeData.get("boardContainer");
@@ -2509,7 +2509,7 @@ function equipPanelPower(curNode, codexId, redrawTooltip = false) {
 	const codexNode = pixiNodes.find(pixiNode => pixiNode.nodeData.get("id") == codexId);
 	const codexData = codexNode.nodeData;
 
-	const activeLocale = readCookie("activeLocale", "enUS");
+	const activeLocale = readCookie("activeLocale", "thTH");
 
 	equipmentPanelData[nodeId] = codexId;
 
@@ -2572,7 +2572,7 @@ function unequipPanelPower(curNode, redrawTooltip = false) {
 var techniqueSlotData = null;
 var techniqueSlotNode = null;
 function handleTechniqueSlotButton(curNode) {
-	const activeLocale = readCookie("activeLocale", "enUS");
+	const activeLocale = readCookie("activeLocale", "thTH");
 
 	const className = $(classString).length == 0 ? "none" : $(classString).val();
 	const classData = classMap.get(className);
@@ -2628,7 +2628,7 @@ function equipTechnique(techniqueId, redrawTooltip = false) {
 
 	const nodeData = techniqueSlotNode.nodeData;
 
-	const activeLocale = readCookie("activeLocale", "enUS");
+	const activeLocale = readCookie("activeLocale", "thTH");
 
 	techniqueSlotData = techniqueId;
 
@@ -2709,7 +2709,7 @@ function handleEnchantSlotButton(curNode) {
 
 	const enchantNodes = pixiNodes.filter(pixiNode => pixiNode.nodeDesc != undefined && pixiNode.nodeDesc.includes(ENCHANT_EFFECT_DESC));
 
-	const activeLocale = readCookie("activeLocale", "enUS");
+	const activeLocale = readCookie("activeLocale", "thTH");
 
 	let modalOptions = "";
 	for (const enchantNode of enchantNodes) {
@@ -2765,7 +2765,7 @@ function equipEnchant(curNode, enchantId, redrawTooltip = false) {
 	const enchantNode = pixiNodes.find(pixiNode => pixiNode.nodeData.get("id") == enchantId);
 	const enchantData = enchantNode.nodeData;
 
-	const activeLocale = readCookie("activeLocale", "enUS");
+	const activeLocale = readCookie("activeLocale", "thTH");
 
 	enchantSlotData[nodeId] = enchantId;
 
@@ -3534,7 +3534,7 @@ function redrawAllNodes(idleMode = false) {
 }
 function drawNode(nodeName, nodeData, groupName, extraData = null, nodeIndex = pixiNodes.length, nodePosition = null) {
 	const scaleFactor = devicePixelRatio >= 2 ? 1 : 2 / devicePixelRatio * newRenderScale;
-	const activeLocale = readCookie("activeLocale", "enUS");
+	const activeLocale = readCookie("activeLocale", "thTH");
 
 	let node = null;
 	if (pixiNodes.length > nodeIndex) {
@@ -4793,7 +4793,7 @@ function drawTooltip(curNode, forceDraw) {
 		}
 	} else {
 		const allocatedPoints = nodeData.get("allocatedPoints");
-		const activeLocale = readCookie("activeLocale", "enUS");
+		const activeLocale = readCookie("activeLocale", "thTH");
 		if ([EQUIPMENT_PANEL, CODEX_OF_POWER].includes(curNode.groupName)) {
 			nodeDesc = nodeDesc.replace(/{(.+?)}/g, (matchText, captureText) => {
 				const outputText = captureText.split("/");
@@ -5385,7 +5385,7 @@ $(document).ready(function() {
 		templateResult: handleLocaleTemplateResult,
 		templateSelection: handleLocaleTemplateSelection
 	});
-	$("#localeSelector").val(readCookie("activeLocale", "enUS")).trigger("change");
+	$("#localeSelector").val(readCookie("activeLocale", "thTH")).trigger("change");
 	$("#localeSelector").on("change", handleLocaleSelection);
 
 	$("#versionLabel").on("click", handleVersionLabel);
