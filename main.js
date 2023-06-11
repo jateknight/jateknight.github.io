@@ -1054,20 +1054,6 @@ function handleLocaleSelection(event) {
 	redrawAllNodes(false);
 }
 const localeFlagPairs = {
-	"deDE": "de",
-	"enUS": "us",
-	"esES": "es",
-	"esMX": "mx",
-	"frFR": "fr",
-	"itIT": "it",
-	"jaJP": "jp",
-	"koKR": "kr",
-	"plPL": "pl",
-	"ptBR": "br",
-	"ruRU": "ru",
-	"trTR": "tr",
-	"zhCN": "cn",
-	"zhTW": "tw",
 	"thTH": "th"
 };
 const localeFlagPairEntries = Object.entries(localeFlagPairs);
