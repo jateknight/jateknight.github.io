@@ -628,7 +628,7 @@ Tags: Basic, Bleed, Slashing, Fury, Damage, Physical.`,
 			"trTR": "Deri Yüzme 10% ihtimalle 2 saniyeliğine düşmanı Savunmasız hâle getirir. Çift El silah kullanırken bu ihtimal iki katına çıkar.",
 			"zhCN": "剥皮有 10% 几率使敌人陷入易伤状态, 持续 2 秒。使用双手武器时该几率翻倍。",
 			"zhTW": "剝皮有 10% 機率使敵人易傷,持續 2 秒。使用雙手武器時該機率加倍。",
-			"thTH": "Flay มีโอกาศ 10% ทำให้ศัตรู Vulnerable เป็นระยะเวลา 2 วินาที. เพิ่มโอกาศสองเท่าเมื่อใช้อาวุธสองมือ."
+			"thTH": "Flay มีโอกาส 10% ทำให้ศัตรู Vulnerable เป็นระยะเวลา 2 วินาที. เพิ่มโอกาสสองเท่าเมื่อใช้อาวุธสองมือ."
 },
 		id: 13,
 		maxPoints: 1,
@@ -967,7 +967,7 @@ Tags: Core, Damage, Physical, Fury, Two-Handed.`,
 			"trTR": "Ayaklanma 20% ihtimalle hasar verdiği tüm düşmanları 2.5 saniyeliğine Sersemletir.",
 			"zhCN": "扬石飞沙造成伤害时有 20% 几率击晕所有敌人, 持续 2.5 秒。",
 			"zhTW": "動盪震擊有 20% 機率擊昏所有擊中造成傷害的敵人,持續 2.5 秒。",
-			"thTH": "Upheaval มีโอกาศ 20% ที่จะ Stun 2.5 วินาที แก่ศัตรูทุกตัวที่ได้รับความเสียหาย"
+			"thTH": "Upheaval มีโอกาส 20% ที่จะ Stun 2.5 วินาที แก่ศัตรูทุกตัวที่ได้รับความเสียหาย"
 },
 		id: 21,
 		maxPoints: 1,
@@ -1259,7 +1259,7 @@ Tags: Vulnerable, Core, Lucky Hit.`,
 			"trTR": "Şanslı Vuruş: Çekirdek yeteneklerin en fazla %{10/20/30/40/50/60/70/80/90/100} ihtimalle düşmanları 2 saniyeliğine Savunmasız hâle getirir.\n\nTags: Savunmasız, Çekirdek, Şanslı Vuruş.",
 			"zhCN": "幸运一击: 你的核心技能最多有 {10/20/30/40/50/60/70/80/90/100}% 几率使敌人陷入易伤状态, 持续 2 秒。\n\nTags: 易伤, 核心, 幸运一击.",
 			"zhTW": "幸運觸發:你的核心技能最高有 {10/20/30/40/50/60/70/80/90/100}% 機率讓敵人易傷,持續 2 秒。\n\nTags: 易傷, 核心, 幸運觸發.",
-			"thTH": "Lucky Hit: สกิล Core มีโอกาศ {10/20/30/40/50/60/70/80/90/100}% ที่จะทำให้ศัตรูอยู่ในสถานะ Vulnerable เป็นระยะเวลา 2 วินาที"
+			"thTH": "Lucky Hit: สกิล Core มีโอกาส {10/20/30/40/50/60/70/80/90/100}% ที่จะทำให้ศัตรูอยู่ในสถานะ Vulnerable เป็นระยะเวลา 2 วินาที"
 },
 		id: 28,
 		maxPoints: 3,
@@ -4114,7 +4114,7 @@ Tags: Critical Strikes, Crowd Control.`,
 			"trTR": "Sabitlenmiş, Sersemletilmiş veya Yavaşlatılmış düşmanlara karşı +{3/6/9/12/15/18/21/24/27/30}% artırılmış Kritik Vuruş ihtimalin bulunur.\n\nTags: Kritik Vuruşlar, Kitle Kontrolü.",
 			"zhCN": "你对处于定身、昏迷或减速状态的敌人造成暴击的几率提高 +{3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 暴击, 群控.",
 			"zhTW": "你對定身、昏迷或緩速敵人的爆擊機率提高 +{3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 爆擊, 控場.",
-			"thTH": "ได้รับ +{3/6/9/12/15/18/21/24/27/30}% โอกาศในการโจมตี Critical แก่ศัตรูที่อยู่ในสถานะ Immobilized, Stunned หรือ Slowed"
+			"thTH": "ได้รับ +{3/6/9/12/15/18/21/24/27/30}% โอกาสในการโจมตี Critical แก่ศัตรูที่อยู่ในสถานะ Immobilized, Stunned หรือ Slowed"
 },
 		id: 96,
 		maxPoints: 3,
@@ -4399,7 +4399,8 @@ Tags: Ultimate, Damage, Physical, Cooldown.`,
 			"ruRU": "Зов Древних",
 			"trTR": "Kadimlerin Çağrısı",
 			"zhCN": "先祖召唤",
-			"zhTW": "先祖召喚"
+			"zhTW": "先祖召喚",
+			"thTH": "Call of the Ancients"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 50 Sek.\nGlückstrefferchance: 30% (per hit)\nBeschwört 3 Urahnen, die Euch 6 Sek. lang im Kampf unterstützen.\n• Korlic springt Gegner an, verursacht 104% Schaden und schwingt wild seine Waffen, die 39% Schaden pro Treffer verursachen.\n• Talic wirbelt umher und fügt Gegnern dabei 65% Schaden zu.\n• Madawc wühlt den Boden auf und verursacht 195% Schaden.\n\nTags: Ultimativ, Schaden, Physisch, Abklingzeit.",
@@ -4414,7 +4415,8 @@ Tags: Ultimate, Damage, Physical, Cooldown.`,
 			"ruRU": "Время восстановления: 50 сек.\nВероятность удачного удара: 30% (per hit)\nПризывает на помощь 3 Древних на 6 сек.\n• Корлик прыгает на врагов, нанося 104% ед. урона, и бешено размахивает оружием, нанося 39% ед. урона каждым ударом.\n• Талик крутится в вихре стали, быстро нанося врагам по 65% ед. урона.\n• Мадавк сотрясает землю, нанося врагам 195% ед. урона.\n\nTags: Мощное умение, Урон, Физический урон, Время восстановления.",
 			"trTR": "Bekleme Süresi: 50 saniye\nŞanslı Vuruş İhtimali: 30% (per hit)\nSavaşta sana yardımcı olması için 6 saniyeliğine 3 Kadim çağır.\n• Korlic, düşmanlara atlayarak 104% hasar verir bir çılgınlık hâlinde silahlarını savurarak vuruş başına 39% hasar verir.\n• Talic, bir burgaç hâlinde dönüp hızla düşmanlara saldırarak 65% hasar verir.\n• Madawc, yeri alt üst ederek 195% hasar verir.\n\nTags: Ulti, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "冷却时间: 50 秒\n幸运一击几率: 30% (per hit)\n召唤三位先祖协助你进行战斗, 持续 6 秒。\n• 科里克发动腾空斩跃向敌人, 造成 104% 点伤害并狂乱挥舞他的武器, 每一击造成 39% 点伤害。\n• 塔里克发动旋风斩快速攻击敌人, 造成 65% 点伤害。\n• 马道克发动扬石飞沙, 造成 195% 点伤害。\n\nTags: 终极技能, 伤害, 物理, 冷却时间.",
-			"zhTW": "冷卻時間: 50 秒\n幸運觸發機率: 30% (per hit)\n召喚 3 名先祖協助作戰,持續 6 秒。\n• 科力克向敵人躍擊,造成 104% 點傷害,並狂亂揮動武器,每次擊中造成 39% 點傷害。\n• 塔力克以旋風之姿快刀亂斬敵人,造成 65% 點傷害。\n• 馬道克掀起地面,造成 195% 點傷害。\n\nTags: 絕招, 傷害, 物理, 冷卻時間."
+			"zhTW": "冷卻時間: 50 秒\n幸運觸發機率: 30% (per hit)\n召喚 3 名先祖協助作戰,持續 6 秒。\n• 科力克向敵人躍擊,造成 104% 點傷害,並狂亂揮動武器,每次擊中造成 39% 點傷害。\n• 塔力克以旋風之姿快刀亂斬敵人,造成 65% 點傷害。\n• 馬道克掀起地面,造成 195% 點傷害。\n\nTags: 絕招, 傷害, 物理, 冷卻時間.",
+			"thTH": "Cooldown: 50 วินาที\nLucky Hit Chance: 30% (per hit)\nเรียกวิญญาณบรรพบุรุษมาช่วยสู้ เป็นระยะเวลา 6 วินาที\nKorlic จะกระโดดเข้าหาศัตรู ทำความเสียหาย 104% และฟาดฟันศัตรูอย่างต่อเนื่อง ทำความเสียหาย 39%\nTalic จะหมุนตัวทำความเสียหาย 65% แก่ศัตรูรอบตัวอย่างต่อเนื่อง\nMadawc จะทุบพื้น ทำความเสียหาย 195%.\n\nTags: Ultimate, Damage, Physical, Cooldown"
 },
 		id: 103,
 		maxPoints: 1,
@@ -4438,7 +4440,8 @@ Tags: Ultimate, Damage, Physical, Cooldown.`,
 			"ruRU": "Первородный зов Древних",
 			"trTR": "Üstün Kadimlerin Çağrısı",
 			"zhCN": "至尊先祖召唤",
-			"zhTW": "強烈先祖召喚"
+			"zhTW": "強烈先祖召喚",
+			"thTH": "Prime Call of the Ancients"
 },
 		descriptionLocalized: {
 			"deDE": "Solange Anrufung der Urahnen aktiv ist, erhaltet Ihr zusätzlich +10% Angriffsgeschwindigkeit und verursacht x10% mehr Schaden.",
@@ -4453,7 +4456,8 @@ Tags: Ultimate, Damage, Physical, Cooldown.`,
 			"ruRU": "Пока действует \"Зов Древних\", ваша скорость атаки повышается на +10%, а наносимый урон увеличивается на x10%.",
 			"trTR": "Kadimlerin Çağrısı etkinken +10% bonus Saldırı Hızı ve x10% artırılmış hasar kazan.",
 			"zhCN": "先祖召唤激活时, 攻击速度提高 +10%, 造成的伤害提高 x10%。",
-			"zhTW": "在先祖召喚效果期間,獲得 +10% 攻擊速度加成,且傷害提高 x10%。"
+			"zhTW": "在先祖召喚效果期間,獲得 +10% 攻擊速度加成,且傷害提高 x10%。",
+			"thTH": "ในขณะที่อยู่ในผลของสกิล Call of the Ancients, ได้รับความเร็วในการโจมตีเพิ่มขึ้น +10% และทำความเสียหายเพิ่มขึ้น x10%"
 },
 		id: 104,
 		maxPoints: 1,
@@ -4480,7 +4484,8 @@ Madawc: 30% chance to Stun enemies for 3 seconds when using his Upheaval.`,
 			"ruRU": "Неотвратимый зов Древних",
 			"trTR": "Yüce Kadimlerin Çağrısı",
 			"zhCN": "至极先祖召唤",
-			"zhTW": "終極先祖召喚"
+			"zhTW": "終極先祖召喚",
+			"thTH": "Supreme Call of the Ancients"
 },
 		descriptionLocalized: {
 			"deDE": "Alle Urahnen erhalten zusätzliche Fähigkeiten:\nKorlic: Jedes Mal, wenn Korlic einem Gegner mit Raserei Schaden zufügt, erhaltet Ihr 10 Wut.\nTalic: Gegner werden 1 Sek. lang um 50% verlangsamt, wenn sie durch seinen Wirbelwind Schaden erleiden.\nMadawc: Chance von 30%, Gegner beim Einsatz von Aufwühlen 3 Sek. lang zu betäuben.",
@@ -4495,7 +4500,8 @@ Madawc: 30% chance to Stun enemies for 3 seconds when using his Upheaval.`,
 			"ruRU": "Каждый из Древних получает дополнительное свойство:\nКорлик: вы накапливаете 10 ед. ярости каждый раз, когда Корлик наносит противнику урон \"Бешенством\".\nТалик: \"Вихрь\" замедляет противников на 50% на 1 сек.\nМадавк: \"Выброс земли\" с вероятностью 30% оглушает противников на 3 сек.",
 			"trTR": "Kadimlerin her biri ilave güçler kazanır:\nKorlic: Korlic Çılgınlık ile düşmanlara her hasar verdiğinde 10 Hiddet kazanırsın.\nTalic: Burgacından hasar alan düşmanlar 1 saniyeliğine 50% Yavaşlatılır.\nMadawc: Ayaklanma yeteneğini kullanırken 30% ihtimalle 3 saniyeliğine Sersemletir.",
 			"zhCN": "每位先祖可以获得额外能力:\n科里克: 科里克每次使用狂乱对一名敌人造成伤害时, 你获得 10 点怒气。\n塔里克: 塔里克使用旋风斩对敌人造成伤害时, 使其减速 50%, 持续 1 秒。\n马道克: 马道克使用扬石飞沙时有 30% 几率使敌人昏迷 3 秒。",
-			"zhTW": "每位先祖都會獲得額外能力:\n科力克:每當科力克以狂亂對敵人造成傷害時,你會獲得 10 點怒氣。\n塔力克:以旋風斬傷害敵人會使敵人緩速 50%,持續 1 秒。\n馬道克:使用動盪震擊時有 30% 機率擊昏敵人 3 秒。"
+			"zhTW": "每位先祖都會獲得額外能力:\n科力克:每當科力克以狂亂對敵人造成傷害時,你會獲得 10 點怒氣。\n塔力克:以旋風斬傷害敵人會使敵人緩速 50%,持續 1 秒。\n馬道克:使用動盪震擊時有 30% 機率擊昏敵人 3 秒。",
+			"thTH": "วิญญาณบรรพบุรุษจะได้รับพลังเพิ่มเติม:\nKorlic: คุณจะได้รับ 10 Fury ทุกครั้งที่ Korlic ฟาดฟันศัตรู\nTalic: ศัตรูจะอยู่ในสถานะ Slow 50% เมื่อได้รับความเสียหาย\nMadawc: มีโอกาส 30% ที่จะ Stun ศัตรู เป็นระยะเวลา 3 วินาที."
 },
 		id: 105,
 		maxPoints: 1,
@@ -4525,7 +4531,8 @@ Tags: Ultimate, Crowd Control, Bleed, Damage, Physical, Cooldown, Two-Handed, Bl
 			"ruRU": "Круговорот стали",
 			"trTR": "Demir Girdap",
 			"zhCN": "钢铁漩涡",
-			"zhTW": "鋼鐵漩渦"
+			"zhTW": "鋼鐵漩渦",
+			"thTH": "Iron Maelstorm"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 60 Sek.\nGlückstrefferchance: 24.167% (per hit)\nAktiviert diese Fertigkeit dreimal, um Ketten an jeder Eurer Waffen zu befestigen und einen Angriff auszuführen:\n• Zuerst schmettert Ihr Eure zweihändige Wuchtwaffe auf den Boden, wobei Ihr 60% Schaden verursacht und Gegner 2 Sek. lang betäubt.\n• Danach schwingt Ihr Eure zweihändige Hiebwaffe vor Euch umher, wobei Ihr 20% Schaden und im Verlauf von 5 Sek. 120% Blutungsschaden verursacht.\n• Zuletzt schwingen Eure beidhändigen Waffen um Euch herum, wobei sie 32.5% Schaden pro Treffer verursachen.\n\nTags: Ultimativ, Kontrollverlust, Blutung, Schaden, Physisch, Abklingzeit, Zweihändig, Wuchtwaffe, Zwei Waffen, Hiebwaffe.",
@@ -4540,7 +4547,8 @@ Tags: Ultimate, Crowd Control, Bleed, Damage, Physical, Cooldown, Two-Handed, Bl
 			"ruRU": "Время восстановления: 60 сек.\nВероятность удачного удара: 24.167% (per hit)\nВы 3 раза прикрепляете цепи к оружию и атакуете:\n• Сперва вы бьете по земле двуручным дробящим оружием, нанося 60% ед. урона и оглушая врагов на 2 сек.\n• Затем вы раскручиваете двуручное рубящее оружие, нанося 20% ед. урона и нанося 120% ед. урона от кровотечения за 5 сек.\n• И наконец, вы раскручиваете одноручное оружие, нанося 32.5% ед. урона каждым попаданием.\n\nTags: Мощное умение, Контроль, Кровотечение, Урон, Физический урон, Время восстановления, Двуручное, Дробящее оружие, Оружие в каждой руке, Рубящее.",
 			"trTR": "Bekleme Süresi: 60 saniye\nŞanslı Vuruş İhtimali: 24.167% (per hit)\nSilahlarına zincir takıp saldırı gerçekleştirmek için üç kez etkinleştir:\n• İlk olarak Çift El Ezici silahın yere çarparak 60% hasar verir ve düşmanları 2 saniyeliğine Sersemletir.\n• Ardından Çift El Kesici silahın önünde savrularak 20% hasar verir ve 5 saniye boyunca 120% Kanama hasarı uygular.\n• Son olarak da İkili silahların, etrafında savrularak vuruş başına 32.5% hasar verir.\n\nTags: Ulti, Kitle Kontrolü, Kanama, Hasar, Fiziksel, Bekleme Süresi, Çift El, Ezici, İkili Silah, Kesici.",
 			"zhCN": "冷却时间: 60 秒\n幸运一击几率: 24.167% (per hit)\n在每把武器上附加锁链并实施攻击, 共计三次:\n• 第一次, 你的双手钝击武器猛砸地面, 造成 60% 点伤害并使敌人昏迷 2 秒。\n• 第二次, 你的双手劈砍武器挥向前方, 造成 20% 点伤害并在接下来的 5 秒内造成 120% 点流血伤害。\n• 第三次, 你的双持武器在身边挥舞, 每次命中造成 32.5% 点伤害。\n\nTags: 终极技能, 群控, 流血, 伤害, 物理, 冷却时间, 双手, 钝击, 双持, 劈斩.",
-			"zhTW": "冷卻時間: 60 秒\n幸運觸發機率: 24.167% (per hit)\n啟動三次會為你的每一把武器附加鎖鍊並進行一次攻擊:\n• 首先,你使用雙手鈍擊武器重擊地面,造成 60% 點傷害並擊昏敵人,持續 2 秒。\n• 接著,你使用雙手斬擊武器在你前方掃擊,造成 20% 點傷害,並在 5 秒內造成 120% 點流血傷害。\n• 最後,你使用雙持武器在你周圍揮擊,每次命中造成 32.5% 點傷害。\n\nTags: 絕招, 控場, 流血, 傷害, 物理, 冷卻時間, 雙手, 鈍擊, 雙持, 斬擊."
+			"zhTW": "冷卻時間: 60 秒\n幸運觸發機率: 24.167% (per hit)\n啟動三次會為你的每一把武器附加鎖鍊並進行一次攻擊:\n• 首先,你使用雙手鈍擊武器重擊地面,造成 60% 點傷害並擊昏敵人,持續 2 秒。\n• 接著,你使用雙手斬擊武器在你前方掃擊,造成 20% 點傷害,並在 5 秒內造成 120% 點流血傷害。\n• 最後,你使用雙持武器在你周圍揮擊,每次命中造成 32.5% 點傷害。\n\nTags: 絕招, 控場, 流血, 傷害, 物理, 冷卻時間, 雙手, 鈍擊, 雙持, 斬擊.",
+			"thTH": "สามารถกดใช้ได้สามครั้ง แต่ละครั้งจะทำการโจมตีด้วยอาวุธที่แตกต่างกัน:\nครั้งแรก, ใช้อาวุธสองมือ Bludgeoning ทุบพื้น ทำความเสียหาย 60% และ Stun เป็นระยะเวลา 2 วินาที\nครั้งที่สอง, ใช้อาวุธสองมือ Slashing ทำความเสียหายด้านหน้า 20% และความเสียหาย Bleeding 120% ภายในระยะเวลา 5 วินาที\nครั้งสุดท้าย, ใช้อาวุธทั้งสองข้างเหวี่ยงรอบตัวเป็นวงกว้าง ทำความเสียหาย 32.5% ต่อครั้ง"
 },
 		id: 106,
 		maxPoints: 1,
@@ -4564,7 +4572,8 @@ Tags: Ultimate, Crowd Control, Bleed, Damage, Physical, Cooldown, Two-Handed, Bl
 			"ruRU": "Первозданный круговорот стали",
 			"trTR": "Üstün Demir Girdap",
 			"zhCN": "至尊钢铁漩涡",
-			"zhTW": "強烈鋼鐵漩渦"
+			"zhTW": "強烈鋼鐵漩渦",
+			"thTH": "Prime Iron Maelstorm"
 },
 		descriptionLocalized: {
 			"deDE": "Eiserner Mahlstrom erhält eine um +10% erhöhte kritische Trefferchance und verursacht x20% mehr kritischen Trefferschaden.",
@@ -4579,7 +4588,8 @@ Tags: Ultimate, Crowd Control, Bleed, Damage, Physical, Cooldown, Two-Handed, Bl
 			"ruRU": "Вероятность критического эффекта \"Круговорота стали\" повышается на +10%, а критический урон увеличивается на x20%.",
 			"trTR": "Demir Girdap, fazladan +10% Kritik Vuruş İhtimali ve x20% Kritik Vuruş Hasarı kazanır.",
 			"zhCN": "钢铁漩涡的暴击几率提高 +10%, 暴击伤害提高 x20%。",
-			"zhTW": "鋼鐵漩渦的爆擊機率提高 +10%,造成的爆擊傷害提高 x20%。"
+			"zhTW": "鋼鐵漩渦的爆擊機率提高 +10%,造成的爆擊傷害提高 x20%。",
+			"thTH": "Iron Maelstorm จะมีโอกาส +10% Critical และเพิ่มความเสียหาย x20% Critical"
 },
 		id: 107,
 		maxPoints: 1,
@@ -4603,7 +4613,8 @@ Tags: Ultimate, Crowd Control, Bleed, Damage, Physical, Cooldown, Two-Handed, Bl
 			"ruRU": "Неотвратимый круговорот стали",
 			"trTR": "Yüce Demir Girdap",
 			"zhCN": "至极钢铁漩涡",
-			"zhTW": "終極鋼鐵漩渦"
+			"zhTW": "終極鋼鐵漩渦",
+			"thTH": "Supreme Iron Maelstorm"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr nach dem Wechseln Eurer Waffen einem Gegner direkten Schaden zufügt, verringert sich die Abklingzeit von Eiserner Mahlstrom um 1 Sek.",
@@ -4618,7 +4629,8 @@ Tags: Ultimate, Crowd Control, Bleed, Damage, Physical, Cooldown, Two-Handed, Bl
 			"ruRU": "При нанесении прямого урона сразу после смены оружия время восстановления \"Круговорота стали\" сокращается на 1 сек.",
 			"trTR": "Silah değiştirdikten sonra bir düşmana doğrudan hasar vermek Demir Girdabın Bekleme Süresini 1 saniye azaltır.",
 			"zhCN": "切换武器后对一名敌人造成直接伤害, 可以使钢铁漩涡的冷却时间缩短 1 秒。",
-			"zhTW": "在切換武器後對敵人造成直接傷害可使鋼鐵漩渦的冷卻時間縮短 1 秒。"
+			"zhTW": "在切換武器後對敵人造成直接傷害可使鋼鐵漩渦的冷卻時間縮短 1 秒。",
+			"thTH": "เมื่อทำความเสียหายหลังจากที่เปลี่ยนอาวุธ จะลด Cooldown สกิล Iron Maelstorm 1 วินาที"
 },
 		id: 108,
 		maxPoints: 1,
@@ -4643,7 +4655,8 @@ Tags: Attack Speed, Dual Wield.`,
 			"ruRU": "Дуэлянт",
 			"trTR": "Düellocu",
 			"zhCN": "决斗家",
-			"zhTW": "決鬥者"
+			"zhTW": "決鬥者",
+			"thTH": "Duelist"
 },
 		descriptionLocalized: {
 			"deDE": "Bei der Verwendung von Einhandwaffen erhöht sich die Angriffsgeschwindigkeit um +{3/6/9/12/15/18/21/24/27/30}%.\n\nTags: Angriffsgeschwindigkeit, Zwei Waffen.",
@@ -4658,7 +4671,8 @@ Tags: Attack Speed, Dual Wield.`,
 			"ruRU": "При использовании одноручного оружия ваша скорость атаки повышается на +{3/6/9/12/15/18/21/24/27/30}%.\n\nTags: Скорость атаки, Оружие в каждой руке.",
 			"trTR": "Tek El silahlar kullanırken Saldırı Hızı +{3/6/9/12/15/18/21/24/27/30}% artar.\n\nTags: Saldırı Hızı, İkili Silah.",
 			"zhCN": "使用单手武器时攻击速度提高 +{3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 攻击速度, 双持.",
-			"zhTW": "使用單手武器時,攻擊速度提高 +{3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 攻擊速度, 雙持."
+			"zhTW": "使用單手武器時,攻擊速度提高 +{3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 攻擊速度, 雙持.",
+			"thTH": "เพิ่มความเร็วในการโจมตี +{3/6/9/12/15/18/21/24/27/30}% เมื่อใช้อาวุธมือเดียว"
 },
 		id: 109,
 		maxPoints: 3,
@@ -4684,7 +4698,8 @@ Tags: Ultimate, Unstoppable, Berserking, Cooldown, Basic.`,
 			"ruRU": "Гнев берсерка",
 			"trTR": "Başıbozuğun Gazabı",
 			"zhCN": "狂战士之怒",
-			"zhTW": "狂戰之怒"
+			"zhTW": "狂戰之怒",
+			"thTH": "Wrath of the Berserker"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 60 Sek.\nExplodiert vor Wut und stoßt Gegner in der Nähe zurück. Ihr verfallt 5 Sek. lang in den Berserkermodus und werdet unaufhaltsam. Im Verlauf der nächsten 10 Sek. verfallt Ihr jedes Mal 5 Sek. lang in den Berserkermodus, wenn Ihr mit Basisfertigkeiten direkten Schaden verursacht.\n\nTags: Ultimativ, Unaufhaltsam, Berserkermodus, Abklingzeit, Basis.",
@@ -4699,7 +4714,8 @@ Tags: Ultimate, Unstoppable, Berserking, Cooldown, Basic.`,
 			"ruRU": "Время восстановления: 60 сек.\nПри вспышке ярости вы отбрасываете противников поблизости, а также получаете эффекты берсерк и неудержимость на 5 сек. В течение следующих 10 сек. прямой урон от базовых умений продлевает действие берсерка на 5 сек.\n\nTags: Мощное умение, Неудержимость, Берсерк, Время восстановления, Базовое.",
 			"trTR": "Bekleme Süresi: 60 saniye\nÖfkeyle patlayarak çevredeki düşmanları geri savur ve 5 saniye boyunca Başıbozukluk ve Durdurulamaz kazan. Sonraki 10 saniye boyunca Temel Yeteneklerle doğrudan hasar vermek 5 saniyeliğine Başıbozukluk kazandırır.\n\nTags: Ulti, Durdurulamaz, Başıbozukluk, Bekleme Süresi, Temel.",
 			"zhCN": "冷却时间:60 秒\n变得怒不可遏,击退周围的敌人并获得狂暴和不可阻挡,持续 5 秒。在接下来的 10 秒内,使用基础技能造成直接伤害可以获得狂暴,持续 5 秒。\n\nTags: 终极技能, 不可阻挡, 狂暴, 冷却时间, 基础.",
-			"zhTW": "冷卻時間:60 秒\n陷入狂怒,擊退附近的敵人並獲得狂暴與無阻狀態,持續 5 秒。在接下來 10 秒內,以基本技能造成直接傷害可獲得狂暴,持續 5秒。\n\nTags: 絕招, 無阻, 狂暴, 冷卻時間, 基本."
+			"zhTW": "冷卻時間:60 秒\n陷入狂怒,擊退附近的敵人並獲得狂暴與無阻狀態,持續 5 秒。在接下來 10 秒內,以基本技能造成直接傷害可獲得狂暴,持續 5秒。\n\nTags: 絕招, 無阻, 狂暴, 冷卻時間, 基本.",
+			"thTH": "Cooldown: 60 วินาที\nผลักศัตรูรอบตัวออก ได้รับสถานะ Berserking และ Unstoppable เป็นระยะเวลา 5 วินาที, ภายใน 10 วินาที หลังจากใช้สกิลนี้ เมื่อทำความเสียหายด้วยสกิล Basic จะเได้รับ Berserking 5 วินาที\n\nTags: Ultimate, Unstoppable, Berserking, Cooldown, Basic."
 },
 		id: 110,
 		maxPoints: 1,
@@ -4723,7 +4739,8 @@ Tags: Ultimate, Unstoppable, Berserking, Cooldown, Basic.`,
 			"ruRU": "Первозданный гнев берсерка",
 			"trTR": "Üstün Başıbozuğun Gazabı",
 			"zhCN": "至尊狂战士之怒",
-			"zhTW": "強烈狂戰之怒"
+			"zhTW": "強烈狂戰之怒",
+			"thTH": "Prime Wrath of the Berserker"
 },
 		descriptionLocalized: {
 			"deDE": "Solange Zorn des Berserkers aktiv ist, erhaltet Ihr +20% erhöhte Bewegungsgeschwindigkeit und die Wuterzeugung erhöht sich um x30%.",
@@ -4738,7 +4755,8 @@ Tags: Ultimate, Unstoppable, Berserking, Cooldown, Basic.`,
 			"ruRU": "Пока действует \"Гнев берсерка\", ваша скорость передвижения повышается на +20%, а скорость восстановления ярости – на x30%.",
 			"trTR": "Başıbozuğun Gazabı etkinken +20% artırılmış Hareket Hızı kazan ve Hiddet Üretimini x30% artır.",
 			"zhCN": "狂战士之怒激活时, 移动速度提高 +20%, 怒气生成速度提高 x30%。",
-			"zhTW": "在狂戰之怒效果期間,移動速度額外提高 +20%,且怒氣產生提高 x30%。"
+			"zhTW": "在狂戰之怒效果期間,移動速度額外提高 +20%,且怒氣產生提高 x30%。",
+			"thTH": "ในขณะที่อยู่ในผลของสกิล Wrath of the Berserker, ได้รับ +20% ความเร็วในการเคลื่อนที่ และการฟื้นฟู Fury เพิ่มขึ้น x30%"
 },
 		id: 112,
 		maxPoints: 1,
@@ -4762,7 +4780,8 @@ Tags: Ultimate, Unstoppable, Berserking, Cooldown, Basic.`,
 			"ruRU": "Неотвратимый гнев берсерка",
 			"trTR": "Yüce Başıbozuğun Gazabı",
 			"zhCN": "至极狂战士之怒",
-			"zhTW": "終極狂戰之怒"
+			"zhTW": "終極狂戰之怒",
+			"thTH": "Supreme Wrath of the Berserker"
 },
 		descriptionLocalized: {
 			"deDE": "Solange Zorn des Berserkers aktiv ist, wird der Schadensbonus von Berserker je 50 verbrauchter Wutpunkte um x25% erhöht.",
@@ -4777,7 +4796,8 @@ Tags: Ultimate, Unstoppable, Berserking, Cooldown, Basic.`,
 			"ruRU": "Пока действует \"Гнев берсерка\", бонус к урону от берсерка увеличивается на x25% за каждые затраченные 50 ед. ярости.",
 			"trTR": "Başıbozuğun Gazabı etkinken harcadığın her 50 Hiddet, Başıbozuğun hasar bonusunu x25% artırır.",
 			"zhCN": "狂战士之怒激活时, 每消耗 50 点怒气可以使狂暴的伤害加成提高 x25%。",
-			"zhTW": "在狂戰之怒啟動期間,你每消耗 50 點怒氣,就會使狂暴的傷害加成提高 x25%。"
+			"zhTW": "在狂戰之怒啟動期間,你每消耗 50 點怒氣,就會使狂暴的傷害加成提高 x25%。",
+			"thTH": "ในขณะที่อยู่ในผลของสกิล Wrath of the Berserker, ทุกๆ 50 Fury ที่คุณใช้ จะเพิ่มพลังโจมตีในสถานะ Berserk x25%"
 },
 		id: 111,
 		maxPoints: 1,
@@ -4802,7 +4822,8 @@ Tags: Fury.`,
 			"ruRU": "Усмиренная ярость",
 			"trTR": "Sakin Hiddet",
 			"zhCN": "愤怒有制",
-			"zhTW": "淬鍊怒火"
+			"zhTW": "淬鍊怒火",
+			"thTH": "Tempered Fury"
 },
 		descriptionLocalized: {
 			"deDE": "Erhöht Eure maximale Wut um {3/6/9/12/15/18/21/24/27/30}.\n\nTags: Wut.",
@@ -4817,7 +4838,8 @@ Tags: Fury.`,
 			"ruRU": "Максимальный запас ярости увеличивается на {3/6/9/12/15/18/21/24/27/30} ед.\n\nTags: Ярость.",
 			"trTR": "Maksimum Hiddetini {3/6/9/12/15/18/21/24/27/30} artır.\n\nTags: Hiddet.",
 			"zhCN": "你的怒气上限提高 {3/6/9/12/15/18/21/24/27/30} 点。\n\nTags: 怒气.",
-			"zhTW": "你的怒氣上限提高 {3/6/9/12/15/18/21/24/27/30}。\n\nTags: 怒氣."
+			"zhTW": "你的怒氣上限提高 {3/6/9/12/15/18/21/24/27/30}。\n\nTags: 怒氣.",
+			"thTH": "เพิ่มจำนวน Fury สูงสุด {3/6/9/12/15/18/21/24/27/30}"
 },
 		id: 113,
 		maxPoints: 3,
@@ -4842,7 +4864,8 @@ Tags: Fury, Healing.`,
 			"ruRU": "Бодрящая ярость",
 			"trTR": "Canlandırıcı Hiddet",
 			"zhCN": "怒意充沛",
-			"zhTW": "振奮怒火"
+			"zhTW": "振奮怒火",
+			"thTH": "Invigorating Fury"
 },
 		descriptionLocalized: {
 			"deDE": "Heilt Euch jedes Mal, wenn Ihr 100 Wut verbraucht, um {3/6/9/12/15/18/21/24/27/30}% Eures maximalen Lebens.\n\nTags: Wut, Heilung.",
@@ -4857,7 +4880,8 @@ Tags: Fury, Healing.`,
 			"ruRU": "Вы восполняете {3/6/9/12/15/18/21/24/27/30}% максимального запаса здоровья за каждые затраченные 100 ед. ярости.\n\nTags: Ярость, Исцеление.",
 			"trTR": "Harcanan her 100 Hiddet başına Maksimum Canının {3/6/9/12/15/18/21/24/27/30}% kadarına eşit iyileş.\n\nTags: Hiddet, İyileşme.",
 			"zhCN": "每消耗 100 点怒气可以为你恢复 {3/6/9/12/15/18/21/24/27/30}%生命上限。\n\nTags: 怒气, 治疗.",
-			"zhTW": "每消耗 100 點怒氣,可恢復生命值上限的 {3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 怒氣, 治療."
+			"zhTW": "每消耗 100 點怒氣,可恢復生命值上限的 {3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 怒氣, 治療.",
+			"thTH": "ฟื้นฟูพลังชีวิต {3/6/9/12/15/18/21/24/27/30}% ของพลังชีวิตสูงสุด ทุกๆครั้งเมื่อใช้ 100 Fury"
 },
 		id: 114,
 		maxPoints: 3,
@@ -4882,7 +4906,8 @@ Tags: Fury.`,
 			"ruRU": "Яростный порыв",
 			"trTR": "Hiddetli Dürtü",
 			"zhCN": "怒意冲动",
-			"zhTW": "狂怒衝動"
+			"zhTW": "狂怒衝動",
+			"thTH": "Furious Impulse"
 },
 		descriptionLocalized: {
 			"deDE": "Bei jedem Waffenwechsel erhaltet Ihr {2/4/6/8/10/12/14/16/18/20} Wut.\n\nTags: Wut.",
@@ -4897,7 +4922,8 @@ Tags: Fury.`,
 			"ruRU": "При каждой смене оружия вы накапливаете {2/4/6/8/10/12/14/16/18/20} ед. ярости.\n\nTags: Ярость.",
 			"trTR": "Her silah değiştirdiğinde {2/4/6/8/10/12/14/16/18/20} Hiddet kazan.\n\nTags: Hiddet.",
 			"zhCN": "每次切换武器时获得 {2/4/6/8/10/12/14/16/18/20} 点怒气。\n\nTags: 怒气.",
-			"zhTW": "每當你切換武器,可獲得 {2/4/6/8/10/12/14/16/18/20} 點怒氣。\n\nTags: 怒氣."
+			"zhTW": "每當你切換武器,可獲得 {2/4/6/8/10/12/14/16/18/20} 點怒氣。\n\nTags: 怒氣.",
+			"thTH": "ทุกครั้งที่สลับอาวุธ, ได้รับ {2/4/6/8/10/12/14/16/18/20} Fury"
 },
 		id: 115,
 		maxPoints: 3,
@@ -4922,7 +4948,8 @@ Tags: Vulnerable, Crowd Control, Bludgeoning, Damage.`,
 			"ruRU": "Разгром",
 			"trTR": "Dayak",
 			"zhCN": "重击",
-			"zhTW": "猛打"
+			"zhTW": "猛打",
+			"thTH": "Wallop"
 },
 		descriptionLocalized: {
 			"deDE": "Eure Fertigkeiten mit Wuchtwaffen verursachen x{5/10/15/20/25/30/35/40/45/50}% mehr Schaden, wenn der Gegner betäubt oder verwundbar ist.\n\nTags: Verwundbar, Kontrollverlust, Wuchtwaffe, Schaden.",
@@ -4937,7 +4964,8 @@ Tags: Vulnerable, Crowd Control, Bludgeoning, Damage.`,
 			"ruRU": "Умения, использующие дробящее оружие, наносят на x{5/10/15/20/25/30/35/40/45/50}% больше урона оглушенным или уязвимым противникам.\n\nTags: Уязвимость, Контроль, Дробящее оружие, Урон.",
 			"trTR": "Ezici Silahlar kullanan Yeteneklerin düşman Sersemletilmiş veya Savunmasızsa x{5/10/15/20/25/30/35/40/45/50}% artırılmış hasar verir.\n\nTags: Savunmasız, Kitle Kontrolü, Ezici, Hasar.",
 			"zhCN": "使用钝击武器的技能对处于昏迷或易伤状态的敌人造成的伤害提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 易伤, 群控, 钝击, 伤害.",
-			"zhTW": "鈍擊武器技能對昏迷或易傷敵人造成的傷害提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 易傷, 控場, 鈍擊, 傷害."
+			"zhTW": "鈍擊武器技能對昏迷或易傷敵人造成的傷害提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 易傷, 控場, 鈍擊, 傷害.",
+			"thTH": "สกิลที่ใช้อาวุธ Bludgeoning จะทำความเสียหายเพิ่มขึ้น x{5/10/15/20/25/30/35/40/45/50}% แก่ศัตรูที่อยู่ในสถานะ Stunned หรือ Vulnerable.\n\nTags: Vulnerable, Crowd Control, Bludgeoning, Damage."
 },
 		id: 116,
 		maxPoints: 3,
@@ -4962,7 +4990,8 @@ Tags: Overpower, Damage, Two-Handed.`,
 			"ruRU": "Грубая сила",
 			"trTR": "Kaba Kuvvet",
 			"zhCN": "残暴之力",
-			"zhTW": "蠻力"
+			"zhTW": "蠻力",
+			"thTH": "Brute Force"
 },
 		descriptionLocalized: {
 			"deDE": "Bei Verwendung einer Zweihandwaffe verursacht Euer Überwältigen x{15/30/45/60/75/90/105/120/135/150}% mehr Schaden.\n\nTags: Überwältigen, Schaden, Zweihändig.",
@@ -4977,7 +5006,8 @@ Tags: Overpower, Damage, Two-Handed.`,
 			"ruRU": "При использовании двуручного оружия ваш подавляющий урон увеличивается на x{15/30/45/60/75/90/105/120/135/150}%.\n\nTags: Подавление, Урон, Двуручное.",
 			"trTR": "Aşırı Güç yeteneklerin, Çift El silah kullanılıyorken x{15/30/45/60/75/90/105/120/135/150}% artırılmış hasar verir.\n\nTags: Aşırı Güç, Hasar, Çift El.",
 			"zhCN": "使用双手武器时, 你的压制造成的伤害提高 x{15/30/45/60/75/90/105/120/135/150}%。\n\nTags: 压制, 伤害, 双手.",
-			"zhTW": "使用雙手武器時,你造成的壓制傷害提高 x{15/30/45/60/75/90/105/120/135/150}%。\n\nTags: 壓制, 傷害, 雙手."
+			"zhTW": "使用雙手武器時,你造成的壓制傷害提高 x{15/30/45/60/75/90/105/120/135/150}%。\n\nTags: 壓制, 傷害, 雙手.",
+			"thTH": "การ Overpowers ของคุณจะทำความเสียหายเพิ่มขึ้น x{15/30/45/60/75/90/105/120/135/150}% เมื่อใช้อาวุธสองมือ"
 },
 		id: 117,
 		maxPoints: 3,
@@ -5002,7 +5032,8 @@ Tags: Critical Strikes, Damage, Two-Handed.`,
 			"ruRU": "Тяжелая рука",
 			"trTR": "Eli Ağır",
 			"zhCN": "势大力沉",
-			"zhTW": "勁道威猛"
+			"zhTW": "勁道威猛",
+			"thTH": "Heavy Handed"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr Zweihandwaffen verwendet, verursacht Ihr x{5/10/15/20/25/30/35/40/45/50}% mehr kritischen Trefferschaden.\n\nTags: Kritische Treffer, Schaden, Zweihändig.",
@@ -5017,7 +5048,8 @@ Tags: Critical Strikes, Damage, Two-Handed.`,
 			"ruRU": "При использовании двуручного оружия вы наносите на x{5/10/15/20/25/30/35/40/45/50}% больше критического урона.\n\nTags: Критические удары, Урон, Двуручное.",
 			"trTR": "Çift El silahlar kullanırken x{5/10/15/20/25/30/35/40/45/50}% artırılmış Kritik Vuruş Hasarı verirsin.\n\nTags: Kritik Vuruşlar, Hasar, Çift El.",
 			"zhCN": "使用双手武器时, 你造成的暴击伤害提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 暴击, 伤害, 双手.",
-			"zhTW": "使用雙手武器時造成的爆擊傷害提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 爆擊, 傷害, 雙手."
+			"zhTW": "使用雙手武器時造成的爆擊傷害提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 爆擊, 傷害, 雙手.",
+			"thTH": "เมื่อใช้อาวุธสองมือ จะทำความเสียหาย Critical เพิ่มขึ้น x{5/10/15/20/25/30/35/40/45/50}%.\n\nTags: Critical Strikes, Damage, Two-Handed."
 },
 		id: 118,
 		maxPoints: 3,
@@ -5042,7 +5074,8 @@ Tags: Crowd Control, Bludgeoning, Two-Handed, Lucky Hit.`,
 			"ruRU": "Контузия",
 			"trTR": "Sarsılma",
 			"zhCN": "脑震荡",
-			"zhTW": "腦震盪"
+			"zhTW": "腦震盪",
+			"thTH": "Concussion"
 },
 		descriptionLocalized: {
 			"deDE": "Glückstreffer: Fertigkeiten mit Wuchtwaffen verfügen über eine Chance von {10/20/30/40/50/60/70/80/90/100}%, Gegner 3 Sek. lang zu betäuben. Mit zweihändigen Wuchtwaffen erhöht sich die Chance auf {15/30/45/60/75/90/105/120/135/150}%.\n\nTags: Kontrollverlust, Wuchtwaffe, Zweihändig, Glückstreffer.",
@@ -5057,7 +5090,8 @@ Tags: Crowd Control, Bludgeoning, Two-Handed, Lucky Hit.`,
 			"ruRU": "Удачный удар: умения, использующие дробящее оружие, с вероятностью до {10/20/30/40/50/60/70/80/90/100}% оглушают противников на 3 сек. При использовании двуручного дробящего оружия – с вероятностью до {15/30/45/60/75/90/105/120/135/150}%.\n\nTags: Контроль, Дробящее оружие, Двуручное, Удачный удар.",
 			"trTR": "Şanslı Vuruş: Ezici silah kullanan Yetenekler en fazla %{10/20/30/40/50/60/70/80/90/100} ihtimalle düşmanları 3 saniyeliğine Sersemletir. Çift El Ezici silah kullanırken bu ihtimal en fazla %{15/30/45/60/75/90/105/120/135/150} olur.\n\nTags: Kitle Kontrolü, Ezici, Çift El, Şanslı Vuruş.",
 			"zhCN": "幸运一击: 使用钝击武器的技能最多有 {10/20/30/40/50/60/70/80/90/100}% 几率使敌人昏迷 3 秒。使用双手钝击武器时, 该几率最多为 {15/30/45/60/75/90/105/120/135/150}%。\n\nTags: 群控, 钝击, 双手, 幸运一击.",
-			"zhTW": "幸運觸發:使用鈍擊武器的技能最高有 {10/20/30/40/50/60/70/80/90/100}% 機率擊昏敵人,持續 3 秒。使用雙手鈍擊武器時機率最高為 {15/30/45/60/75/90/105/120/135/150}%。\n\nTags: 控場, 鈍擊, 雙手, 幸運觸發."
+			"zhTW": "幸運觸發:使用鈍擊武器的技能最高有 {10/20/30/40/50/60/70/80/90/100}% 機率擊昏敵人,持續 3 秒。使用雙手鈍擊武器時機率最高為 {15/30/45/60/75/90/105/120/135/150}%。\n\nTags: 控場, 鈍擊, 雙手, 幸運觸發.",
+			"thTH": "Lucky Hits: สกิลที่ใช้อาวุธ Bludgeoning มีโอกาส {10/20/30/40/50/60/70/80/90/100}% ที่จะ Stun ศัตรูเป็นระยะเวลา 3 วินาที, หรือมีโอกาส {15/30/45/60/75/90/105/120/135/150}% เมื่อใช้อาวุธสองมือ Bludgeoning.\n\nTags: Crowd Control, Bludgeoning, Two-Handed, Lucky Hit."
 },
 		id: 119,
 		maxPoints: 3,
@@ -5085,7 +5119,8 @@ Tags: Berserking, Damage.`,
 			"ruRU": "Неудержимая сила",
 			"trTR": "Sınırsız",
 			"zhCN": "不羁怒火",
-			"zhTW": "超越極限"
+			"zhTW": "超越極限",
+			"thTH": "Unconstrained"
 },
 		descriptionLocalized: {
 			"deDE": "Erhöht die maximale Dauer des Berserkermodus um 5 Sek. und erhöht seinen Schadensbonus um +{25/50/75/100/125/150/175/200/225/250}%.\n\nTags: Berserkermodus, Schaden.",
@@ -5100,7 +5135,8 @@ Tags: Berserking, Damage.`,
 			"ruRU": "Максимальное время действия берсерка увеличивается на 5 сек., а бонус к урону увеличивается на +{25/50/75/100/125/150/175/200/225/250}%.\n\nTags: Берсерк, Урон.",
 			"trTR": "Başıbozuğun maksimum süresini 5 saniye, hasar bonusunu +{25/50/75/100/125/150/175/200/225/250}% artır.\n\nTags: Başıbozukluk, Hasar.",
 			"zhCN": "狂暴的最大持续时间延长 5 秒, 其伤害加成提高 +{25/50/75/100/125/150/175/200/225/250}%。\n\nTags: 狂暴, 伤害.",
-			"zhTW": "狂暴的持續時間上限延長 5 秒,其傷害加成提高 +{25/50/75/100/125/150/175/200/225/250}%。\n\nTags: 狂暴, 傷害."
+			"zhTW": "狂暴的持續時間上限延長 5 秒,其傷害加成提高 +{25/50/75/100/125/150/175/200/225/250}%。\n\nTags: 狂暴, 傷害.",
+			"thTH": "เพิ่มระยะเวลาสูงสุดของสถานะ Berserk 5 วินาที และเพิ่มจำนวนโบนัสทำความเสียหาย +{25/50/75/100/125/150/175/200/225/250}%"
 },
 		id: 120,
 		maxPoints: 1,
@@ -5127,7 +5163,8 @@ Tags: Bleed, Critical Strikes, Overpower, Damage.`,
 			"ruRU": "Кровоточащие раны",
 			"trTR": "Fışkıran Yaralar",
 			"zhCN": "涌血创伤",
-			"zhTW": "濺血重創"
+			"zhTW": "濺血重創",
+			"thTH": "Gushing Wounds"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr bei einem Gegner Blutung verursacht, besteht eine Chance in Höhe Eurer kritischen Trefferchance, die Blutungsmenge um 100% Eures Bonus auf kritischen Trefferschaden zu erhöhen.\n\nDas Überwältigen eines blutenden Gegners löst eine Explosion aus, die im Verlauf von 5 Sek. 11% Blutungsschaden verursacht.\n\nTags: Blutung, Kritische Treffer, Überwältigen, Schaden.",
@@ -5142,7 +5179,8 @@ Tags: Bleed, Critical Strikes, Overpower, Damage.`,
 			"ruRU": "Когда вы вызываете у противника кровотечение, урон от кровотечения увеличивается на 100% бонуса к критическому урону с вероятностью, равной шансу критического удара.\n\nКогда вы наносите подавляющий урон кровоточащему противнику, происходит взрыв, наносящий врагам 11% ед. урона от кровотечения в течение 5 сек.\n\nTags: Кровотечение, Критические удары, Подавление, Урон.",
 			"trTR": "Bir düşmanın Kanamasına neden olduğunda Kritik Vuruş İhtimaline eşit ihtimalle Kanama miktarını Kritik Vuruş Hasarı bonusunun %100 kadarına eşit artır.\n\nKanayan bir düşmana Aşırı Güç uygulamak 5 saniye boyunca 11% Kanama hasarı uygulayan bir patlama yaratır.\n\nTags: Kanama, Kritik Vuruşlar, Aşırı Güç, Hasar.",
 			"zhCN": "使敌人流血时, 你有一定几率 (等同于你的暴击率) 提高流血量, 提高的具体数值为你的暴击伤害加成的 100%。\n\n压制一名流血的敌人会产生爆炸, 在 5 秒内造成 11% 点流血伤害。\n\nTags: 流血, 暴击, 压制, 伤害.",
-			"zhTW": "使敵人流血時有機率使流血傷害提高,機率等同你的爆擊機率,傷害加成等同你爆擊傷害加成的 100%。\n\n壓制流血的敵人會產生爆炸,在 5 秒內造成 11% 點流血傷害。\n\nTags: 流血, 爆擊, 壓制, 傷害."
+			"zhTW": "使敵人流血時有機率使流血傷害提高,機率等同你的爆擊機率,傷害加成等同你爆擊傷害加成的 100%。\n\n壓制流血的敵人會產生爆炸,在 5 秒內造成 11% 點流血傷害。\n\nTags: 流血, 爆擊, 壓制, 傷害.",
+			"thTH": "เมื่อทำความเสียหาย Bleeding แก่ศัตรู, มีโอกาสเท่ากับโอกาสโจมตี Critical ที่จะเพิ่มจำนวน Bleed เป็นจำนวน 100% ของโบนัสความเสียหาย Critical ของคุณ.\n\nTags: Bleed, Critical Strikes, Overpower, Damage."
 },
 		id: 121,
 		maxPoints: 1,
@@ -5167,7 +5205,8 @@ Tags: Fury, Damage, Core.`,
 			"ruRU": "Необузданная свирепость",
 			"trTR": "Dizginsiz Öfke",
 			"zhCN": "怒不可遏",
-			"zhTW": "無拘狂怒"
+			"zhTW": "無拘狂怒",
+			"thTH": "Unbridled Rage"
 },
 		descriptionLocalized: {
 			"deDE": "Kernfertigkeiten verursachen x135% mehr Schaden, kosten aber x100% mehr Wut.\n\nTags: Wut, Schaden, Kern.",
@@ -5182,7 +5221,8 @@ Tags: Fury, Damage, Core.`,
 			"ruRU": "Основные умения наносят на x135% больше урона, но тратят на x100% больше ярости.\n\nTags: Ярость, Урон, Основное.",
 			"trTR": "Çekirdek Yetenekler x135% artırılmış hasar verir ama Hiddet bedelleri x100% artar.\n\nTags: Hiddet, Hasar, Çekirdek.",
 			"zhCN": "核心技能造成的伤害提高 x135%, 但额外消耗 x100% 怒气。\n\nTags: 怒气, 伤害, 核心.",
-			"zhTW": "核心技能造成的傷害提高 x135%,但會額外消耗 x100% 怒氣。\n\nTags: 怒氣, 傷害, 核心."
+			"zhTW": "核心技能造成的傷害提高 x135%,但會額外消耗 x100% 怒氣。\n\nTags: 怒氣, 傷害, 核心.",
+			"thTH": "สกิล Core ทำความเสียหายเพิ่มขึ้น x135%, แต่ใช้ Fury เพิ่มขึ้น x100%"
 },
 		id: 122,
 		maxPoints: 1,
@@ -5209,7 +5249,8 @@ Tags: Damage, Two-Handed, Dual Wield, Bludgeoning, Slashing.`,
 			"ruRU": "Живой арсенал",
 			"trTR": "Yürüyen Cephanelik",
 			"zhCN": "人形兵器",
-			"zhTW": "機動武裝"
+			"zhTW": "機動武裝",
+			"thTH": "Walking Arsenal"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr mit einer zweihändigen Wuchtwaffe, zweihändigen Hiebwaffe oder mit beidhändigen Waffen direkten Schaden verursacht, verursacht Ihr 6 Sek. lang x10% mehr Schaden.\n\nWenn alle drei Schadensboni aktiv sind, verursacht Ihr zusätzlich x15% mehr Schaden.\n\nTags: Schaden, Zweihändig, Zwei Waffen, Wuchtwaffe, Hiebwaffe.",
@@ -5224,7 +5265,8 @@ Tags: Damage, Two-Handed, Dual Wield, Bludgeoning, Slashing.`,
 			"ruRU": "Когда вы наносите прямой урон двуручным дробящим оружием, двуручным рубящим оружием или оружием в каждой руке, наносимый вами урон увеличивается на x10% на 6 сек.\n\nПока действуют все три прибавки к урону, наносимый вами урон увеличивается еще на x15%.\n\nTags: Урон, Двуручное, Оружие в каждой руке, Дробящее оружие, Рубящее.",
 			"trTR": "Çift El Ezici, Çift El Kesici veya İkili silahlarla doğrudan hasar vermek 6 saniyeliğine x10% artırılmış hasar kazandırır.\n\nÜç hasar bonusu da etkinken ilave x15% artırılmış hasar kazanırsın.\n\nTags: Hasar, Çift El, İkili Silah, Ezici, Kesici.",
 			"zhCN": "使用双手钝击武器、双手劈砍武器或双持武器造成直接伤害时, 可以使造成的伤害提高 x10%, 持续 6 秒。\n\n当三种伤害加成全部激活时, 你造成的伤害额外提高 x15%。\n\nTags: 伤害, 双手, 双持, 钝击, 劈斩.",
-			"zhTW": "使用雙手鈍擊武器、雙手斬擊武器或雙持武器造成直接傷害時,傷害會提高 x10%,持續 6 秒。\n\n全部三種傷害加成效果均在作用中時,你的傷害會額外提高 x15%。\n\nTags: 傷害, 雙手, 雙持, 鈍擊, 斬擊."
+			"zhTW": "使用雙手鈍擊武器、雙手斬擊武器或雙持武器造成直接傷害時,傷害會提高 x10%,持續 6 秒。\n\n全部三種傷害加成效果均在作用中時,你的傷害會額外提高 x15%。\n\nTags: 傷害, 雙手, 雙持, 鈍擊, 斬擊.",
+			"thTH": "เมื่อทำความเสียหายด้วยอาวุธสองมือ Bludgeoning, อาวุธสองมือ Slashing, หรืออาวุธมือเดียว จะได้รับพลังโจมตีเพิ่มขึ้น x10% เป็นระยะเวลา 6 วินาที.\n\nเมื่อได้รับผลเพิ่มพลังโจมตีจากทั้งสามอาวุธ, จะได้รับพลังโจมตีเพิ่มขึ้นอีก x15%.\n\nTags: Damage, Two-Handed, Dual Wield, Bludgeoning, Slashing."
 },
 		id: 123,
 		maxPoints: 1,
@@ -5250,7 +5292,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Мастерство: одноручный топор",
 			"trTR": "Tek El Balta Uzmanlığı",
 			"zhCN": "单手斧专精",
-			"zhTW": "單手斧專精"
+			"zhTW": "單手斧專精",
+			"thTH": "One-Handed Axe Expertise"
 		},
 		descriptionLocalized: {
 			"deDE": "+{0.5/1/1.5/2/2.5/3/3.5/4/4.5/5}% höhere kritische Trefferchance gegen verwundete Gegner. Diese Menge verdoppelt sich, wenn Ihr zwei Äxte verwendet.",
@@ -5265,7 +5308,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Вероятность критического удара повышается на +{0.5/1/1.5/2/2.5/3/3.5/4/4.5/5}% в бою с противниками с низким уровнем здоровья. Этот объем удваивается при использовании двух топоров.",
 			"trTR": "Yaralı düşmanlara karşı +{0.5/1/1.5/2/2.5/3/3.5/4/4.5/5}% artırılmış Kritik Vuruş İhtimali. İki balta kullanırken bu miktar ikiye katlanır.",
 			"zhCN": "对受伤的敌人造成暴击的几率提高 +{0.5/1/1.5/2/2.5/3/3.5/4/4.5/5}%。使用两把斧时该数值翻倍。",
-			"zhTW": "對受傷敵人的爆擊機率提高 +{0.5/1/1.5/2/2.5/3/3.5/4/4.5/5}%。雙持斧頭時此效果加倍。"
+			"zhTW": "對受傷敵人的爆擊機率提高 +{0.5/1/1.5/2/2.5/3/3.5/4/4.5/5}%。雙持斧頭時此效果加倍。",
+			"thTH": "+{0.5/1/1.5/2/2.5/3/3.5/4/4.5/5}% โอกาสในการโจมตี Critical แก่ศัตรูที่อยู่ในสถานะ Injured. เพิ่มจำนวนนี้สองเท่าเมื่อใช้ขวานทั้งสองข้าง"
 		},
 		bonusLocalized: {
 			"deDE": "Glückstreffer: Kritische Treffer verfügen über eine Chance von bis zu 55%, 2 Sek. lang eine x6% höhere Angriffsgeschwindigkeit zu verleihen. Der Bonus auf Angriffsgeschwindigkeit verdoppelt sich, wenn Ihr zwei Äxte verwendet.",
@@ -5280,7 +5324,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Удачный удар: критические удары с вероятностью до 55% повышают скорость атаки на x6% на 2 сек. Прибавка к скорости атаки удваивается при использовании двух топоров.",
 			"trTR": "Şanslı Vuruş: Kritik Vuruşlar en fazla %55 ihtimalle 2 saniyeliğine x6% Artırılmış Saldırı Hızı kazandırır. İki Balta kullanırken Saldırı Hızı bonusu ikiye katlanır.",
 			"zhCN": "幸运一击: 造成暴击时最多有 55% 几率使攻击速度提高 x6%, 持续 2 秒。使用两把斧时攻击速度加成翻倍。",
-			"zhTW": "幸運觸發:爆擊最高有 55% 機率使攻擊速度提高 x6%,持續 2 秒。雙持斧頭時攻擊速度加成效果加倍。"
+			"zhTW": "幸運觸發:爆擊最高有 55% 機率使攻擊速度提高 x6%,持續 2 秒。雙持斧頭時攻擊速度加成效果加倍。",
+			"thTH": "Lucky Hit: การโจมตี Critical มีโอกาส 55% ที่จะได้รับความเร็วโจมตีเพิ่มขึ้น x6% เป็นระยะเวลา 2 วินาที. จำนวนความเร็วในการโจมตีจะเพิ่มขึ้นสองเท่าเมื่อใช้ขวานทั้งสองข้าง "
 		},
 		id: 127
 	},
@@ -5300,7 +5345,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Мастерство: одноручная булава",
 			"trTR": "Tek El Gürz Uzmanlığı",
 			"zhCN": "单手锤专精",
-			"zhTW": "單手釘鎚專精"
+			"zhTW": "單手釘鎚專精",
+			"thTH": "One-Handed Mace Expertise"
 		},
 		descriptionLocalized: {
 			"deDE": "Fügt betäubten Gegnern x{1/2/3/4/5/6/7/8/9/10}% mehr Schaden zu. Diese Menge verdoppelt sich, wenn Ihr zwei Streitkolben verwendet.",
@@ -5315,7 +5361,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Вы наносите на x{1/2/3/4/5/6/7/8/9/10}% больше урона оглушенным целям. Этот объем удваивается при использовании двух булав.",
 			"trTR": "Sersemletilmiş düşmanlara x{1/2/3/4/5/6/7/8/9/10}% artırılmış hasar. İki Gürz kullanırken bu miktar ikiye katlanır.",
 			"zhCN": "对被击晕的敌人造成的伤害提高 x{1/2/3/4/5/6/7/8/9/10}%。使用两把钉锤时该数值翻倍。",
-			"zhTW": "對昏迷的敵人造成的傷害提高 x{1/2/3/4/5/6/7/8/9/10}%。雙持釘鎚時此效果加倍。"
+			"zhTW": "對昏迷的敵人造成的傷害提高 x{1/2/3/4/5/6/7/8/9/10}%。雙持釘鎚時此效果加倍。",
+			"thTH": "ทำความเสียหายเพิ่มขึ้น x{1/2/3/4/5/6/7/8/9/10}% แก่ศัตรูที่อยู่ในสถานะ Stunned. เพิ่มจำนวนนี้สองเท่าเมื่อใช้ Maces ทั้งสองข้าง"
 		},
 		bonusLocalized: {
 			"deDE": "Glückstreffer: Wenn Ihr einen betäubten Gegner trefft, erhaltet Ihr eine Chance von bis zu 10%, 1.5 Sek. lang in den Berserkermodus zu verfallen. Diese Chance verdoppelt sich, wenn Ihr zwei Streitkolben verwendet.",
@@ -5330,7 +5377,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Удачный удар: когда вы поражаете оглушенного противника, вы с вероятностью до 10% переходите в состояние берсерка на 1.5 сек. Вероятность удваивается при использовании двух булав.",
 			"trTR": "Şanslı Vuruş: Sersemletilmiş bir düşmana vurduğunda en fazla %10 ihtimalle 1.5 saniyeliğine Başıbozukluk kazan. İki Gürz kullanırken bu ihtimal ikiye katlanır.",
 			"zhCN": "幸运一击: 命中一名被击晕的敌人最多有 10% 几率获得狂暴, 持续 1.5 秒。使用两把钉锤时该几率翻倍。",
-			"zhTW": "幸運觸發:當你擊中昏迷的敵人時,最多有 10% 機率獲得狂暴,持續 1.5 秒。雙持釘鎚時此機率加倍。"
+			"zhTW": "幸運觸發:當你擊中昏迷的敵人時,最多有 10% 機率獲得狂暴,持續 1.5 秒。雙持釘鎚時此機率加倍。",
+			"thTH": "Lucky Hit: มีโอกาศ 10% ที่จะได้รับ Berserking เป็นระยะเวลา 1.5 วินาที เมื่อทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Stunned, เพิ่มโอกาศสองเท่าเมื่อใช้ Maces ทั้งสองข้าง"
 		},
 		id: 128
 	},
@@ -5350,7 +5398,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Мастерство: одноручный меч",
 			"trTR": "Tek El Kılıç Uzmanlığı",
 			"zhCN": "单手剑专精",
-			"zhTW": "單手劍專精"
+			"zhTW": "單手劍專精",
+			"thTH": "One-Handed Sword Expertise"
 		},
 		descriptionLocalized: {
 			"deDE": "Glückstreffer: Wenn Ihr einen Gegner trefft, der unter Kontrollverlusteffekten leidet, besteht eine Chance von bis zu {1/2/3/4/5/6/7/8/9/10}%, 5 Wut zu erhalten. Diese Chance verdoppelt sich, wenn Ihr zwei Schwerter verwendet.",
@@ -5365,7 +5414,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Удачный удар: когда вы поражаете противника, на которого действуют эффекты контроля, то с вероятностью до {1/2/3/4/5/6/7/8/9/10}% накапливаете 5 ед. ярости. Эта вероятность удваивается при использовании двух мечей.",
 			"trTR": "Şanslı Vuruş: Kitle Kontrolü Etkisindeki bir düşmana vururken en fazla %{1/2/3/4/5/6/7/8/9/10} ihtimalle 5 Hiddet kazan. İki Kılıç kullanırken bu ihtimal ikiye katlanır.",
 			"zhCN": "幸运一击: 命中一名被群控的敌人最多有 {1/2/3/4/5/6/7/8/9/10}% 几率获得 5 点怒气。使用两把剑时该几率翻倍。",
-			"zhTW": "幸運觸發:擊中受控場影響的敵人時,有最多 {1/2/3/4/5/6/7/8/9/10}% 機率獲得 5 點怒氣。雙持劍時此機率加倍。"
+			"zhTW": "幸運觸發:擊中受控場影響的敵人時,有最多 {1/2/3/4/5/6/7/8/9/10}% 機率獲得 5 點怒氣。雙持劍時此機率加倍。",
+			"thTH": "Lucky Hit: มีโอกาส {1/2/3/4/5/6/7/8/9/10}% ที่จะได้รับ 5 Fury เมื่อทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Crowd Controlled. เพิ่มจำนวนนี้เป็นสองเท่าเมื่อใช้ดาบทั้งสองข้าง"
 		},
 		bonusLocalized: {
 			"deDE": "Wenn Ihr einen Gegner tötet, der unter Kontrollverlusteffekten leidet, erhaltet Ihr 3 Sek. lang eine +15% höhere Angriffsgeschwindigkeit. Die Menge verdoppelt sich, wenn Ihr mit zwei Schwertern tötet.",
@@ -5380,7 +5430,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Когда вы убиваете противника, на которого действуют эффекты контроля, ваша скорость атаки повышается на +15% на 3 сек. Этот эффект удваивается при использовании двух мечей.",
 			"trTR": "Kitle Kontrolü etkisindeki bir düşmanı öldürmek 3 saniyeliğine +15% artırılmış Saldırı Hızı kazandırır. İki Kılıç ile yapılan öldürmelerde bu miktar ikiye katlanır.",
 			"zhCN": "消灭一名被群控的敌人可以使攻击速度提高 +15%, 持续 3 秒。使用两把剑消灭敌人时该数值翻倍。",
-			"zhTW": "殺死受控場影響的敵人時,可使攻擊速度提高 +15%,持續 3 秒。雙持劍擊殺敵人時此效果加倍。"
+			"zhTW": "殺死受控場影響的敵人時,可使攻擊速度提高 +15%,持續 3 秒。雙持劍擊殺敵人時此效果加倍。",
+			"thTH": "เมื่อสังหารศัตรูที่อยู่ในสถานะ Crowd Controlled จะได้รับความเร็วในการโจมตีเพิ่มขึ้น +15% เป็นระยะเวลา 3 วินาที, เพิ่มจำนวนนี้เป็นสองเท่าเมื่อใช้ดาบทั้งสองข้าง"
 		},
 		id: 129
 	},
@@ -5400,7 +5451,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Мастерство: двуручный топор",
 			"trTR": "Çift El Balta Uzmanlığı",
 			"zhCN": "双手斧专精",
-			"zhTW": "雙手斧專精"
+			"zhTW": "雙手斧專精",
+			"thTH": "Two-Handed Axe Expertise"
 		},
 		descriptionLocalized: {
 			"deDE": "x{1.5/3/4.5/6/7.5/9/10.5/12/13.5/15}% mehr Schaden gegen verwundbare Gegner.",
@@ -5415,7 +5467,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Вы наносите на x{1.5/3/4.5/6/7.5/9/10.5/12/13.5/15}% больше урона уязвимым противникам.",
 			"trTR": "Savunmasız düşmanlara x{1.5/3/4.5/6/7.5/9/10.5/12/13.5/15}% artırılmış hasar.",
 			"zhCN": "对处于易伤状态的敌人造成的伤害提高 x{1.5/3/4.5/6/7.5/9/10.5/12/13.5/15}%。",
-			"zhTW": "對易傷敵人造成的傷害提高 x{1.5/3/4.5/6/7.5/9/10.5/12/13.5/15}%。"
+			"zhTW": "對易傷敵人造成的傷害提高 x{1.5/3/4.5/6/7.5/9/10.5/12/13.5/15}%。",
+			"thTH": "ทำความเสียหายเพิ่มขึ้น x{1.5/3/4.5/6/7.5/9/10.5/12/13.5/15}% แก่ศัตรูที่อยู่ในสถานะ Vulnerable."
 		},
 		bonusLocalized: {
 			"deDE": "+10% höhere kritische Trefferchance gegen verwundbare Gegner.",
@@ -5430,7 +5483,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Вероятность критического удара повышается на +10% в бою с уязвимыми противниками.",
 			"trTR": "Savunmasız düşmanlara karşı +10% artırılmış Kritik Vuruş İhtimali.",
 			"zhCN": "对处于易伤状态的敌人造成暴击的几率提高 +10%。",
-			"zhTW": "對易傷敵人的爆擊機率提高 +10%。"
+			"zhTW": "對易傷敵人的爆擊機率提高 +10%。",
+			"thTH": "+10% โอกาสในการโจมตี Critical แก่ศัตรูที่อยู่ในสถานะ Vulnerable"
 		},
 		id: 130
 	},
@@ -5450,7 +5504,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Мастерство: двуручная булава",
 			"trTR": "Çift El Gürz Uzmanlığı",
 			"zhCN": "双手锤专精",
-			"zhTW": "雙手釘鎚專精"
+			"zhTW": "雙手釘鎚專精",
+			"thTH": "Two-Handed Mace Expertise."
 		},
 		descriptionLocalized: {
 			"deDE": "Glückstreffer: Wenn Ihr einen Gegner trefft, besteht eine Chance von bis zu {1/2/3/4/5/6/7/8/9/10}%, 2 Wut zu erhalten. Im Berserkermodus verdoppelt sich die erhaltene Menge an Wut.",
@@ -5465,7 +5520,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Удачный удар: при попадании в противника вы с вероятностью до {1/2/3/4/5/6/7/8/9/10}% накапливаете 2 ед. ярости. Это количество удваивается в состоянии берсерка.",
 			"trTR": "Şanslı Vuruş: Bir düşmana vururken en fazla %{1/2/3/4/5/6/7/8/9/10} ihtimalle 2 Hiddet kazan. Başıbozukluk sırasında kazanılan Hiddet miktarı ikiye katlanır.",
 			"zhCN": "幸运一击: 命中一名敌人最多有 {1/2/3/4/5/6/7/8/9/10}% 几率获得 2 点怒气。狂暴状态下该数值翻倍。",
-			"zhTW": "幸運觸發:擊中敵人時最多有 {1/2/3/4/5/6/7/8/9/10}% 機率獲得 2 點怒氣。狂暴時獲得的怒氣加倍。"
+			"zhTW": "幸運觸發:擊中敵人時最多有 {1/2/3/4/5/6/7/8/9/10}% 機率獲得 2 點怒氣。狂暴時獲得的怒氣加倍。",
+			"thTH": "Lucky Hit: มีโอกาส {1/2/3/4/5/6/7/8/9/10}% ที่จะได้รับ 2 Fury เมื่อทำความเสียหายแก่ศัตรู, เพิ่มจำนวน Fury ที่ได้รับสองเท่าในขณะที่อยู่ในสถานะ Berserking."
 		},
 		bonusLocalized: {
 			"deDE": "Im Berserkermodus verursacht Ihr x15% höheren kritischen Trefferschaden bei betäubten und verwundbaren Gegnern.",
@@ -5480,7 +5536,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "В состоянии берсерка вы наносите на x15% больше критического урона оглушенным и уязвимым противникам.",
 			"trTR": "Başıbozukluk sırasında Sersemletilmiş ve Savunmasız düşmanlara x15% artırılmış Kritik Vuruş Hasarı verirsin.",
 			"zhCN": "你在狂暴状态下对陷入昏迷和易伤状态的敌人造成的暴击伤害提高 x15%。",
-			"zhTW": "你在狂暴時,對昏迷與易傷敵人造成的爆擊傷害提高 x15%。"
+			"zhTW": "你在狂暴時,對昏迷與易傷敵人造成的爆擊傷害提高 x15%。",
+			"thTH": "ทำความเสียหาย Critical เพิ่มขึ้น x15% แก่ศัตรูที่อยู่ในสถานะ Stunned และ Vulnerables ในขณะที่คุณอยู่ในสถานะ Berserking."
 		},
 		id: 131
 	},
@@ -5500,7 +5557,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Мастерство: древковое оружие",
 			"trTR": "Gönderli Silah Uzmanlığı",
 			"zhCN": "长柄专精",
-			"zhTW": "長柄武器專精"
+			"zhTW": "長柄武器專精",
+			"thTH": "Polearm Expertise"
 		},
 		descriptionLocalized: {
 			"deDE": "x{1/2/3/4/5/6/7/8/9/10}% höhere Glückstrefferchance.",
@@ -5515,7 +5573,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Вероятность нанести удачный удар повышается на x{1/2/3/4/5/6/7/8/9/10}%.",
 			"trTR": "x{1/2/3/4/5/6/7/8/9/10}% artırılmış Şanslı Vuruş İhtimali.",
 			"zhCN": "出现幸运一击的几率提高 x{1/2/3/4/5/6/7/8/9/10}%。",
-			"zhTW": "幸運觸發機率提高 x{1/2/3/4/5/6/7/8/9/10}%。"
+			"zhTW": "幸運觸發機率提高 x{1/2/3/4/5/6/7/8/9/10}%。",
+			"thTH": "เพิ่มโอกาส x{1/2/3/4/5/6/7/8/9/10}% Lucky Hit."
 		},
 		bonusLocalized: {
 			"deDE": "Ihr verursacht +10% höheren Schaden, während Ihr gesund seid.",
@@ -5530,7 +5589,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Вы наносите на +10% больше урона, пока у вас высокий уровень здоровья.",
 			"trTR": "Sağlıklıyken +10% artırılmış hasar verirsin.",
 			"zhCN": "你在健康状态下造成的伤害提高 +10%。",
-			"zhTW": "健康狀態下,你造成的傷害提高 +10%。"
+			"zhTW": "健康狀態下,你造成的傷害提高 +10%。",
+			"thTH": "ทำความเสียหายเพิ่มขึ้น +10% เมื่อคุณอยู่ในสถานะ Healthy."
 		},
 		id: 132
 	},
@@ -5550,7 +5610,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Мастерство: двуручный меч",
 			"trTR": "Çift El Kılıç Uzmanlığı",
 			"zhCN": "双手剑专精",
-			"zhTW": "雙手劍專精"
+			"zhTW": "雙手劍專精",
+			"thTH": "Two-Handed Sword Expertise"
 		},
 		descriptionLocalized: {
 			"deDE": "+{2/4/6/8/10/12/14/16/18/20}% des direkten Schadens, den Ihr verursacht, wird im Verlauf von 5 Sek. als Blutungsschaden zugefügt.",
@@ -5565,7 +5626,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "+{2/4/6/8/10/12/14/16/18/20}% наносимого прямого урона превращается в урон от кровотечения на 5 сек.",
 			"trTR": "Verdiğin doğrudan hasarın +{2/4/6/8/10/12/14/16/18/20}% kadarı, 5 saniye boyunca Kanama hasarı olarak uygulanır.",
 			"zhCN": "你造成的直接伤害的 +{2/4/6/8/10/12/14/16/18/20}% 会在 5 秒内持续造成流血伤害。",
-			"zhTW": "你造成的直接傷害有 +{2/4/6/8/10/12/14/16/18/20}% 會轉為在 5 秒內施加的流血傷害。"
+			"zhTW": "你造成的直接傷害有 +{2/4/6/8/10/12/14/16/18/20}% 會轉為在 5 秒內施加的流血傷害。",
+			"thTH": "+{2/4/6/8/10/12/14/16/18/20}%  ของความเสียหายที่คุณทำ จะเป็นความเสียหาย Bleeding ภายในระยะเวลา 5 วินาที"
 		},
 		bonusLocalized: {
 			"deDE": "Ihr verursacht 5 Sek. lang x30% höheren Blutungsschaden, nachdem Ihr einen Gegner getötet habt.",
@@ -5580,7 +5642,8 @@ barbarianData["Weapon Expertise"] = {
 			"ruRU": "Наносимый урон от кровотечения увеличивается на x30% на 5 сек. после убийства противника.",
 			"trTR": "Bir düşmanı öldürdükten sonra 5 saniye boyunca x30% artırılmış Kanama hasarı verirsin.",
 			"zhCN": "消灭一名敌人后, 你造成的流血伤害提高 x30%, 持续 5 秒。",
-			"zhTW": "擊殺敵人後,你造成的流血傷害提高 x30%,持續 5 秒。"
+			"zhTW": "擊殺敵人後,你造成的流血傷害提高 x30%,持續 5 秒。",
+			"thTH": "ทำความเสียหาย Bleeding เพิ่มขึ้น x30% เป็นระยะเวลา 5 วินาที หลังจากที่สังหารศัตรู."
 		},
 		id: 133
 	},
