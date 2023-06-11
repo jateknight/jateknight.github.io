@@ -587,7 +587,7 @@ Tags: Basic, Bleed, Slashing, Fury, Damage, Physical.`,
 			"trTR": "Hiddet Üret: 9\nŞanslı Vuruş İhtimali: 50% (per use)\nDüşmanın derisini yüzerek {5/5.5/6/6.5/7/7.5/8/8.5/9/9.5}% hasar ver ve 5 saniye boyunca {36/39.5/43/47/50.5/54/57.5/61/65/68.5}% Kanama hasarı uygula.\n\nTags: Temel, Kanama, Kesici, Hiddet, Hasar, Fiziksel.",
 			"zhCN": "生成怒气: 9\n幸运一击几率: 50% (per use)\n剥掉敌人的皮, 造成 {5/5.5/6/6.5/7/7.5/8/8.5/9/9.5}% 点伤害, 并在 5 秒内造成 {36/39.5/43/47/50.5/54/57.5/61/65/68.5}% 点流血伤害。\n\nTags: 基础, 流血, 劈斩, 怒气, 伤害, 物理.",
 			"zhTW": "產生怒氣:9\n幸運觸發機率:50% (per use)\n將敵人剝皮,造成 {5/5.5/6/6.5/7/7.5/8/8.5/9/9.5}% 點傷害,並使其在 5 秒內受到 {36/39.5/43/47/50.5/54/57.5/61/65/68.5}% 點流血傷害。\n\nTags: 基本, 流血, 斬擊, 怒氣, 傷害, 物理.",
-			"thTH": "ได้รับ Fury: 9\nLucky Hit: 50%(per use)\nทำความเสียหาย {5/5.5/6/6.5/7/7.5/8/8.5/9/9.5}% และความเสียหาย Bleeding {36/39.5/43/47/50.5/54/57.5/61/65/68.5}% ภายใน 5 วินาที . \n\nTags: ."
+			"thTH": "ได้รับ Fury: 9\nLucky Hit: 50%(per use)\nทำความเสียหาย {5/5.5/6/6.5/7/7.5/8/8.5/9/9.5}% และความเสียหาย Bleeding {36/39.5/43/47/50.5/54/57.5/61/65/68.5}% ภายใน 5 วินาที . \n\nTags: Basic, Bleed, Slashing, Fury, Damage, Physical."
 },
 		id: 12,
 		maxPoints: 5,
@@ -1303,7 +1303,7 @@ Tags: Core, Bleed, Damage, Physical, Fury, Slashing.`,
 			"trTR": "Hiddet Bedeli: 35\nŞanslı Vuruş İhtimali: 33% (per use)\nÖnündeki düşmanları ikiye ayırarak {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% hasar ver ve 5 saniye boyunca {96/105.5/115/125/134.5/144/153.5/163/173/182.5}% Kanama hasarı uygula.\n\nTags: Çekirdek, Kanama, Hasar, Fiziksel, Hiddet, Kesici.",
 			"zhCN": "怒气消耗: 35\n幸运一击几率: 33% (per use)\n对面前的敌人发动顺劈斩, 造成 {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% 点伤害并在 5 秒内造成 {96/105.5/115/125/134.5/144/153.5/163/173/182.5}% 点流血伤害。\n\nTags: 核心, 流血, 伤害, 物理, 怒气, 劈斩.",
 			"zhTW": "怒氣消耗:35\n幸運觸發機率:33% (per use)\n劈斬你前方的敵人,造成 {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% 點傷害並在 5 秒內對敵人造成 {96/105.5/115/125/134.5/144/153.5/163/173/182.5}% 點流血傷害。\n\nTags: 核心, 流血, 傷害, 物理, 怒氣, 斬擊.",
-			"thTH": "ใช้ Fury: 35\nLucky Hit: 33% (per use)\nทำความเสียหายศัตรูด้านหน้า ทำความเสียหาย {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% และทำความเสียหาย Bleeding {96/105.5/115/125/134.5/144/153.5/163/173/182.5}% ภายในระยะเวลา 5 วินาที . \n\nTags: ."
+			"thTH": "ใช้ Fury: 35\nLucky Hit: 33% (per use)\nทำความเสียหายศัตรูด้านหน้า ทำความเสียหาย {12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8}% และทำความเสียหาย Bleeding {96/105.5/115/125/134.5/144/153.5/163/173/182.5}% ภายในระยะเวลา 5 วินาที . \n\nTags: Core, Bleed, Damage, Physical, Fury, Slashing."
 },
 		id: 29,
 		maxPoints: 5,
@@ -2979,7 +2979,7 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"trTR": "Attack Speed Multiplier: 1.3\nBekleme Süresi: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} saniye\nŞanslı Vuruş İhtimali: 66% (per hit)\nİleri sıçrayıp yere vurarak {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% hasar ver ve çarpma anında etraftaki düşmanları Geriye Savur.\n\nTags: Kapışma, Kitle Kontrolü, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "Attack Speed Multiplier: 1.3\n冷却时间: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸运一击几率: 66% (per hit)\n向前跳跃然后落地猛击, 造成 {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% 点伤害并在命中时击退周围的敌人。\n\nTags: 搏斗, 群控, 伤害, 物理, 冷却时间.",
 			"zhTW": "Attack Speed Multiplier: 1.3\n冷卻時間:{17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸運觸發機率: 66% (per hit)\n猛力一躍並向下重擊,落地時造成 {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% 點傷害並擊退附近的敵人。\n\nTags: 爭鬥, 控場, 傷害, 物理, 冷卻時間.",
-			"thTH": "ความเร็วในการโจมตี: 1.3\nCooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit: (ต่อครั้ง)\nพุ่งเข้าหาศัตรูทำความเสียหาย . \n\nTags: ."
+			"thTH": "ความเร็วในการโจมตี: 1.3\nCooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit:  66% (per hit)\nกระโดดเข้าหาศัตรู ทำความเสียหาย {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% และศัตรูรอบตัวจะถูกผลักออก. \n\nTags: Brawling, Crowd Control, Damage, Physical, Cooldown."
 },
 		id: 69,
 		maxPoints: 5,
@@ -3147,7 +3147,7 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"trTR": "Yük: 2\nYük Bekleme Süresi: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} saniye\nŞanslı Vuruş İhtimali: 40% (per hit)\n18% hasar veren ve önündeki düşmanları Geri Savuran güçlü bir tekme at. Geri Savrularak yeren çarpan düşmanlar ilave 54% hasar alır ve 3 saniyeliğine Sersemletilir.\n\nTags: Kapışma, Kitle Kontrolü, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "使用次数: 2\n充能冷却时间: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸运一击几率: 40% (per hit)\n发起一次强力踢击, 对你面前的敌人造成 18% 点伤害并将其击退。被击退至地形上的敌人额外受到 54% 点伤害并陷入昏迷, 持续 3 秒。\n\nTags: 搏斗, 群控, 伤害, 物理, 冷却时间.",
 			"zhTW": "使用次數:2\n使用次數恢復時間:{17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸運觸發機率: 40% (per hit)\n對你前方的敵人施展踢擊,造成 18% 點傷害並將敵人擊退。遭擊退時撞到地形的敵人會額外受到 54% 點傷害,並被擊昏 3 秒。\n\nTags: 爭鬥, 控場, 傷害, 物理, 冷卻時間.",
-			"thTH": "Charges: 2\nCharge Cooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit Chance: 40% (per hit)\n ทำความเสียหาย 18% แก่ศัตรูด้านหน้า และผลักออก, ศัตรูที่ถูกผลักออกชนกับสิ่งแวดล้อมจะได้รับความเสียหายเพิ่มเติม 54% และ Stun เป็นระยะเวลา 3 วินาที"
+			"thTH": "Charges: 2\nCharge Cooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit Chance: 40% (per hit)\n ทำความเสียหาย 18% แก่ศัตรูด้านหน้า และผลักออก, ศัตรูที่ถูกผลักออกชนกับสิ่งแวดล้อมจะได้รับความเสียหายเพิ่มเติม 54% และ Stun เป็นระยะเวลา 3 วินาที\n\nTags: Brawling, Crowd Control, Damage, Physical, Cooldown."
 },
 		id: 73,
 		maxPoints: 5,
@@ -3511,7 +3511,8 @@ Tags: Weapon Mastery, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Железная хватка",
 			"trTR": "Çelik Pençe",
 			"zhCN": "钢铁之握",
-			"zhTW": "鋼鐵鎖縛"
+			"zhTW": "鋼鐵鎖縛",
+			"thTH": "Steel Grasp"
 },
 		descriptionLocalized: {
 			"deDE": "Aufladungen: 2\nAufladungsabklingzeit: {11/10.45/9.9/9.46/9.02/8.69/8.36/8.14/7.92/7.7/7.48/7.26/7.15/7.04/6.93/6.82/6.765/6.71/6.655/6.6} Sek.\nGlückstrefferchance: 25% (per hit)\nWerft drei Ketten aus, die {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% Schaden verursachen und Gegner heranziehen.\n\nTags: Waffenbeherrschung, Kontrollverlust, Schaden, Physisch, Abklingzeit.",
@@ -3526,7 +3527,8 @@ Tags: Weapon Mastery, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Количество зарядов: 2.\nВремя восстановления заряда: {11/10.45/9.9/9.46/9.02/8.69/8.36/8.14/7.92/7.7/7.48/7.26/7.15/7.04/6.93/6.82/6.765/6.71/6.655/6.6} сек.\nВероятность удачного удара: 25% (per hit)\nВы бросаете вперед три цепи, наносящие {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% ед. урона и притягивающие противников.\n\nTags: Мастер оружия, Контроль, Урон, Физический урон, Время восстановления.",
 			"trTR": "Yük: 2\nYük Bekleme Süresi: {11/10.45/9.9/9.46/9.02/8.69/8.36/8.14/7.92/7.7/7.48/7.26/7.15/7.04/6.93/6.82/6.765/6.71/6.655/6.6} saniye\nŞanslı Vuruş İhtimali: 25% (per hit)\n{23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% hasar veren ve düşmanları Çeken bir zincir üçlüsü fırlat.\n\nTags: Silah Ustalığı, Kitle Kontrolü, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "使用次数: 2\n充能冷却时间: {11/10.45/9.9/9.46/9.02/8.69/8.36/8.14/7.92/7.7/7.48/7.26/7.15/7.04/6.93/6.82/6.765/6.71/6.655/6.6} 秒\n幸运一击几率: 25% (per hit)\n扔出三段锁链, 造成 {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% 点伤害并将敌人拉向你的位置。\n\nTags: 武器精通, 群控, 伤害, 物理, 冷却时间.",
-			"zhTW": "使用次數: 2\n使用次數恢復時間: {11/10.45/9.9/9.46/9.02/8.69/8.36/8.14/7.92/7.7/7.48/7.26/7.15/7.04/6.93/6.82/6.765/6.71/6.655/6.6} 秒\n幸運觸發機率: 25% (per hit)\n丟出三條鎖鏈,造成 {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% 點傷害並將敵人拉近。\n\nTags: 武器專精, 控場, 傷害, 物理, 冷卻時間."
+			"zhTW": "使用次數: 2\n使用次數恢復時間: {11/10.45/9.9/9.46/9.02/8.69/8.36/8.14/7.92/7.7/7.48/7.26/7.15/7.04/6.93/6.82/6.765/6.71/6.655/6.6} 秒\n幸運觸發機率: 25% (per hit)\n丟出三條鎖鏈,造成 {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% 點傷害並將敵人拉近。\n\nTags: 武器專精, 控場, 傷害, 物理, 冷卻時間.",
+			"thTH": "Charges: 2\nCharge Cooldown: {11/10.45/9.9/9.46/9.02/8.69/8.36/8.14/7.92/7.7/7.48/7.26/7.15/7.04/6.93/6.82/6.765/6.71/6.655/6.6} วินาที\nLucky Hit Chance: 25% (per hit)\nโยนโซ่เข้าหาศัตรู ทำความเสียหาย {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% และดึงศัตรูเข้ามาหาตัว. \n\nTags: Weapon Master, Crowd Control, Damage, Physical, Cooldown."
 },
 		id: 82,
 		maxPoints: 5,
@@ -3550,7 +3552,8 @@ Tags: Weapon Mastery, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Усиленная железная хватка",
 			"trTR": "Geliştirilmiş Çelik Pençe",
 			"zhCN": "强化钢铁之握",
-			"zhTW": "強化鋼鐵鎖縛"
+			"zhTW": "強化鋼鐵鎖縛",
+			"thTH": "Enhanced Steel Grasp"
 },
 		descriptionLocalized: {
 			"deDE": "Stahlgriff macht Gegner auch 2.5 Sek. lang verwundbar.",
@@ -3565,7 +3568,8 @@ Tags: Weapon Mastery, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "\"Железная хватка\" также делает противников уязвимыми на 2.5 сек.",
 			"trTR": "Çelik Pençe ayrıca düşmanları 2.5 saniyeliğine Savunmasız hâle getirir.",
 			"zhCN": "钢铁之握也会使敌人陷入易伤状态, 持续 2.5 秒。",
-			"zhTW": "鋼鐵鎖縛會使敵人易傷 2.5 秒。"
+			"zhTW": "鋼鐵鎖縛會使敵人易傷 2.5 秒。",
+			"thTH": "Steel Grasp จะทำให้ศัตรูอยู่ในสถานะ Vulnerable เป็นระยะเวลา 2.5 วินาที"
 },
 		id: 83,
 		maxPoints: 1,
@@ -3589,7 +3593,8 @@ Tags: Weapon Mastery, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Воинская железная хватка",
 			"trTR": "Savaşçının Çelik Pençesi",
 			"zhCN": "勇士钢铁之握",
-			"zhTW": "戰士鋼鐵鎖縛"
+			"zhTW": "戰士鋼鐵鎖縛",
+			"thTH": "Warrior's Steel Grasp"
 },
 		descriptionLocalized: {
 			"deDE": "Stahlgriff erhält 1 zusätzliche Aufladung.",
@@ -3604,7 +3609,8 @@ Tags: Weapon Mastery, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Количество зарядов \"Железной хватки\" увеличивается на 1.",
 			"trTR": "Çelik Pençe ilave 1 Yük kazanır.",
 			"zhCN": "钢铁之握额外获得 1 次使用次数。",
-			"zhTW": "鋼鐵鎖縛獲得額外 1 次使用次數。"
+			"zhTW": "鋼鐵鎖縛獲得額外 1 次使用次數。",
+			"thTH": "เพิ่มจำนวน 1 Charge ให้แก่สกิล Steel Grasp"
 },
 		id: 84,
 		maxPoints: 1,
@@ -3628,7 +3634,8 @@ Tags: Weapon Mastery, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Бойцовская железная хватка",
 			"trTR": "Dövüşçünün Çelik Pençesi",
 			"zhCN": "斗士钢铁之握",
-			"zhTW": "鬥士鋼鐵鎖縛"
+			"zhTW": "鬥士鋼鐵鎖縛",
+			"thTH": "Fighter's Steel Grasp"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Stahlgriff einem Gegner Schaden zufügt, verfallt Ihr 2 Sek. lang in den Berserkermodus.",
@@ -3643,7 +3650,8 @@ Tags: Weapon Mastery, Crowd Control, Damage, Physical, Cooldown.`,
 			"ruRU": "Когда \"Железная хватка\" поражает противника, вы на 2 сек. переходите в состояние берсерка.",
 			"trTR": "Çelik Pençe bir düşmana hasar verirse 2 saniyeliğine Başıbozukluk kazan.",
 			"zhCN": "钢铁之握对一名敌人造成伤害即可获得狂暴, 持续 2 秒。",
-			"zhTW": "若鋼鐵鎖縛對敵人造成傷害,你會獲得狂暴,持續 2 秒。"
+			"zhTW": "若鋼鐵鎖縛對敵人造成傷害,你會獲得狂暴,持續 2 秒。",
+			"thTH": "หาก Steel Grasp ทำความเสียหายแก่ศัตรู, ได้รับ Berserking เป็นระยะเวลา 2 วินาที"
 },
 		id: 85,
 		maxPoints: 1,
@@ -3668,7 +3676,8 @@ Tags: Fortify.`,
 			"ruRU": "Плотная кожа",
 			"trTR": "Kalın Deri",
 			"zhCN": "皮糙肉厚",
-			"zhTW": "粗厚外皮"
+			"zhTW": "粗厚外皮",
+			"thTH": "Thick Skin"
 },
 		descriptionLocalized: {
 			"deDE": "Jedes Mal, wenn Ihr direkten Schaden erleidet, erhaltet Ihr {0.4/0.7/1.1/1.4/1.8/2.2/2.5/2.9/3.2/3.6}% Basisleben als Stählung.\n\nTags: Stählung.",
@@ -3683,7 +3692,8 @@ Tags: Fortify.`,
 			"ruRU": "Когда вам наносят прямой урон, вы получаете укрепление в объеме {0.4/0.7/1.1/1.4/1.8/2.2/2.5/2.9/3.2/3.6}% базового запаса здоровья.\n\nTags: Укрепление.",
 			"trTR": "Her doğrudan hasar aldığında {0.4/0.7/1.1/1.4/1.8/2.2/2.5/2.9/3.2/3.6}% Temel Canı Güçlendirme olarak kazan.\n\nTags: Güçlendirme.",
 			"zhCN": "你每次受到直接伤害都会强固你 {0.4/0.7/1.1/1.4/1.8/2.2/2.5/2.9/3.2/3.6}% 基础生命。\n\nTags: 强固.",
-			"zhTW": "你每次受到直接傷害時會獲得等同 {0.4/0.7/1.1/1.4/1.8/2.2/2.5/2.9/3.2/3.6}% 基礎生命值的強韌。\n\nTags: 強韌."
+			"zhTW": "你每次受到直接傷害時會獲得等同 {0.4/0.7/1.1/1.4/1.8/2.2/2.5/2.9/3.2/3.6}% 基礎生命值的強韌。\n\nTags: 強韌.",
+			"thTH": "ทุกครั้งที่คุณได้รับความเสียหาย จะได้รับ Fortify {0.4/0.7/1.1/1.4/1.8/2.2/2.5/2.9/3.2/3.6}% ของพลังชีวิตพื้นฐาน"
 },
 		id: 86,
 		maxPoints: 3,
@@ -3708,7 +3718,8 @@ Tags: Fortify, Life, Damage.`,
 			"ruRU": "Контрнаступление",
 			"trTR": "Karşı Saldırı",
 			"zhCN": "反攻",
-			"zhTW": "反攻"
+			"zhTW": "反攻",
+			"thTH": "Counteroffensive"
 },
 		descriptionLocalized: {
 			"deDE": "Solange Ihr um mindestens 50% Eures maximalen Lebens gestählt seid, verursacht Ihr x{4/8/12/16/20/24/28/32/36/40}% mehr Schaden.\n\nTags: Stählung, Leben, Schaden.",
@@ -3723,7 +3734,8 @@ Tags: Fortify, Life, Damage.`,
 			"ruRU": "Пока ваш эффект укрепления превышает 50% максимального запаса здоровья, наносимый вами урон увеличивается на x{4/8/12/16/20/24/28/32/36/40}%.\n\nTags: Укрепление, Здоровье, Урон.",
 			"trTR": "Maksimum Canının 50% kadarının üstünde Güçlendirmeye sahip olduğunda x{4/8/12/16/20/24/28/32/36/40}% artırılmış hasar verirsin.\n\nTags: Güçlendirme, Can, Hasar.",
 			"zhCN": "当你获得的强固超过 50% 生命上限时, 你造成的伤害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 强固, 生命, 伤害.",
-			"zhTW": "當強韌高於生命值上限的 50% 時,你造成的傷害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 強韌, 生命值, 傷害."
+			"zhTW": "當強韌高於生命值上限的 50% 時,你造成的傷害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 強韌, 生命值, 傷害.",
+			"thTH": "เมื่อคุณมี Fortify มากกว่า 50% ของพลังชีวิตสูงสุด, คุณจะทำความเสียหายเพิ่มขึ้น x{4/8/12/16/20/24/28/32/36/40}%"
 },
 		id: 87,
 		maxPoints: 3,
@@ -3748,7 +3760,8 @@ Tags: Fortify, Damage Reduction.`,
 			"ruRU": "Защитная позиция",
 			"trTR": "Savunma Duruşu",
 			"zhCN": "防御姿态",
-			"zhTW": "防禦姿態"
+			"zhTW": "防禦姿態",
+			"thTH": "Defensive Stance"
 },
 		descriptionLocalized: {
 			"deDE": "Erhöht die verliehene Schadensreduktion, während Ihr gestählt seid, um zusätzlich {2/4/6/8/10/12/14/16/18/20}%.\n\nTags: Stählung, Schadensreduktion.",
@@ -3763,7 +3776,8 @@ Tags: Fortify, Damage Reduction.`,
 			"ruRU": "Укрепление уменьшает получаемый урон еще на {2/4/6/8/10/12/14/16/18/20}%.\n\nTags: Укрепление, Уменьшение урона.",
 			"trTR": "Güçlendirilmişken kazanılan Hasar Azaltmayı ilave {2/4/6/8/10/12/14/16/18/20}% artır.\n\nTags: Güçlendirme, Hasar Azaltma.",
 			"zhCN": "获得强固时, 伤害减免额外提高 {2/4/6/8/10/12/14/16/18/20}%。\n\nTags: 强固, 伤害减免.",
-			"zhTW": "在強韌狀態下,你獲得的傷害減免效果額外提高 {2/4/6/8/10/12/14/16/18/20}%。\n\nTags: 強韌, 傷害減免."
+			"zhTW": "在強韌狀態下,你獲得的傷害減免效果額外提高 {2/4/6/8/10/12/14/16/18/20}%。\n\nTags: 強韌, 傷害減免.",
+			"thTH": "เมื่ออยู่ในสถานะ Fortify จะได้รับ Damage Reduction เพิ่มขึ้น {2/4/6/8/10/12/14/16/18/20}%"
 },
 		id: 126,
 		maxPoints: 3,
@@ -3792,7 +3806,8 @@ Tags: Weapon Mastery, Damage, Physical, Cooldown.`,
 			"ruRU": "Смертельный удар",
 			"trTR": "Ölüm Darbesi",
 			"zhCN": "死亡重击",
-			"zhTW": "死亡之擊"
+			"zhTW": "死亡之擊",
+			"thTH": "Death Blow"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 15 Sek.\nGlückstrefferchance: 50% (per hit)\nVersucht Euch an einem tödlichen Schlag, der Gegnern vor Euch {120/132/144/156/168/180/192/204/216/228}% Schaden zufügt.\n\nStirbt ein Gegner durch diese Fertigkeit, wird die Abklingzeit abgeschlossen.\n\nTags: Waffenbeherrschung, Schaden, Physisch, Abklingzeit.",
@@ -3807,7 +3822,8 @@ Tags: Weapon Mastery, Damage, Physical, Cooldown.`,
 			"ruRU": "Время восстановления: 15 сек.\nВероятность удачного удара: 50% (per hit)\nСмертельный удар наносит {120/132/144/156/168/180/192/204/216/228}% ед. урона целям в секторе перед вами.\n\nЕсли противник умирает, умение мгновенно восстанавливается.\n\nTags: Мастер оружия, Урон, Физический урон, Время восстановления.",
 			"trTR": "Bekleme Süresi: 15 saniye\nŞanslı Vuruş İhtimali: 50% (per hit)\nÖldürücü bir vuruş yapmaya çalışarak önündeki düşmanlara {120/132/144/156/168/180/192/204/216/228}% hasar ver.\n\nBu saldırı bir düşmanı öldürürse Bekleme Süresi sıfırlanır.\n\nTags: Silah Ustalığı, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "冷却时间: 15 秒\n幸运一击几率: 50% (per hit)\n试图发动一次致命攻击, 对面前的敌人造成 {120/132/144/156/168/180/192/204/216/228}% 点伤害。\n\n如果该技能消灭了一名敌人, 则重置其冷却时间。\n\nTags: 武器精通, 伤害, 物理, 冷却时间.",
-			"zhTW": "冷卻時間:15 秒\n幸運觸發機率: 50% (per hit)\n使出致命打擊,對你前方的敵人造成 {120/132/144/156/168/180/192/204/216/228}% 點傷害。\n\n若此技能擊殺了敵人,重置其冷卻時間。\n\nTags: 武器專精, 傷害, 物理, 冷卻時間."
+			"zhTW": "冷卻時間:15 秒\n幸運觸發機率: 50% (per hit)\n使出致命打擊,對你前方的敵人造成 {120/132/144/156/168/180/192/204/216/228}% 點傷害。\n\n若此技能擊殺了敵人,重置其冷卻時間。\n\nTags: 武器專精, 傷害, 物理, 冷卻時間.",
+			"thTH": "Cooldown: 15 วินาที\nLucky Hit Chance: 50% (per hit)\n ทำความเสียหาย {120/132/144/156/168/180/192/204/216/228}% หากสกิลนี้สังหารศัตรูได้ Cooldown สกิลนี้จะ reset ทันที.\n\nTags: Weapon Mastery, Damage, Physical, Cooldown."
 },
 		id: 89,
 		maxPoints: 5,
@@ -3831,7 +3847,8 @@ Tags: Weapon Mastery, Damage, Physical, Cooldown.`,
 			"ruRU": "Усиленный смертельный удар",
 			"trTR": "Geliştirilmiş Ölüm Darbesi",
 			"zhCN": "强化死亡重击",
-			"zhTW": "強化死亡之擊"
+			"zhTW": "強化死亡之擊",
+			"thTH": "Enhanced Death Blow"
 },
 		descriptionLocalized: {
 			"deDE": "Todesstoß fügt Bossen x100% mehr Schaden zu.",
@@ -3846,7 +3863,8 @@ Tags: Weapon Mastery, Damage, Physical, Cooldown.`,
 			"ruRU": "\"Смертельный удар\" наносит на x100% больше урона боссам.",
 			"trTR": "Ölüm Darbesi Patronlara x100% artırılmış hasar verir.",
 			"zhCN": "死亡重击对首领造成的伤害提高 x100%。",
-			"zhTW": "死亡之擊對首領造成的傷害提高 x100%。"
+			"zhTW": "死亡之擊對首領造成的傷害提高 x100%。",
+			"thTH": "Death Blow ทำความเสียหายเพิ่มขึ้น x100% แก่ Bosses"
 },
 		id: 90,
 		maxPoints: 1,
@@ -3870,7 +3888,8 @@ Tags: Weapon Mastery, Damage, Physical, Cooldown.`,
 			"ruRU": "Воинский смертельный удар",
 			"trTR": "Savaşçının Ölüm Darbesi",
 			"zhCN": "勇士死亡重击",
-			"zhTW": "戰士死亡之擊"
+			"zhTW": "戰士死亡之擊",
+			"thTH": "Warrior's Death Blow"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Todesstoß mindestens einem Gegner Schaden zufügt, verfallt Ihr 3 Sek. lang in den Berserkermodus.",
@@ -3885,7 +3904,8 @@ Tags: Weapon Mastery, Damage, Physical, Cooldown.`,
 			"ruRU": "Если \"Смертельный удар\" наносит урон хотя бы одному противнику, вы получаете эффект берсерк на 3 сек.",
 			"trTR": "Ölüm Darbesi en az bir düşmana hasar verirse 3 saniyeliğine Başıbozukluk kazan.",
 			"zhCN": "如果死亡重击对至少一名敌人造成伤害, 则获得狂暴效果, 持续 3 秒。",
-			"zhTW": "死亡之擊擊中至少一個敵人時,可使你獲得狂暴,持續 3 秒。"
+			"zhTW": "死亡之擊擊中至少一個敵人時,可使你獲得狂暴,持續 3 秒。",
+			"thTH": "หากใช้สกิล Death Blow ทำความเสียหายศัตรูอย่างน้อย 1 ตัว, ได้รับ Berserking เป็นระยะเวลา 3 วินาที"
 },
 		id: 91,
 		maxPoints: 1,
@@ -3909,7 +3929,8 @@ Tags: Weapon Mastery, Damage, Physical, Cooldown.`,
 			"ruRU": "Бойцовский смертельный удар",
 			"trTR": "Dövüşçünün Ölüm Darbesi",
 			"zhCN": "斗士死亡重击",
-			"zhTW": "鬥士死亡之擊"
+			"zhTW": "鬥士死亡之擊",
+			"thTH": "Fighter's Death Blow"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Todesstoß mindestens einem Gegner Schaden zufügt, erhaltet Ihr 20 Wut.",
@@ -3924,7 +3945,8 @@ Tags: Weapon Mastery, Damage, Physical, Cooldown.`,
 			"ruRU": "Если \"Смертельный удар\" наносит урон хотя бы одному противнику, вы получаете 20 ед. ярости.",
 			"trTR": "Ölüm Darbesi en az bir düşmana hasar verirse 20 Hiddet kazan.",
 			"zhCN": "如果死亡重击至少对一名敌人造成伤害, 获得 20 点怒气。",
-			"zhTW": "死亡之擊擊中至少一個敵人時,可產生 20 點怒氣。"
+			"zhTW": "死亡之擊擊中至少一個敵人時,可產生 20 點怒氣。",
+			"thTH": "หากใช้สกิล Death Blow ทำความเสียหายศัตรูอย่างน้อย 1 ตัว, ได้รับ 20 Fury"
 },
 		id: 92,
 		maxPoints: 1,
@@ -3949,7 +3971,8 @@ Tags: Damage Reduction, Damage.`,
 			"ruRU": "Боец арены",
 			"trTR": "Çukur Dövüşçüsü",
 			"zhCN": "深坑斗士",
-			"zhTW": "角鬥士"
+			"zhTW": "角鬥士",
+			"thTH": "Pit Fighter"
 },
 		descriptionLocalized: {
 			"deDE": "Ihr fügt Gegnern in der Nähe x{3/6/9/12/15/18/21/24/27/30}% mehr Schaden zu und erhaltet {2/4/6/8/10/12/14/16/18/20}% Schadensreduktion im Fernkampf.\n\nTags: Schadensreduktion, Schaden.",
@@ -3964,7 +3987,8 @@ Tags: Damage Reduction, Damage.`,
 			"ruRU": "Вы наносите на x{3/6/9/12/15/18/21/24/27/30}% больше урона противникам в области ближнего боя и получаете на {2/4/6/8/10/12/14/16/18/20}% меньше урона от атак дальнего боя.\n\nTags: Уменьшение урона, Урон.",
 			"trTR": "Yakın düşmanlara x{3/6/9/12/15/18/21/24/27/30}% artırılmış hasar verirsin ve {2/4/6/8/10/12/14/16/18/20}% Uzak Mesafe Hasarı Azaltma kazanırsın.\n\nTags: Hasar Azaltma, Hasar.",
 			"zhCN": "你对近距敌人造成的伤害提高 x{3/6/9/12/15/18/21/24/27/30}%, 获得 {2/4/6/8/10/12/14/16/18/20}% 远程伤害减免。\n\nTags: 伤害减免, 伤害.",
-			"zhTW": "你對近距離敵人造成的傷害提高 x{3/6/9/12/15/18/21/24/27/30}%,且獲得 {2/4/6/8/10/12/14/16/18/20}% 遠程傷害減免。\n\nTags: 傷害減免, 傷害."
+			"zhTW": "你對近距離敵人造成的傷害提高 x{3/6/9/12/15/18/21/24/27/30}%,且獲得 {2/4/6/8/10/12/14/16/18/20}% 遠程傷害減免。\n\nTags: 傷害減免, 傷害.",
+			"thTH": "ทำความเสียหายเพิ่มขึ้น x{3/6/9/12/15/18/21/24/27/30}% แก่ศัตรูที่อยู่ใกล้ตัว และได้รับ {2/4/6/8/10/12/14/16/18/20}% Damage Reduction จากศัตรูที่อยู่ไกลตัว"
 },
 		id: 93,
 		maxPoints: 3,
@@ -3989,7 +4013,8 @@ Tags: Injured, Damage.`,
 			"ruRU": "Разящий удар",
 			"trTR": "Biçen Darbe",
 			"zhCN": "杀戮打击",
-			"zhTW": "痛下殺手"
+			"zhTW": "痛下殺手",
+			"thTH": "Slaying Strike"
 },
 		descriptionLocalized: {
 			"deDE": "Ihr fügt verwundeten Gegnern x{7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}% mehr Schaden zu.\n\nTags: Verletzt, Schaden.",
@@ -4004,7 +4029,8 @@ Tags: Injured, Damage.`,
 			"ruRU": "Вы наносите на x{7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}% больше урона противникам с низким уровнем здоровья.\n\nTags: Ранение, Урон.",
 			"trTR": "Yaralı düşmanlara karşı x{7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}% artırılmış hasar verirsin.\n\nTags: Yaralı, Hasar.",
 			"zhCN": "你对受伤的敌人造成的伤害提高 x{7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}%。\n\nTags: 受伤, 伤害.",
-			"zhTW": "你對受傷的敵人造成的傷害提高 x{7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}%。\n\nTags: 受傷, 傷害."
+			"zhTW": "你對受傷的敵人造成的傷害提高 x{7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}%。\n\nTags: 受傷, 傷害.",
+			"thTH": "ทำความเสียหายเพิ่มขึ้น x{7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}% แก่ศัตรูที่อยู่ในสถานะ Injured"
 },
 		id: 94,
 		maxPoints: 3,
@@ -4029,7 +4055,8 @@ Tags: Vulnerable, Core, Weapon Mastery.`,
 			"ruRU": "Найти слабости",
 			"trTR": "Zayıflığı Ortaya Çıkar",
 			"zhCN": "揭示弱点",
-			"zhTW": "暴露破綻"
+			"zhTW": "暴露破綻",
+			"thTH": "Expose Vulnerability"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr mit einer Waffenbeherrschungsfertigkeit direkten Schaden verursacht, macht Eure nächste Kernfertigkeit Gegner {1/2/3/4/5/6/7/8/9/10} Sek. lang verwundbar.\n\nTags: Verwundbar, Kern, Waffenbeherrschung.",
@@ -4044,7 +4071,8 @@ Tags: Vulnerable, Core, Weapon Mastery.`,
 			"ruRU": "Когда умение категории \"Мастер оружия\" наносит прямой урон, ваше следующее основное умение делает противников уязвимыми на {1/2/3/4/5/6/7/8/9/10} сек.\n\nTags: Уязвимость, Основное, Мастер оружия.",
 			"trTR": "Bir Silah Ustalığı yeteneği ile doğrudan hasar vermek, sonraki Çekirdek Yeteneğinin düşmanları {1/2/3/4/5/6/7/8/9/10} saniyeliğine Savunmasız hâle getirmesini sağlar.\n\nTags: Savunmasız, Çekirdek, Silah Ustalığı.",
 			"zhCN": "用武器精通技能造成直接伤害后, 你的下一个核心技能会使敌人陷入易伤状态, 持续 {1/2/3/4/5/6/7/8/9/10} 秒。\n\nTags: 易伤, 核心, 武器精通.",
-			"zhTW": "以武器專精技能造成直接傷害,會使你的下一個核心技能對敵人造成易傷,持續 {1/2/3/4/5/6/7/8/9/10} 秒。\n\nTags: 易傷, 核心, 武器專精."
+			"zhTW": "以武器專精技能造成直接傷害,會使你的下一個核心技能對敵人造成易傷,持續 {1/2/3/4/5/6/7/8/9/10} 秒。\n\nTags: 易傷, 核心, 武器專精.",
+			"thTH": "เมื่อทำความเสียหายด้วยสกิล Weapon Mastery จะทำให้สกิล Core ครั้งต่อไปทำให้ศัตรูอยู่ในสถานะ Vulnerable เป็นระยะเวลา {1/2/3/4/5/6/7/8/9/10} วินาที "
 },
 		id: 95,
 		maxPoints: 3,
@@ -4069,7 +4097,8 @@ Tags: Critical Strikes, Crowd Control.`,
 			"ruRU": "Никакой пощады",
 			"trTR": "Merhamet Yok",
 			"zhCN": "绝不留情",
-			"zhTW": "毫不留情"
+			"zhTW": "毫不留情",
+			"thTH": "No Mercy"
 },
 		descriptionLocalized: {
 			"deDE": "Ihr habt eine +{3/6/9/12/15/18/21/24/27/30}% höhere kritische Trefferchance gegen bewegungsunfähige, betäubte oder verlangsamte Gegner.\n\nTags: Kritische Treffer, Kontrollverlust.",
@@ -4084,7 +4113,8 @@ Tags: Critical Strikes, Crowd Control.`,
 			"ruRU": "Когда вы атакуете обездвиженных, оглушенных или замедленных противников, вероятность критического удара повышается на +{3/6/9/12/15/18/21/24/27/30}%.\n\nTags: Критические удары, Контроль.",
 			"trTR": "Sabitlenmiş, Sersemletilmiş veya Yavaşlatılmış düşmanlara karşı +{3/6/9/12/15/18/21/24/27/30}% artırılmış Kritik Vuruş ihtimalin bulunur.\n\nTags: Kritik Vuruşlar, Kitle Kontrolü.",
 			"zhCN": "你对处于定身、昏迷或减速状态的敌人造成暴击的几率提高 +{3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 暴击, 群控.",
-			"zhTW": "你對定身、昏迷或緩速敵人的爆擊機率提高 +{3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 爆擊, 控場."
+			"zhTW": "你對定身、昏迷或緩速敵人的爆擊機率提高 +{3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 爆擊, 控場.",
+			"thTH": "ได้รับ +{3/6/9/12/15/18/21/24/27/30}% โอกาศในการโจมตี Critical แก่ศัตรูที่อยู่ในสถานะ Immobilized, Stunned หรือ Slowed"
 },
 		id: 96,
 		maxPoints: 3,
@@ -4112,7 +4142,8 @@ Tags: Weapon Mastery, Bleed, Damage, Physical, Cooldown, Slashing.`,
 			"ruRU": "Разрыв",
 			"trTR": "Kesik",
 			"zhCN": "割裂",
-			"zhTW": "血肉橫飛"
+			"zhTW": "血肉橫飛",
+			"thTH": "Rupture"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: {10/9.5/9/8.6/8.2/7.9/7.6/7.4/7.2/7/6.8/6.6/6.5/6.4/6.3/6.2/6.15/6.1/6.05/6} Sek.\n\nGlückstrefferchance: 50% (per hit)\nSpießt Gegner vor Euch auf, verursacht dabei 13% Schaden und reißt dann Eure Waffe heraus, wobei Ihr Gegnern Schaden in Höhe ihrer gesamten Blutungsmenge zufügt und sie vom gesamten Blutungsschaden befreit.\n\nTags: Waffenbeherrschung, Blutung, Schaden, Physisch, Abklingzeit, Hiebwaffe.",
@@ -4127,7 +4158,8 @@ Tags: Weapon Mastery, Bleed, Damage, Physical, Cooldown, Slashing.`,
 			"ruRU": "Время восстановления: {10/9.5/9/8.6/8.2/7.9/7.6/7.4/7.2/7/6.8/6.6/6.5/6.4/6.3/6.2/6.15/6.1/6.05/6} сек.\n\nВероятность удачного удара: 50% (per hit)\nВы пронзаете противников перед собой, нанося 13% ед. урона, а затем выдергиваете оружие, снимая действующие на врагов эффекты кровотечения и нанося оставшийся урон от этих эффектов.\n\nTags: Мастер оружия, Кровотечение, Урон, Физический урон, Время восстановления, Рубящее.",
 			"trTR": "Bekleme Süresi: {10/9.5/9/8.6/8.2/7.9/7.6/7.4/7.2/7/6.8/6.6/6.5/6.4/6.3/6.2/6.15/6.1/6.05/6} saniye\n\nŞanslı Vuruş İhtimali: 50% (per hit)\nÖnündeki düşmanları şişleyerek 13% hasar ver, silahını geri çekerek düşmandaki toplam Kanama miktarına eşit hasar ver ve düşmanın üzerindeki tüm Kanama hasarını kaldır.\n\nTags: Silah Ustalığı, Kanama, Hasar, Fiziksel, Bekleme Süresi, Kesici.",
 			"zhCN": "冷却时间: {10/9.5/9/8.6/8.2/7.9/7.6/7.4/7.2/7/6.8/6.6/6.5/6.4/6.3/6.2/6.15/6.1/6.05/6} 秒\n\n幸运一击几率: 50% (per hit)\n刺穿面前的敌人, 造成 13% 点伤害, 然后拔出你的武器, 结算敌人身上的全部流血伤害并移除所有流血效果。\n\nTags: 武器精通, 流血, 伤害, 物理, 冷却时间, 劈斩.",
-			"zhTW": "冷卻時間:{10/9.5/9/8.6/8.2/7.9/7.6/7.4/7.2/7/6.8/6.6/6.5/6.4/6.3/6.2/6.15/6.1/6.05/6} 秒\n\n幸運觸發機率: 50% (per hit)\n刺穿你前方的敵人,造成 13% 點傷害,接著拔出武器,對敵人造成其身上總流血量的傷害並移除流血狀態。\n\nTags: 武器專精, 流血, 傷害, 物理, 冷卻時間, 斬擊."
+			"zhTW": "冷卻時間:{10/9.5/9/8.6/8.2/7.9/7.6/7.4/7.2/7/6.8/6.6/6.5/6.4/6.3/6.2/6.15/6.1/6.05/6} 秒\n\n幸運觸發機率: 50% (per hit)\n刺穿你前方的敵人,造成 13% 點傷害,接著拔出武器,對敵人造成其身上總流血量的傷害並移除流血狀態。\n\nTags: 武器專精, 流血, 傷害, 物理, 冷卻時間, 斬擊.",
+			"thTH": "Cooldown: {10/9.5/9/8.6/8.2/7.9/7.6/7.4/7.2/7/6.8/6.6/6.5/6.4/6.3/6.2/6.15/6.1/6.05/6} วินาที\nLucky Hit Chance: 50% (per hit)\nแทงศัตรูทำความเสียหาย 13% และดึงอาวุธออก ทำความเสียหายเท่ากับจำนวน Bleeding ทั้งหมดที่ศัตรูมี และลบ Bleeding ทั้งหมดที่ศัตรูมี.\n\nTags: Weapon Mastery, Bleed, Damage, Physical, Cooldown, Slashing"
 },
 		id: 97,
 		maxPoints: 5,
@@ -4151,7 +4183,8 @@ Tags: Weapon Mastery, Bleed, Damage, Physical, Cooldown, Slashing.`,
 			"ruRU": "Усиленный разрыв",
 			"trTR": "Geliştirilmiş Kesik",
 			"zhCN": "强化割裂",
-			"zhTW": "強化血肉橫飛"
+			"zhTW": "強化血肉橫飛",
+			"thTH": "Enhanced Rupture"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr Eure Waffe während Blutspieß aus Gegnern herausreißt, wird eine Explosion ausgelöst, die im Verlauf von 5 Sek. 30% Blutungsschaden verursacht.",
@@ -4166,7 +4199,8 @@ Tags: Weapon Mastery, Bleed, Damage, Physical, Cooldown, Slashing.`,
 			"ruRU": "Когда вы вырываете оружие из противника, пронзенного \"Разрывом\", происходит взрыв, наносящий 30% ед. урона от кровотечения за 5 сек.",
 			"trTR": "Kesik sırasında silahını düşmanların içinden geri çekmek 5 saniye boyunca 30% Kanama hasarı veren bir patlama yaratır.",
 			"zhCN": "在敌人被割裂 期间拔出你的武器会导致一次爆炸, 在 5 秒内造成 30% 点流血伤害。",
-			"zhTW": "在血肉橫飛期間從敵人身上抽出武器,會造成爆炸,在 5 秒內造成 30% 點流血傷害。"
+			"zhTW": "在血肉橫飛期間從敵人身上抽出武器,會造成爆炸,在 5 秒內造成 30% 點流血傷害。",
+			"thTH": "เมื่อดึงอาวุธออกจากศัตรูด้วยสกิล Rupture จะทำให้เกิดระเบิดทำความเสียหาย Bleeding 30% ภายในระยะเวลา 5 วินาที "
 },
 		id: 98,
 		maxPoints: 1,
@@ -4190,7 +4224,8 @@ Tags: Weapon Mastery, Bleed, Damage, Physical, Cooldown, Slashing.`,
 			"ruRU": "Бойцовский разрыв",
 			"trTR": "Dövüşçünün Kesiği",
 			"zhCN": "斗士割裂",
-			"zhTW": "鬥士血肉橫飛"
+			"zhTW": "鬥士血肉橫飛",
+			"thTH": "Fighter's Rupture"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr mindestens 1 Gegner mit Blutspieß trefft, werdet Ihr um 15% Eures maximalen Lebens geheilt.",
@@ -4205,7 +4240,8 @@ Tags: Weapon Mastery, Bleed, Damage, Physical, Cooldown, Slashing.`,
 			"ruRU": "Поразив хотя бы 1 противника \"Разрывом\", вы восполняете 15% максимального запаса здоровья.",
 			"trTR": "Kesik ile en az 1 düşmana vurmak seni Maksimum Canının 15% kadarına eşit İyileştirir.",
 			"zhCN": "割裂命中至少 1 名敌人可以为你恢复 15% 生命上限。",
-			"zhTW": "以血肉橫飛擊中至少 1 個敵人,可使你恢復生命值上限的 15%。"
+			"zhTW": "以血肉橫飛擊中至少 1 個敵人,可使你恢復生命值上限的 15%。",
+			"thTH": "เมื่อทำความเสียหายด้วยสกิล Rupture แก่ศัตรูอย่างน้อย 1 ตัว, จะฟื้นฟูพลังชีวิต 15% ของพลังชีวิตสูงสุดของคุณ"
 },
 		id: 99,
 		maxPoints: 1,
@@ -4229,7 +4265,8 @@ Tags: Weapon Mastery, Bleed, Damage, Physical, Cooldown, Slashing.`,
 			"ruRU": "Воинский разрыв",
 			"trTR": "Savaşçının Kesiği",
 			"zhCN": "勇士割裂",
-			"zhTW": "戰士血肉橫飛"
+			"zhTW": "戰士血肉橫飛",
+			"thTH": "Warrior's Rupture"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr mit Blutspieß Gegner trefft, erhöht sich Eure Angriffsgeschwindigkeit 4 Sek. lang um +20%.",
@@ -4244,7 +4281,8 @@ Tags: Weapon Mastery, Bleed, Damage, Physical, Cooldown, Slashing.`,
 			"ruRU": "Когда вы поражаете противников \"Разрывом\", ваша скорость атаки повышается на +20% на 4 сек.",
 			"trTR": "Kesik ile düşmanlara vurmak 4 saniyeliğine Saldırı Hızını +20% artırır.",
 			"zhCN": "割裂命中敌人会使你的攻击速度提高 +20%, 持续 4 秒。",
-			"zhTW": "以血肉橫飛擊中敵人會使你攻擊速度提高 +20%,持續 4 秒。"
+			"zhTW": "以血肉橫飛擊中敵人會使你攻擊速度提高 +20%,持續 4 秒。",
+			"thTH": "เมื่อทำความเสียหายด้วยสกิล Rupture จะเพิ่มความเร็วในการโจมตี +20% เป็นระยะเวลา 4 วินาที"
 },
 		id: 100,
 		maxPoints: 1,
@@ -4269,7 +4307,8 @@ Tags: Bleed, Crowd Control.`,
 			"ruRU": "Подрезание сухожилий",
 			"trTR": "Sakatla",
 			"zhCN": "断筋",
-			"zhTW": "斷筋"
+			"zhTW": "斷筋",
+			"thTH": "Hamstring"
 },
 		descriptionLocalized: {
 			"deDE": "Eure Blutungseffekte verlangsamen Gegner um {10/20/30/40/50/60/70/80/90/100}%.\n\nTags: Blutung, Kontrollverlust.",
@@ -4284,7 +4323,8 @@ Tags: Bleed, Crowd Control.`,
 			"ruRU": "Ваши эффекты кровотечения замедляют противников на {10/20/30/40/50/60/70/80/90/100}%.\n\nTags: Кровотечение, Контроль.",
 			"trTR": "Kanama etkilerin düşmanları {10/20/30/40/50/60/70/80/90/100}% yavaşlatır.\n\nTags: Kanama, Kitle Kontrolü.",
 			"zhCN": "你的流血效果使敌人减速 {10/20/30/40/50/60/70/80/90/100}%。\n\nTags: 流血, 群控.",
-			"zhTW": "你的流血效果會使敵人緩速 {10/20/30/40/50/60/70/80/90/100}%。\n\nTags: 流血, 控場."
+			"zhTW": "你的流血效果會使敵人緩速 {10/20/30/40/50/60/70/80/90/100}%。\n\nTags: 流血, 控場.",
+			"thTH": "ผลของ Bleeding ของคุณจะทำให้ศัตรูอยู่ในสถานะ Slow {10/20/30/40/50/60/70/80/90/100}%.\n\nTags: Bleed, Crowd Control."
 },
 		id: 101,
 		maxPoints: 3,
@@ -4309,7 +4349,8 @@ Tags: Vulnerable, Bleed, Damage.`,
 			"ruRU": "Порез до кости",
 			"trTR": "Derin Kes",
 			"zhCN": "削骨",
-			"zhTW": "入骨之擊"
+			"zhTW": "入骨之擊",
+			"thTH": "Cut to the Bone"
 },
 		descriptionLocalized: {
 			"deDE": "Eure Blutungseffekte fügen verwundbaren Gegnern x{6/12/18/24/30/36/42/48/54/60}% mehr Schaden zu.\n\nTags: Verwundbar, Blutung, Schaden.",
@@ -4324,7 +4365,8 @@ Tags: Vulnerable, Bleed, Damage.`,
 			"ruRU": "Ваши эффекты кровотечения наносят на x{6/12/18/24/30/36/42/48/54/60}% больше урона уязвимым противникам.\n\nTags: Уязвимость, Кровотечение, Урон.",
 			"trTR": "Kanama etkilerin Savunmasız düşmanlara x{6/12/18/24/30/36/42/48/54/60}% hasar verir.\n\nTags: Savunmasız, Kanama, Hasar.",
 			"zhCN": "你的流血效果对处于易伤状态的敌人造成的伤害提高 x{6/12/18/24/30/36/42/48/54/60}%。\n\nTags: 易伤, 流血, 伤害.",
-			"zhTW": "你的流血效果對易傷敵人造成的傷害提高 x{6/12/18/24/30/36/42/48/54/60}%。\n\nTags: 易傷, 流血, 傷害."
+			"zhTW": "你的流血效果對易傷敵人造成的傷害提高 x{6/12/18/24/30/36/42/48/54/60}%。\n\nTags: 易傷, 流血, 傷害.",
+			"thTH": "ผลของ Bleeding ของคุณจะทำความเสียหายเพิ่มขึ้น x{6/12/18/24/30/36/42/48/54/60}% แก่ศัตรูที่อยู่ในสถานะ Vulnerable"
 },
 		id: 102,
 		maxPoints: 3,
