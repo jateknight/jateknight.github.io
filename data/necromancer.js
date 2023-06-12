@@ -1705,7 +1705,8 @@ Tags: Corpse, Corruption, Damage, Physical, Cooldown.`,
 			"ruRU": "Взрыв трупа",
 			"trTR": "Ceset Patlaması",
 			"zhCN": "邪爆",
-			"zhTW": "屍爆"
+			"zhTW": "屍爆",
+			"thTH": "Corpse Explosion"
 },
 		descriptionLocalized: {
 			"deDE": "Glückstrefferchance: 40% (per use)\nSprengt eine Leiche und fügt Gegnern in der Nähe {50/55/60/65/70/75/80/85/90/95}% Schaden zu.\n\nTags: Leiche, Verderbnis, Schaden, Physisch, Abklingzeit.",
@@ -1720,7 +1721,8 @@ Tags: Corpse, Corruption, Damage, Physical, Cooldown.`,
 			"ruRU": "Вероятность удачного удара: 40% (per use)\nВзрывает труп, нанося ближайшим противникам {50/55/60/65/70/75/80/85/90/95}% ед. урона.\n\nTags: Труп, Осквернение, Урон, Физический урон, Время восстановления.",
 			"trTR": "Şanslı Vuruş İhtimali: 40% (per use)\nBir Cesedi patlatarak etraftaki düşmanlara {50/55/60/65/70/75/80/85/90/95}% hasar ver.\n\nTags: Ceset, Yozlaşma, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "幸运一击几率: 40% (per use)\n引爆一具亡骸, 对周围的敌人造成 {50/55/60/65/70/75/80/85/90/95}% 点伤害。\n\nTags: 亡骸, 腐蚀, 伤害, 物理, 冷却时间.",
-			"zhTW": "幸運觸發機率:40% (per use)\n引爆一具屍體,對附近敵人造成 {50/55/60/65/70/75/80/85/90/95}% 點傷害。\n\nTags: 屍體, 腐化, 傷害, 物理, 冷卻時間."
+			"zhTW": "幸運觸發機率:40% (per use)\n引爆一具屍體,對附近敵人造成 {50/55/60/65/70/75/80/85/90/95}% 點傷害。\n\nTags: 屍體, 腐化, 傷害, 物理, 冷卻時間.",
+			"thTH": "Lucky Hit Change: 40% (per use)\nระเบิดซากศพ ทำความเสียหาย {50/55/60/65/70/75/80/85/90/95}%.\n\nTags: Corpse, Corruption, Damage, Physical, Cooldown."
 },
 		id: 39,
 		maxPoints: 5,
@@ -1744,7 +1746,8 @@ Tags: Corpse, Corruption, Damage, Physical, Cooldown.`,
 			"ruRU": "Усиленный взрыв трупа",
 			"trTR": "Geliştirilmiş Ceset Patlaması",
 			"zhCN": "强化邪爆",
-			"zhTW": "強化屍爆"
+			"zhTW": "強化屍爆",
+			"thTH": "Enhanced Corpse Explosion"
 },
 		descriptionLocalized: {
 			"deDE": "Der Radius von Leichenexplosion erhöht sich um 15%.",
@@ -1759,7 +1762,8 @@ Tags: Corpse, Corruption, Damage, Physical, Cooldown.`,
 			"ruRU": "Радиус \"Взрыва трупа\" увеличивается на x15%.",
 			"trTR": "Ceset Patlamasının yarıçapı 15% artar.",
 			"zhCN": "邪爆范围扩大 15%。",
-			"zhTW": "屍爆的半徑延長 15%。"
+			"zhTW": "屍爆的半徑延長 15%。",
+			"thTH": "เพิ่มความกว้างของ Corpse Explosion 15%."
 },
 		id: 40,
 		maxPoints: 1,
@@ -1783,7 +1787,8 @@ Tags: Corpse, Corruption, Damage, Physical, Cooldown.`,
 			"ruRU": "Гнилостный взрыв трупа",
 			"trTR": "Marazlı Ceset Patlaması",
 			"zhCN": "枯萎邪爆",
-			"zhTW": "荒疫屍爆"
+			"zhTW": "荒疫屍爆",
+			"thTH": "Blighted Corpse Exploison"
 },
 		descriptionLocalized: {
 			"deDE": "Leichenexplosion wird zur Dunkelheitsfertigkeit. Anstatt zu explodieren, verströmt sie ein abscheuliches Miasma, das im Verlauf von 6 Sek. {109.8/121.2/132/142.8/154.2/165/175.8/187.2/198/208.8}% Schattenschaden verursacht.",
@@ -1798,7 +1803,8 @@ Tags: Corpse, Corruption, Damage, Physical, Cooldown.`,
 			"ruRU": "\"Взрыв трупа\" становится умением тьмы и больше не производит взрыв, а высвобождает из тела ужасные миазмы, наносящие {109.8/121.2/132/142.8/154.2/165/175.8/187.2/198/208.8}% ед. урона от темной магии за 6 сек.",
 			"trTR": "Ceset Patlaması bir Karanlık Yeteneğine dönüşür ve patlamak yerine 6 saniye boyunca {109.8/121.2/132/142.8/154.2/165/175.8/187.2/198/208.8}% Gölge hasarı uygulayan iğrenç bir pislik bulutu saçar.",
 			"zhCN": "邪爆变为黑暗技能并且不再产生爆炸, 而是释放一股邪恶的瘴气, 在 6 秒内造成 {109.8/121.2/132/142.8/154.2/165/175.8/187.2/198/208.8}% 点暗影伤害。",
-			"zhTW": "屍爆變成黑暗技能,不再爆炸且改為放出汙穢瘴氣,在 6 秒內造成 {109.8/121.2/132/142.8/154.2/165/175.8/187.2/198/208.8}% 點暗影傷害。"
+			"zhTW": "屍爆變成黑暗技能,不再爆炸且改為放出汙穢瘴氣,在 6 秒內造成 {109.8/121.2/132/142.8/154.2/165/175.8/187.2/198/208.8}% 點暗影傷害。",
+			"thTH": "Corpse Explosion เป็นสกิล Shadow, และเปลี่ยนจากการระเบิดเป็นสร้างหมอกพิษ ทำความเสียหาย Shadow {109.8/121.2/132/142.8/154.2/165/175.8/187.2/198/208.8}% ภายในระยะเวลา 6 วินาที"
 },
 		id: 122,
 		maxPoints: 1,
@@ -1822,7 +1828,8 @@ Tags: Corpse, Corruption, Damage, Physical, Cooldown.`,
 			"ruRU": "Чумной взрыв трупа",
 			"trTR": "Vebalı Ceset Patlaması",
 			"zhCN": "疫病邪爆",
-			"zhTW": "瘟疫屍爆"
+			"zhTW": "瘟疫屍爆",
+			"thTH": "Plagued Corpse Explosion"
 },
 		descriptionLocalized: {
 			"deDE": "Leichenexplosion fügt verlangsamten, betäubten oder verwundbaren Gegnern x8% mehr Schaden zu. Diese Schadensboni sind stapelbar.",
@@ -1837,7 +1844,8 @@ Tags: Corpse, Corruption, Damage, Physical, Cooldown.`,
 			"ruRU": "\"Взрыв трупа\" наносит на x8% больше урона замедленным, оглушенным или уязвимым противникам. Бонусы к урону суммируются.",
 			"trTR": "Ceset Patlaması Yavaşlatılmış, Sersemlemiş veya Savunmasız düşmanlara x8% artırılmış hasar verir. Bu hasar bonusları biriktirilebilir.",
 			"zhCN": "邪爆对处于减速、昏迷或易伤状态的敌人造成的伤害提高 x8%。这些伤害加成可以叠加。",
-			"zhTW": "屍爆對緩速、昏迷或易傷的敵人造成的傷害提高 x8%。此傷害加成可堆疊。"
+			"zhTW": "屍爆對緩速、昏迷或易傷的敵人造成的傷害提高 x8%。此傷害加成可堆疊。",
+			"thTH": "Corpse Explosion ทำความเสียหายเพิ่มขึ้น x8% แก่ศัตรูที่อยู่ในสถานะ Slowed, Stunned, หรือ Vulnerable. การเพิ่มความเสียหายนี้สามารถซ้อนทับกันได้"
 },
 		id: 123,
 		maxPoints: 1,
@@ -1862,7 +1870,8 @@ Tags: Essence, Corpse.`,
 			"ruRU": "Мрачный урожай",
 			"trTR": "Zalim Hasat",
 			"zhCN": "恐怖收割",
-			"zhTW": "陰森收割"
+			"zhTW": "陰森收割",
+			"thTH": "Grim Harvest"
 },
 		descriptionLocalized: {
 			"deDE": "Der Verbrauch einer Leiche erzeugt {2/4/6/8/10/12/14/16/18/20} Essenz.\n\nTags: Essenz, Leiche.",
@@ -1877,7 +1886,8 @@ Tags: Essence, Corpse.`,
 			"ruRU": "Расходуя труп, вы получаете {2/4/6/8/10/12/14/16/18/20} ед. эссенции.\n\nTags: Эссенция, Труп.",
 			"trTR": "Bir Cesedi tüketmek {2/4/6/8/10/12/14/16/18/20} Öz üretir.\n\nTags: Öz, Ceset.",
 			"zhCN": "消耗一具亡骸生成 {2/4/6/8/10/12/14/16/18/20} 点精魂。\n\nTags: 精魂, 亡骸.",
-			"zhTW": "消耗一具屍體會獲得 {2/4/6/8/10/12/14/16/18/20} 點魂能。\n\nTags: 魂能, 屍體."
+			"zhTW": "消耗一具屍體會獲得 {2/4/6/8/10/12/14/16/18/20} 點魂能。\n\nTags: 魂能, 屍體.",
+			"thTH": "เมื่อมีการใช้ซากศพ จะได้รับ {2/4/6/8/10/12/14/16/18/20} Essence"
 },
 		id: 43,
 		maxPoints: 3,
@@ -1902,7 +1912,8 @@ Tags: Damage, Corpse.`,
 			"ruRU": "Смерть придает силы",
 			"trTR": "Ölümle Coşan",
 			"zhCN": "死亡增力",
-			"zhTW": "死亡之力"
+			"zhTW": "死亡之力",
+			"thTH": "Fueled by Death"
 },
 		descriptionLocalized: {
 			"deDE": "Ihr verursacht nach dem Verbrauch einer Leiche 6 Sek. lang x{3/6/9/12/15/18/21/24/27/30}% mehr Schaden.\n\nTags: Schaden, Leiche.",
@@ -1917,7 +1928,8 @@ Tags: Damage, Corpse.`,
 			"ruRU": "Наносимый урон увеличивается на x{3/6/9/12/15/18/21/24/27/30}% на 6 сек. после того как вы расходуете труп.\n\nTags: Урон, Труп.",
 			"trTR": "Bir Ceset tükettikten sonra 6 saniye boyunca x{3/6/9/12/15/18/21/24/27/30}% artırılmış hasar verirsin.\n\nTags: Hasar, Ceset.",
 			"zhCN": "消耗一具亡骸后, 你造成的伤害提高 x{3/6/9/12/15/18/21/24/27/30}%, 持续 6 秒。\n\nTags: 伤害, 亡骸.",
-			"zhTW": "消耗一具屍體後,你造成的傷害提高 x{3/6/9/12/15/18/21/24/27/30}%,持續 6 秒。\n\nTags: 傷害, 屍體."
+			"zhTW": "消耗一具屍體後,你造成的傷害提高 x{3/6/9/12/15/18/21/24/27/30}%,持續 6 秒。\n\nTags: 傷害, 屍體.",
+			"thTH": "ทำความเสียหายเพิ่มขึ้น x{3/6/9/12/15/18/21/24/27/30}% เป็นระยะเวลา 6 วินาที หลังจากที่มีการใช้ซากศพ."
 },
 		id: 44,
 		maxPoints: 3,
@@ -1942,7 +1954,8 @@ Tags: Thorns.`,
 			"ruRU": "Шипастый доспех",
 			"trTR": "Dikenli Zırh",
 			"zhCN": "尖刺护甲",
-			"zhTW": "尖刺護甲"
+			"zhTW": "尖刺護甲",
+			"thTH": "Spiked Armor"
 },
 		descriptionLocalized: {
 			"deDE": "Erhaltet {40/80/120/160/200/240/280/320/360/400} Dornen.\n\nTags: Dornen.",
@@ -1957,7 +1970,8 @@ Tags: Thorns.`,
 			"ruRU": "Вы получаете {40/80/120/160/200/240/280/320/360/400} к показателю эффекта шипов.\n\nTags: Шипы.",
 			"trTR": "{40/80/120/160/200/240/280/320/360/400} Diken kazan.\n\nTags: Dikenler.",
 			"zhCN": "获得 {40/80/120/160/200/240/280/320/360/400} 点荆棘。\n\nTags: 荆棘.",
-			"zhTW": "獲得 {40/80/120/160/200/240/280/320/360/400} 點荊棘。\n\nTags: 荊棘."
+			"zhTW": "獲得 {40/80/120/160/200/240/280/320/360/400} 點荊棘。\n\nTags: 荊棘.",
+			"thTH": "ได้รับ {40/80/120/160/200/240/280/320/360/400} Thorns."
 },
 		id: 124,
 		maxPoints: 3,
@@ -1984,7 +1998,8 @@ Tags: Macabre, Blood, Immune, Damage, Physical, Cooldown, Healing, Damage Reduct
 			"ruRU": "Кровавый туман",
 			"trTR": "Kanlı Sis",
 			"zhCN": "血雾",
-			"zhTW": "血霧"
+			"zhTW": "血霧",
+			"thTH": "Blood Mist"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: {24/23.1/22.2/21.48/20.76/20.22/19.68/19.32/18.96/18.6/18.24/17.88/17.7/17.52/17.34/17.16/17.07/16.98/16.89/16.8} Sek.\nGlückstrefferchance: 8.733% (per use)\nLöst Euch in einen blutigen Nebel auf und werdet 3 Sek. lang immun. Eure Bewegungsgeschwindigkeit ist um 20% reduziert und Ihr fügt Gegnern in regelmäßigen Abständen 1.7% Schaden zu und heilt Euch um {0.5/0.6/0.6/0.7/0.7/0.8/0.8/0.8/0.9/1}% Eures maximalen Lebens.\n\nTags: Makaber, Blut, Immun, Schaden, Physisch, Abklingzeit, Heilung, Schadensreduktion.",
@@ -1999,7 +2014,8 @@ Tags: Macabre, Blood, Immune, Damage, Physical, Cooldown, Healing, Damage Reduct
 			"ruRU": "Время восстановления: {24/23.1/22.2/21.48/20.76/20.22/19.68/19.32/18.96/18.6/18.24/17.88/17.7/17.52/17.34/17.16/17.07/16.98/16.89/16.8} сек.\nВероятность удачного удара: 8.733% (per use)\nВы превращаетесь в кровавый туман и получаете невосприимчивость на 3 сек. Ваша скорость передвижения снижается на 20%, вы время от времени наносите противникам 1.7% ед. урона и восполняете {0.5/0.6/0.6/0.7/0.7/0.8/0.8/0.8/0.9/1}% максимального запаса здоровья.\n\nTags: Макабр, Кровь, Невосприимчивость, Урон, Физический урон, Время восстановления, Исцеление, Уменьшение урона.",
 			"trTR": "Bekleme Süresi: {24/23.1/22.2/21.48/20.76/20.22/19.68/19.32/18.96/18.6/18.24/17.88/17.7/17.52/17.34/17.16/17.07/16.98/16.89/16.8} saniye\nŞanslı Vuruş İhtimali: 8.733% (per use)\nKanlı bir siste kaybolarak 3 saniyeliğine Bağışık hâle gel. Hareket Hızın 20% düşer, belirli aralıklarla düşmanlara 1.7% hasar verirsin ve Maksimum Canının {0.5/0.6/0.6/0.7/0.7/0.8/0.8/0.8/0.9/1}% kadarına eşit İyileşirsin.\n\nTags: Korkunç, Kan, Bağışık, Hasar, Fiziksel, Bekleme Süresi, İyileşme, Hasar Azaltma.",
 			"zhCN": "冷却时间: {24/23.1/22.2/21.48/20.76/20.22/19.68/19.32/18.96/18.6/18.24/17.88/17.7/17.52/17.34/17.16/17.07/16.98/16.89/16.8} 秒\n幸运一击几率: 8.733% (per use)\n化作一片血雾, 在 3 秒内获得免疫。你的移动速度降低 20%, 并且周期性对敌人造成 1.7% 点伤害, 恢复你 {0.5/0.6/0.6/0.7/0.7/0.8/0.8/0.8/0.9/1}% 生命上限。\n\nTags: 骇术, 鲜血, 免疫, 伤害, 物理, 冷却时间, 治疗, 伤害减免.",
-			"zhTW": "冷卻時間:{24/23.1/22.2/21.48/20.76/20.22/19.68/19.32/18.96/18.6/18.24/17.88/17.7/17.52/17.34/17.16/17.07/16.98/16.89/16.8} 秒\n幸運觸發機率:8.733% (per use)\n化身為血霧,獲得免疫狀態,持續 3 秒。你的移動速度降低 20%,定期對敵人造成 1.7% 點傷害,並恢復生命值上限的 {0.5/0.6/0.6/0.7/0.7/0.8/0.8/0.8/0.9/1}%。\n\nTags: 亡駭, 鮮血, 免疫, 傷害, 物理, 冷卻時間, 治療, 傷害減免."
+			"zhTW": "冷卻時間:{24/23.1/22.2/21.48/20.76/20.22/19.68/19.32/18.96/18.6/18.24/17.88/17.7/17.52/17.34/17.16/17.07/16.98/16.89/16.8} 秒\n幸運觸發機率:8.733% (per use)\n化身為血霧,獲得免疫狀態,持續 3 秒。你的移動速度降低 20%,定期對敵人造成 1.7% 點傷害,並恢復生命值上限的 {0.5/0.6/0.6/0.7/0.7/0.8/0.8/0.8/0.9/1}%。\n\nTags: 亡駭, 鮮血, 免疫, 傷害, 物理, 冷卻時間, 治療, 傷害減免.",
+			"thTH": "Cooldown: {24/23.1/22.2/21.48/20.76/20.22/19.68/19.32/18.96/18.6/18.24/17.88/17.7/17.52/17.34/17.16/17.07/16.98/16.89/16.8} วินาที\nLucky Hit Chance: 8.733% (per use)\nไม่รับความเสียหายใดๆ 3 วินาที. ลดความเร็วในการเคลื่อนที่ 20% และทำความเสียหายรอบตัว 1.7% และฟื้นฟูพลังชีวิต {0.5/0.6/0.6/0.7/0.7/0.8/0.8/0.8/0.9/1}% ของพลังชีวิตสูงสุด.\n\nTags: Macabre, Blood, Immune, Damage, Physical, Cooldown, Healing, Damage Reduction."
 },
 		id: 46,
 		maxPoints: 5,
@@ -2023,7 +2039,8 @@ Tags: Macabre, Blood, Immune, Damage, Physical, Cooldown, Healing, Damage Reduct
 			"ruRU": "Усиленный кровавый туман",
 			"trTR": "Geliştirilmiş Kanlı Sis",
 			"zhCN": "强化血雾",
-			"zhTW": "強化血霧"
+			"zhTW": "強化血霧",
+			"thTH": "Enhanced Blood Mist"
 },
 		descriptionLocalized: {
 			"deDE": "Das Wirken einer Fertigkeit, die überwältigt, reduziert die Abklingzeit von Blutnebel um 2 Sek.",
@@ -2038,7 +2055,8 @@ Tags: Macabre, Blood, Immune, Damage, Physical, Cooldown, Healing, Damage Reduct
 			"ruRU": "Умения, подавляющие противников, сокращают время восстановления \"Кровавого тумана\" на 2 сек.",
 			"trTR": "Aşırı Güçlendiren bir Yetenek kullanmak, Kanlı Sisin Bekleme Süresini 2 saniye azaltır.",
 			"zhCN": "施放一个压制技能可以使血雾的冷却时间缩短 2 秒。",
-			"zhTW": "施放有壓制效果的技能會使血霧的冷卻時間降低 2 秒。"
+			"zhTW": "施放有壓制效果的技能會使血霧的冷卻時間降低 2 秒。",
+			"thTH": "เมื่อใช้สกิลใดๆ Overpowers จะลด Cooldown สกิล Blood Mist 2 วินาที."
 },
 		id: 47,
 		maxPoints: 1,
@@ -2062,7 +2080,8 @@ Tags: Macabre, Blood, Immune, Damage, Physical, Cooldown, Healing, Damage Reduct
 			"ruRU": "Зловещий кровавый туман",
 			"trTR": "Korku Salan Kanlı Sis",
 			"zhCN": "惊骇血雾",
-			"zhTW": "陰森血霧"
+			"zhTW": "陰森血霧",
+			"thTH": "Ghastly Blood Mist"
 },
 		descriptionLocalized: {
 			"deDE": "Blutnebel hinterlässt alle 0.95 Sek. eine Leiche.",
@@ -2077,7 +2096,8 @@ Tags: Macabre, Blood, Immune, Damage, Physical, Cooldown, Healing, Damage Reduct
 			"ruRU": "\"Кровавый туман\" раз в 0.95 сек. создает труп.",
 			"trTR": "Kanlı Sis her 0.95 saniyede bir kez ardında bir Ceset bırakır.",
 			"zhCN": "血雾每 0.95 秒留下一具亡骸。",
-			"zhTW": "血霧每 0.95 秒留下一具屍體。"
+			"zhTW": "血霧每 0.95 秒留下一具屍體。",
+			"thTH": "Blood Mist จะสร้างซากศพทุก 0.95 วินาที."
 },
 		id: 48,
 		maxPoints: 1,
@@ -2101,7 +2121,8 @@ Tags: Macabre, Blood, Immune, Damage, Physical, Cooldown, Healing, Damage Reduct
 			"ruRU": "Кошмарный кровавый туман",
 			"trTR": "Berbat Kanlı Sis",
 			"zhCN": "可怖血雾",
-			"zhTW": "怖懼血霧"
+			"zhTW": "怖懼血霧",
+			"thTH": "Dreadful Blood Mist"
 },
 		descriptionLocalized: {
 			"deDE": "Blutnebel verleiht Euch mit jedem getroffenen Gegner Stählung in Höhe von 0.5% Eures Basislebens.",
@@ -2116,7 +2137,8 @@ Tags: Macabre, Blood, Immune, Damage, Physical, Cooldown, Healing, Damage Reduct
 			"ruRU": "Каждый раз, когда \"Кровавый туман\" наносит урон, вы получаете укрепление в объеме 0.5% базового запаса здоровья.",
 			"trTR": "Kanlı Sis bir düşmana isabet ettiğinde seni 0.5% Temel Can oranında Güçlendirir.",
 			"zhCN": "血雾强固你 0.5% 基础生命。",
-			"zhTW": "血霧每次擊中敵人,會賦予你等同 0.5% 基礎生命值的強韌。"
+			"zhTW": "血霧每次擊中敵人,會賦予你等同 0.5% 基礎生命值的強韌。",
+			"thTH": "Blood Mist จะสร้าง Fortifies 0.5% ของพลังชีวิตพื้นฐาน ทุกครั้งที่ทำความเสียหายแก่ศัตรู."
 },
 		id: 49,
 		maxPoints: 1,
@@ -2142,7 +2164,8 @@ Tags: Macabre, Bone, Cooldown.`,
 			"ruRU": "Костяная тюрьма",
 			"trTR": "Kemik Hapishane",
 			"zhCN": "骨牢",
-			"zhTW": "骨牢"
+			"zhTW": "骨牢",
+			"thTH": "Bone Prison"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: {20/19/18/17.2/16.4/15.8/15.2/14.8/14.4/14/13.6/13.2/13/12.8/12.6/12.4/12.3/12.2/12.1/12} Sek.\nLasst ein Knochengefängnis mit {#} Leben aus dem Boden steigen, das den Zielbereich 6 Sek. lang umgibt.\n\nTags: Makaber, Knochen, Abklingzeit.",
@@ -2157,7 +2180,8 @@ Tags: Macabre, Bone, Cooldown.`,
 			"ruRU": "Время восстановления: {20/19/18/17.2/16.4/15.8/15.2/14.8/14.4/14/13.6/13.2/13/12.8/12.6/12.4/12.3/12.2/12.1/12} сек.\nПоднимает из-под земли костяную тюрьму с {#} ед. прочности, которая огораживает указанную область в течение 6 сек.\n\nTags: Макабр, Кости, Время восстановления.",
 			"trTR": "Bekleme Süresi: {20/19/18/17.2/16.4/15.8/15.2/14.8/14.4/14/13.6/13.2/13/12.8/12.6/12.4/12.3/12.2/12.1/12} saniye\nTopraktan hedef bölgeyi {#} Cana sahip bir kemikten hapishane çıkar.\n\nTags: Korkunç, Kemik, Bekleme Süresi.",
 			"zhCN": "冷却时间: {20/19/18/17.2/16.4/15.8/15.2/14.8/14.4/14/13.6/13.2/13/12.8/12.6/12.4/12.3/12.2/12.1/12} 秒\n从地面召唤一道具有 {#} 点生命的骨牢包围目标区域, 持续 6 秒。\n\nTags: 骇术, 白骨, 冷却时间.",
-			"zhTW": "冷卻時間:{20/19/18/17.2/16.4/15.8/15.2/14.8/14.4/14/13.6/13.2/13/12.8/12.6/12.4/12.3/12.2/12.1/12} 秒\n呼喚破土而出的骸骨牢籠,其擁有 {#} 點生命值,會包圍指定地點 6 秒。\n\nTags: 亡駭, 骸骨, 冷卻時間."
+			"zhTW": "冷卻時間:{20/19/18/17.2/16.4/15.8/15.2/14.8/14.4/14/13.6/13.2/13/12.8/12.6/12.4/12.3/12.2/12.1/12} 秒\n呼喚破土而出的骸骨牢籠,其擁有 {#} 點生命值,會包圍指定地點 6 秒。\n\nTags: 亡駭, 骸骨, 冷卻時間.",
+			"thTH": "Cooldown: {20/19/18/17.2/16.4/15.8/15.2/14.8/14.4/14/13.6/13.2/13/12.8/12.6/12.4/12.3/12.2/12.1/12} วินาที\nสร้างกรงขังศัตรูเป็นระยะเวลา 6 วินาที\n\nTags: Macabre, Bone, Cooldown."
 },
 		id: 50,
 		maxPoints: 5,
@@ -2182,7 +2206,8 @@ Tags: Macabre, Bone, Cooldown.`,
 			"ruRU": "Усиленная костяная тюрьма",
 			"trTR": "Geliştirilmiş Kemik Hapishane",
 			"zhCN": "强化骨牢",
-			"zhTW": "強化骨牢"
+			"zhTW": "強化骨牢",
+			"thTH": "Enhanced Bone Prison"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn ein Gegner im Knochengefängnis eingeschlossen ist, erhaltet Ihr 15 Essenz, sowie zusätzliche 5 für jeden eingeschlossenen Gegner.",
@@ -2197,7 +2222,8 @@ Tags: Macabre, Bone, Cooldown.`,
 			"ruRU": "Заточая противника в костяную тюрьму, вы накапливаете 15 ед. эссенции. За каждого заточенного противника дополнительно накапливается еще 5 ед. эссенции.",
 			"trTR": "Bir düşman Kemik Hapishane tarafından tuzağa düşürülürse 15 Öz kazan. Tuzağa düşürülen düşman başına ilave 5 Öz kazan.",
 			"zhCN": "如果骨牢困住一名敌人, 则获得 15 点精魂, 每困住一名敌人额外获得 5 点精魂。",
-			"zhTW": "若敵人困在骨牢中,獲得 15 點魂能。每多困住一個敵人額外增加 5 點魂能。"
+			"zhTW": "若敵人困在骨牢中,獲得 15 點魂能。每多困住一個敵人額外增加 5 點魂能。",
+			"thTH": "หากมีศัตรูถูกขังในกรง, จะได้รับ 15 Essence, และเพิ่มอีก 5 ต่อจำนวนศัตรูที่ถูกขัง"
 },
 		id: 51,
 		maxPoints: 1,
@@ -2221,7 +2247,8 @@ Tags: Macabre, Bone, Cooldown.`,
 			"ruRU": "Зловещая костяная тюрьма",
 			"trTR": "Korku Salan Kemik Hapishane",
 			"zhCN": "惊骇骨牢",
-			"zhTW": "陰森骨牢"
+			"zhTW": "陰森骨牢",
+			"thTH": "Ghastly Bone Prison"
 },
 		descriptionLocalized: {
 			"deDE": "Gegner im Knochengefängnis sind verwundbar.",
@@ -2236,7 +2263,8 @@ Tags: Macabre, Bone, Cooldown.`,
 			"ruRU": "Противники в костяной тюрьме становятся уязвимыми.",
 			"trTR": "Kemik Hapishane içerisindeki düşmanlar Savunmasızdır.",
 			"zhCN": "骨牢中的敌人会陷入易伤状态。",
-			"zhTW": "骨牢中的敵人獲得易傷。"
+			"zhTW": "骨牢中的敵人獲得易傷。",
+			"thTH": "ศัตรูที่ถูก Bone Prison ขังจะอยู่ในสถานะ Vulnerable"
 },
 		id: 52,
 		maxPoints: 1,
@@ -2260,7 +2288,8 @@ Tags: Macabre, Bone, Cooldown.`,
 			"ruRU": "Кошмарная костяная тюрьма",
 			"trTR": "Berbat Kemik Hapishane",
 			"zhCN": "可怖骨牢",
-			"zhTW": "怖懼骨牢"
+			"zhTW": "怖懼骨牢",
+			"thTH": "Dreadful Bone Prison"
 },
 		descriptionLocalized: {
 			"deDE": "Erhaltet Stählung in Höhe von 5% Basisleben für jeden Gegner, der im Knochengefängnis eingeschlossen ist.",
@@ -2275,7 +2304,8 @@ Tags: Macabre, Bone, Cooldown.`,
 			"ruRU": "Вы получаете укрепление в объеме 5% базового запаса здоровья за каждого противника, заточенного в костяной тюрьме.",
 			"trTR": "Kemik Hapishane ile tuzağa düşürülmüş düşman başına 5% Temel Can oranında Güçlendirme kazan.",
 			"zhCN": "骨牢每困住一名敌人, 强固你 5% 基础生命。",
-			"zhTW": "每個被骨牢困住的敵人,會賦予你等同 5% 基礎生命值的強韌。"
+			"zhTW": "每個被骨牢困住的敵人,會賦予你等同 5% 基礎生命值的強韌。",
+			"thTH": "ได้รับ Fortify 5% ของพลังชีวิตพื้นฐาน ตามจำนวนศัตรูที่ถูก Bone Prison ขัง"
 },
 		id: 53,
 		maxPoints: 1,
@@ -2300,7 +2330,8 @@ Tags: Minion, Damage, Life.`,
 			"ruRU": "Мастер скелетов-воинов",
 			"trTR": "İskelet Savaşçısı Ustalığı",
 			"zhCN": "骷髅战士精通",
-			"zhTW": "骷髏戰士精通"
+			"zhTW": "骷髏戰士精通",
+			"thTH": "Skeletal Warrior Mastery"
 },
 		descriptionLocalized: {
 			"deDE": "Erhöht Schaden und Leben Eurer Skelettkrieger um x{15/30/45/60/75/90/105/120/135/150}%.\n\nTags: Diener, Schaden, Leben.",
@@ -2315,7 +2346,8 @@ Tags: Minion, Damage, Life.`,
 			"ruRU": "Наносимый урон и запас здоровья скелетов-воинов увеличиваются на x{15/30/45/60/75/90/105/120/135/150}%.\n\nTags: Прислужник, Урон, Здоровье.",
 			"trTR": "İskelet Savaşçılarının hasarını ve Canını x{15/30/45/60/75/90/105/120/135/150}% artır.\n\nTags: Yardakçı, Hasar, Can.",
 			"zhCN": "你的骷髅战士的伤害和生命提高 x{15/30/45/60/75/90/105/120/135/150}%。\n\nTags: 爪牙, 伤害, 生命.",
-			"zhTW": "使骷髏戰士的傷害和生命值提高 x{15/30/45/60/75/90/105/120/135/150}%。\n\nTags: 僕從, 傷害, 生命值."
+			"zhTW": "使骷髏戰士的傷害和生命值提高 x{15/30/45/60/75/90/105/120/135/150}%。\n\nTags: 僕從, 傷害, 生命值.",
+			"thTH": "เพิ่มพลังโจมตี และพลังชีวิตของ Skeletal Warriors x{15/30/45/60/75/90/105/120/135/150}%.\n\nTags: Minion, Damage, Life."
 },
 		id: 54,
 		maxPoints: 3,
@@ -2344,7 +2376,8 @@ Tags: Curse, Corruption, Essence, Damage.`,
 			"ruRU": "Железная дева",
 			"trTR": "Çivili Tabut",
 			"zhCN": "铁处女",
-			"zhTW": "攻擊反噬"
+			"zhTW": "攻擊反噬",
+			"thTH": "Iron Maiden"
 },
 		descriptionLocalized: {
 			"deDE": "Essenzkosten: 10\nVerflucht den Zielbereich. Von Eiserne Jungfrau betroffene Gegner erleiden jedes Mal {10/11/12/13/14/15/16/17/18/19}% Schaden, wenn sie direkten Schaden verursachen. Hält bis zu 10 Sek. an.\n\nTags: Fluch, Verderbnis, Essenz, Schaden.",
@@ -2359,7 +2392,8 @@ Tags: Curse, Corruption, Essence, Damage.`,
 			"ruRU": "Затраты эссенции: 10 ед.\nВы проклинаете указанную область. Противники под действием \"Железной девы\" получают {10/11/12/13/14/15/16/17/18/19}% ед. урона каждый раз, когда наносят прямой урон. Время действия – 10 сек.\n\nTags: Проклятие, Осквернение, Эссенция, Урон.",
 			"trTR": "Öz Bedeli: 10\nHedef bölgeyi lanetle. Çivili Tabut etkisindeki düşmanlar her doğrudan hasar verdiklerinde {10/11/12/13/14/15/16/17/18/19}% hasar alırlar. 10 saniye sürer.\n\nTags: Lanet, Yozlaşma, Öz, Hasar.",
 			"zhCN": "精魂消耗: 10\n诅咒目标区域。受到铁处女影响的敌人每次造成直接伤害都会受到 {10/11/12/13/14/15/16/17/18/19}% 点伤害, 持续 10 秒。\n\nTags: 诅咒, 腐蚀, 精魂, 伤害.",
-			"zhTW": "魂能消耗:10\n詛咒目標區域。每次受攻擊反噬影響的敵人造成直接傷害時,敵人會受到 {10/11/12/13/14/15/16/17/18/19}% 點傷害,持續 10 秒。\n\nTags: 詛咒, 腐化, 魂能, 傷害."
+			"zhTW": "魂能消耗:10\n詛咒目標區域。每次受攻擊反噬影響的敵人造成直接傷害時,敵人會受到 {10/11/12/13/14/15/16/17/18/19}% 點傷害,持續 10 秒。\n\nTags: 詛咒, 腐化, 魂能, 傷害.",
+			"thTH": "ใช้ Essence: 10\nสาปศัตรูในพื้นที่. ศัตรูที่ถูก Iron Maiden สาปจะได้รับความเสียหาย {10/11/12/13/14/15/16/17/18/19}% ทุกครั้งที่ได้รับความเสียหายโดยตรง เป็นระยะเวลา 10 วินาที."
 },
 		id: 55,
 		maxPoints: 5,
@@ -2383,7 +2417,8 @@ Tags: Curse, Corruption, Essence, Damage.`,
 			"ruRU": "Усиленная железная дева",
 			"trTR": "Geliştirilmiş Çivili Tabut",
 			"zhCN": "强化铁处女",
-			"zhTW": "強化攻擊反噬"
+			"zhTW": "強化攻擊反噬",
+			"thTH": "Enhanced Iron Maiden"
 },
 		descriptionLocalized: {
 			"deDE": "Eiserne Jungfrau kostet keine Essenz mehr. Stattdessen erhaltet Ihr 5 Essenz für jeden verfluchten Gegner. Wirkt nicht bei Gegnern, die bereits von Eiserne Jungfrau verflucht sind.",
@@ -2398,7 +2433,8 @@ Tags: Curse, Corruption, Essence, Damage.`,
 			"ruRU": "\"Железная дева\" больше не расходует эссенцию. Вместо этого вы накапливаете 5 ед. эссенции за каждого проклятого противника. Эффект не срабатывает, если противник уже проклят \"Железной девой\".",
 			"trTR": "Çivili Tabut artık Öz harcamaz. Bunun yerine Lanetlenen düşman başına 5 Öz kazan. Zaten Çivili Tabut ile Lanetlenmiş düşmanlarda işe yaramaz.",
 			"zhCN": "铁处女不再消耗精魂, 而是每诅咒一名敌人, 获得 5 点精魂。该效果对已经被铁处女诅咒的敌人无效。",
-			"zhTW": "攻擊反噬不再消耗魂能,而是每詛咒一個敵人就獲得 5 點魂能。已受到攻擊反噬詛咒的敵人不適用。"
+			"zhTW": "攻擊反噬不再消耗魂能,而是每詛咒一個敵人就獲得 5 點魂能。已受到攻擊反噬詛咒的敵人不適用。",
+			"thTH": "Iron Maiden จะไม่ใช้ Essence. ได้รับ 5 Essence ตามจำนวนศัตรูที่ถูกสาป. ไม่มีผลกับศัตรูที่ถูกสาปด้วย Iron Maiden อยู่แล้ว."
 },
 		id: 56,
 		maxPoints: 1,
@@ -2422,7 +2458,8 @@ Tags: Curse, Corruption, Essence, Damage.`,
 			"ruRU": "Ужасная железная дева",
 			"trTR": "Ürkünç Çivili Tabut",
 			"zhCN": "悚然铁处女",
-			"zhTW": "怨惡攻擊反噬"
+			"zhTW": "怨惡攻擊反噬",
+			"thTH": "Horrid Iron Maiden"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn mindestens 3 Gegner von Eiserne Jungfrau betroffen sind, erhöht sich der Schaden um x15%.",
@@ -2437,7 +2474,8 @@ Tags: Curse, Corruption, Essence, Damage.`,
 			"ruRU": "Если \"Железная дева\" действует хотя бы на 3 противников, урон от проклятия увеличивается на x15%.",
 			"trTR": "En az 3 düşman Çivili Tabut etkisindeyken hasarı x15% artar.",
 			"zhCN": "铁处女至少影响 3 名敌人时, 伤害提高 x15%。",
-			"zhTW": "當至少 3 個敵人受攻擊反噬影響時,傷害提高 x15%。"
+			"zhTW": "當至少 3 個敵人受攻擊反噬影響時,傷害提高 x15%。",
+			"thTH": "เมื่อมีศัตรูอย่างน้อย 3 ตัวที่ถูกสาปด้วย Iron Maiden, จะเพิ่มความเสียหายที่คำสาปทำได้ x15%."
 },
 		id: 57,
 		maxPoints: 1,
@@ -2461,7 +2499,8 @@ Tags: Curse, Corruption, Essence, Damage.`,
 			"ruRU": "Омерзительная железная дева",
 			"trTR": "Tiksindirici Çivili Tabut",
 			"zhCN": "可憎铁处女",
-			"zhTW": "厭憎攻擊反噬"
+			"zhTW": "厭憎攻擊反噬",
+			"thTH": "Abhorrent Iron Maiden"
 },
 		descriptionLocalized: {
 			"deDE": "Jedes Mal, wenn ein von Eiserne Jungfrau betroffener Gegner stirbt, werdet Ihr um 5% Eures maximalen Lebens geheilt.",
@@ -2476,7 +2515,8 @@ Tags: Curse, Corruption, Essence, Damage.`,
 			"ruRU": "Когда противник под действием \"Железной девы\" погибает, вы восполняете 5% максимального запаса здоровья.",
 			"trTR": "Bir düşman Çivili Tabut etkisindeyken öldüğünde Maksimum Canının 5% kadarına eşit İyileş.",
 			"zhCN": "受到铁处女影响的一名敌人死亡时, 会使你恢复 5% 生命上限。",
-			"zhTW": "敵人受攻擊反噬影響並死亡時,你會恢復生命值上限的 5%。"
+			"zhTW": "敵人受攻擊反噬影響並死亡時,你會恢復生命值上限的 5%。",
+			"thTH": "ฟื้นฟูพลังชีวิต 5% ของพลังชีวิตสูงสุด เมื่อศัตรูตายในขณะที่ถูกสาปโดย Iron Maiden."
 },
 		id: 58,
 		maxPoints: 1,
@@ -2501,7 +2541,8 @@ Tags: Damage, Life, Minion.`,
 			"ruRU": "Мастер скелетов-магов",
 			"trTR": "İskelet Sihirbazı Ustalığı",
 			"zhCN": "骷髅法师精通",
-			"zhTW": "骷髏法師精通"
+			"zhTW": "骷髏法師精通",
+			"thTH": "Skeletal Mage Mastery"
 },
 		descriptionLocalized: {
 			"deDE": "Erhöht Schaden und Leben Eurer Skelettmagier um x{20/40/60/80/100/120/140/160/180/200}%.\n\nTags: Schaden, Leben, Diener.",
@@ -2516,7 +2557,8 @@ Tags: Damage, Life, Minion.`,
 			"ruRU": "Наносимый урон и запас здоровья скелетов-магов увеличиваются на x{20/40/60/80/100/120/140/160/180/200}%.\n\nTags: Урон, Здоровье, Прислужник.",
 			"trTR": "İskelet Sihirbazlarının hasarını ve Canını x{20/40/60/80/100/120/140/160/180/200}% artır.\n\nTags: Hasar, Can, Yardakçı.",
 			"zhCN": "你的骷髅法师的伤害和生命提高 x{20/40/60/80/100/120/140/160/180/200}%。\n\nTags: 伤害, 生命, 爪牙.",
-			"zhTW": "使骷髏法師的傷害和生命值提高 x{20/40/60/80/100/120/140/160/180/200}%。\n\nTags: 傷害, 生命值, 僕從."
+			"zhTW": "使骷髏法師的傷害和生命值提高 x{20/40/60/80/100/120/140/160/180/200}%。\n\nTags: 傷害, 生命值, 僕從.",
+			"thTH": "เพิ่มพลังโจมตี และพลังชีวิตของ Skeletal Mages x{20/40/60/80/100/120/140/160/180/200}%.\n\nTags: Damage, Life, Minion"
 },
 		id: 59,
 		maxPoints: 3,
@@ -2541,7 +2583,8 @@ Tags: Damage, Curse.`,
 			"ruRU": "Усиление урона",
 			"trTR": "Hasarı Yükselt",
 			"zhCN": "伤害增效",
-			"zhTW": "傷害加深"
+			"zhTW": "傷害加深",
+			"thTH": "Amplify Damage"
 },
 		descriptionLocalized: {
 			"deDE": "Ihr fügt verfluchten Gegnern x{3/6/9/12/15/18/21/24/27/30}% mehr Schaden zu.\n\nTags: Schaden, Fluch.",
@@ -2556,7 +2599,8 @@ Tags: Damage, Curse.`,
 			"ruRU": "Вы наносите на x{3/6/9/12/15/18/21/24/27/30}% больше урона проклятым противникам.\n\nTags: Урон, Проклятие.",
 			"trTR": "Lanetlenmiş düşmanlara x{3/6/9/12/15/18/21/24/27/30}% artırılmış hasar verirsin.\n\nTags: Hasar, Lanet.",
 			"zhCN": "你对被诅咒的敌人造成的伤害提高 x{3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 伤害, 诅咒.",
-			"zhTW": "你對遭詛咒的敵人造成的傷害提高 x{3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 傷害, 詛咒."
+			"zhTW": "你對遭詛咒的敵人造成的傷害提高 x{3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 傷害, 詛咒.",
+			"thTH": "ทำความเสียหายเพิ่มขึ้น x{3/6/9/12/15/18/21/24/27/30}% แก่ศัตรูที่ถูกสาป.\n\nTags: Damage, Curse"
 },
 		id: 60,
 		maxPoints: 3,
@@ -2582,7 +2626,8 @@ Tags: Curse, Corruption, Crowd Control, Essence, Damage Reduction.`,
 			"ruRU": "Немощь",
 			"trTR": "Yıprat",
 			"zhCN": "衰老",
-			"zhTW": "衰老"
+			"zhTW": "衰老",
+			"thTH": "Decrepify"
 },
 		descriptionLocalized: {
 			"deDE": "Essenzkosten: 10\nVerflucht den Zielbereich. Von Altern betroffene Gegner werden 10 Sek. lang um {40/43/45.8/48.5/51.1/53.5/55.8/58/60.1/62.1}% verlangsamt und verursachen {20/20.9/22/22.9/23.8/24.6/25.4/26/26.6/27.3/28/28.7/29.1/29.4/29.8/30.2/30.4/30.6/30.8/31.1}% weniger Schaden.\n\nTags: Fluch, Verderbnis, Kontrollverlust, Essenz, Schadensreduktion.",
@@ -2597,7 +2642,8 @@ Tags: Curse, Corruption, Crowd Control, Essence, Damage Reduction.`,
 			"ruRU": "Затраты эссенции: 10\nВы проклинаете указанную область. Противники под действием \"Немощи\" замедляются на {40/43/45.8/48.5/51.1/53.5/55.8/58/60.1/62.1}% и наносят на {20/20.9/22/22.9/23.8/24.6/25.4/26/26.6/27.3/28/28.7/29.1/29.4/29.8/30.2/30.4/30.6/30.8/31.1}% меньше урона в течение 10 сек.\n\nTags: Проклятие, Осквернение, Контроль, Эссенция, Уменьшение урона.",
 			"trTR": "Öz Bedeli: 10\nHedef bölgeyi lanetle. Yıprat etkisindeki düşmanlar 10 saniyeliğine {40/43/45.8/48.5/51.1/53.5/55.8/58/60.1/62.1}% Yavaşlatılır ve {20/20.9/22/22.9/23.8/24.6/25.4/26/26.6/27.3/28/28.7/29.1/29.4/29.8/30.2/30.4/30.6/30.8/31.1}% daha az hasar verirler.\n\nTags: Lanet, Yozlaşma, Kitle Kontrolü, Öz, Hasar Azaltma.",
 			"zhCN": "精魂消耗: 10\n诅咒目标区域。受到衰老影响的敌人会被减速 {40/43/45.8/48.5/51.1/53.5/55.8/58/60.1/62.1}%, 并且造成的伤害降低 {20/20.9/22/22.9/23.8/24.6/25.4/26/26.6/27.3/28/28.7/29.1/29.4/29.8/30.2/30.4/30.6/30.8/31.1}%, 持续 10 秒。\n\nTags: 诅咒, 腐蚀, 群控, 精魂, 伤害减免.",
-			"zhTW": "魂能消耗:10\n詛咒目標區域。被衰老影響的敵人緩速 {40/43/45.8/48.5/51.1/53.5/55.8/58/60.1/62.1}%,且造成的傷害降低 {20/20.9/22/22.9/23.8/24.6/25.4/26/26.6/27.3/28/28.7/29.1/29.4/29.8/30.2/30.4/30.6/30.8/31.1}%,持續 10 秒。\n\nTags: 詛咒, 腐化, 控場, 魂能, 傷害減免."
+			"zhTW": "魂能消耗:10\n詛咒目標區域。被衰老影響的敵人緩速 {40/43/45.8/48.5/51.1/53.5/55.8/58/60.1/62.1}%,且造成的傷害降低 {20/20.9/22/22.9/23.8/24.6/25.4/26/26.6/27.3/28/28.7/29.1/29.4/29.8/30.2/30.4/30.6/30.8/31.1}%,持續 10 秒。\n\nTags: 詛咒, 腐化, 控場, 魂能, 傷害減免.",
+			"thTH": "สาปศัตรูภายในพื้นที่. ศัตรูที่ถูกสาปโดย Decrepify จะอยู่ในสถานะ Slowed {40/43/45.8/48.5/51.1/53.5/55.8/58/60.1/62.1}% และทำความเสียหายน้อยลง {20/20.9/22/22.9/23.8/24.6/25.4/26/26.6/27.3/28/28.7/29.1/29.4/29.8/30.2/30.4/30.6/30.8/31.1}% เป็นระยะเวลา 10 วินาที."
 },
 		id: 61,
 		maxPoints: 5,
@@ -2621,7 +2667,8 @@ Tags: Curse, Corruption, Crowd Control, Essence, Damage Reduction.`,
 			"ruRU": "Усиленная немощь",
 			"trTR": "Geliştirilmiş Yıprat",
 			"zhCN": "强化衰老",
-			"zhTW": "強化衰老"
+			"zhTW": "強化衰老",
+			"thTH": "Enhanced Decrepify"
 },
 		descriptionLocalized: {
 			"deDE": "Glückstreffer: Treffer bei von Altern betroffenen Gegner haben eine Chance von bis zu 10%, sie 2 Sek. lang zu betäuben.",
@@ -2636,7 +2683,8 @@ Tags: Curse, Corruption, Crowd Control, Essence, Damage Reduction.`,
 			"ruRU": "Удачный удар: пораженные противники, на которых действует эффект \"Немощь\", с вероятностью до 10% оглушаются на 2 сек.",
 			"trTR": "Şanslı Vuruş: Yıprat etkisindeyken vurulan düşmanlar en fazla 10% ihtimalle 2 saniyeliğine Sersemletilir.",
 			"zhCN": "幸运一击: 攻击衰老的敌人最多有 10% 几率使其昏迷 2 秒。",
-			"zhTW": "幸運觸發:擊中被衰老影響的敵人時,有最高 10% 機率使其昏迷 2 秒。"
+			"zhTW": "幸運觸發:擊中被衰老影響的敵人時,有最高 10% 機率使其昏迷 2 秒。",
+			"thTH": "Lucky Hit: เมื่อศัตรูที่ถูกสาปโดย Decrepify ได้รับความเสียหาย มีโอกาส 10% ที่จะอยู่ในสถานะ Stunned เป็นระยะเวลา 2 วินาที."
 },
 		id: 62,
 		maxPoints: 1,
@@ -2660,7 +2708,8 @@ Tags: Curse, Corruption, Crowd Control, Essence, Damage Reduction.`,
 			"ruRU": "Омерзительная немощь",
 			"trTR": "Tiksindirici Yıprat",
 			"zhCN": "可憎衰老",
-			"zhTW": "厭憎衰老"
+			"zhTW": "厭憎衰老",
+			"thTH": "Abhorrent Decrepify"
 },
 		descriptionLocalized: {
 			"deDE": "Glückstreffer: Treffer gegen von Altern betroffene Gegner haben eine Chance von bis zu 15%, Eure aktiven Abklingzeiten um 1 Sek. zu reduzieren.",
@@ -2675,7 +2724,8 @@ Tags: Curse, Corruption, Crowd Control, Essence, Damage Reduction.`,
 			"ruRU": "Удачный удар: когда вы поражаете противников, на которых действует \"Немощь\", время восстановления ваших умений с вероятностью до 15% сокращается на 1 сек.",
 			"trTR": "Şanslı Vuruş: Yıprat etkisindeyken vurulan düşmanlar 15% ihtimalle senin aktif Bekleme Sürelerini 1 saniye azaltır.",
 			"zhCN": "幸运一击: 攻击受到衰老影响的敌人最多有 15% 几率使你的剩余冷却时间缩短 1 秒。",
-			"zhTW": "幸運觸發:擊中被衰老影響的敵人時,有最高 15% 機率使你現有冷卻時間縮短 1 秒。"
+			"zhTW": "幸運觸發:擊中被衰老影響的敵人時,有最高 15% 機率使你現有冷卻時間縮短 1 秒。",
+			"thTH": "Lucky Hit: เมื่อศัตรูที่ถูกสาปโดย Decrepify ได้รับความเสียหาย มีโอกาส 15% ที่จะลด Cooldowns ทั้งหมด 1 วินาที."
 },
 		id: 63,
 		maxPoints: 1,
@@ -2699,7 +2749,8 @@ Tags: Curse, Corruption, Crowd Control, Essence, Damage Reduction.`,
 			"ruRU": "Ужасная немощь",
 			"trTR": "Ürkünç Yıprat",
 			"zhCN": "悚然衰老",
-			"zhTW": "怨惡衰老"
+			"zhTW": "怨惡衰老",
+			"thTH": "Horrid Decrepify"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr oder Eure Diener einen von Altern betroffenen Gegner trefft, der weniger als 10% Leben hat, stirbt dieser sofort. Gilt nicht für Bosse.",
@@ -2714,7 +2765,8 @@ Tags: Curse, Corruption, Crowd Control, Essence, Damage Reduction.`,
 			"ruRU": "Когда вы или ваши прислужники поражаете противника, на которого действует эффект \"Немощь\", с уровнем здоровья ниже 10%, вы мгновенно убиваете его. Не действует на боссов.",
 			"trTR": "Sen veya Yardakçıların Yıprat etkisindeki 10% Can altında olan bir düşmana vurduğunuzda düşman anında ölür. Patronlarda işe yaramaz.",
 			"zhCN": "你和你的仆从攻击生命低于 10% 且受到衰老影响的敌人时, 会立即消灭目标。该效果对首领无效。",
-			"zhTW": "當你或你的僕從擊中被衰老影響的敵人,且其生命值低於 10% 時,敵人會立刻死亡。此效果對首領無效。"
+			"zhTW": "當你或你的僕從擊中被衰老影響的敵人,且其生命值低於 10% 時,敵人會立刻死亡。此效果對首領無效。",
+			"thTH": "เมื่อคุณหรือสมุนทำความเสียหายศัตรูที่ถูกสาปโดย Decrepify และมีพลังชีวิตต่ำกว่า 10%, ศัตรูนั้นจะตายทันที. ไม่มีผลกับ Bosses."
 },
 		id: 64,
 		maxPoints: 1,
@@ -2739,7 +2791,8 @@ Tags: Damage, Damage Reduction.`,
 			"ruRU": "Объятия смерти",
 			"trTR": "Ölümün Kabullenişi",
 			"zhCN": "死亡之拥",
-			"zhTW": "死亡之擁"
+			"zhTW": "死亡之擁",
+			"thTH": "Death's Embrace"
 },
 		descriptionLocalized: {
 			"deDE": "Nahe Gegner erleiden durch Euch x{2/4/6/8/10/12/14/16/18/20}% mehr Schaden und fügen Euch {3/6/9/12/15/18/21/24/27/30}% weniger Schaden zu.\n\nTags: Schaden, Schadensreduktion.",
@@ -2754,7 +2807,8 @@ Tags: Damage, Damage Reduction.`,
 			"ruRU": "Вы наносите на x{2/4/6/8/10/12/14/16/18/20}% больше урона находящимся вблизи противникам и получаете от них на {3/6/9/12/15/18/21/24/27/30}% меньше урона.\n\nTags: Урон, Уменьшение урона.",
 			"trTR": "Yakın düşmanlar senden x{2/4/6/8/10/12/14/16/18/20}% daha fazla hasar alırlar ve sana {3/6/9/12/15/18/21/24/27/30}% daha az hasar verirler.\n\nTags: Hasar, Hasar Azaltma.",
 			"zhCN": "近距敌人受到来自你的伤害提高 x{2/4/6/8/10/12/14/16/18/20}%, 对你造成的伤害降低 {3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 伤害, 伤害减免.",
-			"zhTW": "你對近距離敵人造成的傷害提高 x{2/4/6/8/10/12/14/16/18/20}%,其對你造成的傷害降低 {3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 傷害, 傷害減免."
+			"zhTW": "你對近距離敵人造成的傷害提高 x{2/4/6/8/10/12/14/16/18/20}%,其對你造成的傷害降低 {3/6/9/12/15/18/21/24/27/30}%。\n\nTags: 傷害, 傷害減免.",
+			"thTH": "ศัตรูที่อยู่ใกล้ตัวจะได้รับความเสียหายจากคุณเพิ่มขึ้น x{2/4/6/8/10/12/14/16/18/20}% และทำความเสียหายแก่คุณน้อยลง {3/6/9/12/15/18/21/24/27/30}%.\n\nTags: Damage, Damage Reduction."
 },
 		id: 65,
 		maxPoints: 3,
@@ -2779,7 +2833,8 @@ Tags: Damage.`,
 			"ruRU": "Предел смерти",
 			"trTR": "Ölümün Eli",
 			"zhCN": "死亡延伸",
-			"zhTW": "死亡之距"
+			"zhTW": "死亡之距",
+			"thTH": "Death's Reach"
 },
 		descriptionLocalized: {
 			"deDE": "Ihr fügt entfernten Gegnern x{4/8/12/16/20/24/28/32/36/40}% mehr Schaden zu.\n\nTags: Schaden.",
@@ -2794,7 +2849,8 @@ Tags: Damage.`,
 			"ruRU": "Вы наносите на x{4/8/12/16/20/24/28/32/36/40}% больше урона противникам вдалеке.\n\nTags: Урон.",
 			"trTR": "Uzak düşmanlara x{4/8/12/16/20/24/28/32/36/40}% artırılmış hasar verirsin.\n\nTags: Hasar.",
 			"zhCN": "你对远距敌人造成的伤害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 伤害.",
-			"zhTW": "對遠距離敵人造成的傷害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 傷害."
+			"zhTW": "對遠距離敵人造成的傷害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 傷害.",
+			"thTH": "คุณทำความเสียหายกับศัตรูที่อยู่ไกลตัวเพิ่มขึ้น x{4/8/12/16/20/24/28/32/36/40}%.\n\nTags: Damage."
 },
 		id: 66,
 		maxPoints: 3,
