@@ -930,8 +930,7 @@ let codexData = {
 					"trTR": "\"Çoğu barbar, Dehşetdiyar'da kalsa da küçük Öküz, Turna ve Ayı Kabilesi grupları yeni bir yuva için arayışa çıkmayı tercih etti.\"\n- Bul-Kathos'un Çocuklarının Tarihi",
 					"zhCN": "\"虽然许多野蛮人留在了恐惧之地,但来自牛族、鹤族和熊族部落的小部分人反而选择在这片土地上寻找一个新的家园。\" - 布尔凯索之子的历史",
 					"zhTW": "「野蠻人多數留在恐懼之地,但有一小群公牛、靈鶴和大熊部落的同胞選擇另覓家園。」\n- 《布爾凱索之子列傳》"
-				},
-					"thTH": ""
+				}
 			},
 			"Rage of Harrogath": {
 				"id": 143,
