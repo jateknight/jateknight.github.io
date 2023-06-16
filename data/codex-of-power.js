@@ -27,7 +27,8 @@ let codexData = {
 					"ruRU": "[ms]огненной ярости[fs]огненной ярости[ns]огненной ярости[p]огненной ярости",
 					"trTR": "[n2]Yanan Öfke",
 					"zhCN": "燃烧怒火之",
-					"zhTW": "燃燒怒火之"
+					"zhTW": "燃燒怒火之",
+					"thTH": "Aspect of Burning Rage"
 				},
 				"descriptionLocalized": {
 					"deDE": "Im Berserkermodus fügt Ihr Gegnern in der Nähe pro Sekunde {#} Feuerschaden zu.",
@@ -42,7 +43,8 @@ let codexData = {
 					"ruRU": "В состоянии берсерка вы раз в секунду наносите окружающим противникам {#} ед. урона от огня.",
 					"trTR": "Çılgınlık sırasında çevredeki düşmanlara her saniye {#} Ateş hasarı verirsin.",
 					"zhCN": "在狂暴状态下, 你每秒对周围敌人造成 {#} 点火焰伤害。",
-					"zhTW": "狂暴時,會對周圍敵人每秒造成 {#} 點火焰傷害。"
+					"zhTW": "狂暴時,會對周圍敵人每秒造成 {#} 點火焰傷害。",
+					"thTH": "ในขณะที่ Berserking, ทำความเสียหาย Fire {#} ทุกวินาทีรอบตัว."
 				},
 				"dungeon": "",
 				"region": "",
@@ -67,7 +69,8 @@ let codexData = {
 					"ruRU": "[ms]сатанинский[fs]сатанинская[ns]сатанинское[p]сатанинские",
 					"trTR": "Şeytani",
 					"zhCN": "魔怒",
-					"zhTW": "狂風之沙"
+					"zhTW": "狂風之沙",
+					"thTH": "Devilish Aspect"
 				},
 				"descriptionLocalized": {
 					"deDE": "Nachdem Ihr 100.0 Wut erzeugt hab, erschafft Eure nächste Kernfertigkeit einen Staubteufel, der Gegnern hinter dem Ziel {#} Schaden zufügt.",
@@ -82,7 +85,8 @@ let codexData = {
 					"ruRU": "После накопления 100.0 ед. ярости ваше следующее основное умение создает пылевого демона, который наносит {#} ед. урона противникам позади цели.",
 					"trTR": "100.0 Hiddet oluşturduktan sonra kullandığın Çekirdek Yeteneğin, hedefin arkasındaki düşmanlara {#} hasar veren bir Kum İblisi oluşturur.",
 					"zhCN": "产生 100.0 点怒气后, 你的下一个核心技能生成一个尘魔, 对目标后方敌人造成 {#} 点伤害。",
-					"zhTW": "產生 100.0 點怒氣後,下一次核心技能會產生一陣狂風沙,對目標後方敵人造成 {#} 點傷害。"
+					"zhTW": "產生 100.0 點怒氣後,下一次核心技能會產生一陣狂風沙,對目標後方敵人造成 {#} 點傷害。",
+					"thTH": "หลังจากที่ได้รับ 100 Fury สกิล Core ครั้งถัดไปจะสร้าง Dust Devil ที่จะทำความเสียหาย {#}%"
 				},
 				"dungeon": "",
 				"region": "",
@@ -107,7 +111,8 @@ let codexData = {
 					"ruRU": "[ms]безграничной ярости[fs]безграничной ярости[ns]безграничной ярости[p]безграничной ярости",
 					"trTR": "[n2]Sınırsız Öfke",
 					"zhCN": "无尽怒火之",
-					"zhTW": "無盡怒火之"
+					"zhTW": "無盡怒火之",
+					"thTH": "Aspect of Limitless Rage"
 				},
 				"descriptionLocalized": {
 					"deDE": "Jeder Wutpunkt, den Ihr bei maximaler Wut erzeugt, verleiht Eurer nächsten Kernfertigkeit x{1/2}% mehr Schaden, bis maximal x{15/30}%.",
@@ -122,7 +127,8 @@ let codexData = {
 					"ruRU": "За каждую единицу ярости, накапливаемую при максимальном запасе ярости, урон от следующего основного умения увеличивается на x{1/2}%, вплоть до x{15/30}%.",
 					"trTR": "Maksimum Hiddet sırasında ürettiğin her Hiddet puanı, sonraki Çekirdek Yeteneğin için en fazla x{15/30}% olmak üzere x{1/2}% artırılmış hasar sağlar.",
 					"zhCN": "你在满怒时每产生一点怒气, 你的下一个核心技能造成 x{1/2}% 增伤, 最高可达 x{15/30}%。",
-					"zhTW": "怒氣全滿時,每產生一點額外怒氣,下一次核心技能傷害就會提高 x{1/2}%,最多提高 x{15/30}%。"
+					"zhTW": "怒氣全滿時,每產生一點額外怒氣,下一次核心技能傷害就會提高 x{1/2}%,最多提高 x{15/30}%。",
+					"thTH": "ทุกครั้งที่ได้รับ Fury ขณะที่ Fury เต็ม จะทำให้สกิล Core ครั้งต่อไปทำความเสียหายเพิ่มขึ้น x{1/2}%, สูงสุด x{15/30%}%."
 				},
 				"dungeon": "",
 				"region": ""
