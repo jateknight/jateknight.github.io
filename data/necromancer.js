@@ -3805,7 +3805,7 @@ Tags: Minion, Healing.`,
 			"trTR": "Özle Bağlı",
 			"zhCN": "精魂纽带",
 			"zhTW": "繫縛精華",
-			"thTH": ""
+			"thTH": "Bonded in Essence"
 },
 		descriptionLocalized: {
 			"deDE": "Alle 5 Sek. heilt die Heilung Eures Skelettpriesters Eure Skelette um zusätzlich {20/40/60/80/100/120/140/160/180/200}% ihres maximalen Lebens.\n\nTags: Diener, Heilung.",
@@ -3820,7 +3820,8 @@ Tags: Minion, Healing.`,
 			"ruRU": "Раз в 5 сек. ваши скелеты-жрецы восполняют вашим скелетам еще {20/40/60/80/100/120/140/160/180/200}% их максимального запаса здоровья.\n\nTags: Прислужник, Исцеление.",
 			"trTR": "İskelet Rahibinin İyileştirmesi, İskeletlerini 5 saniyede bir ek olarak Maksimum Canlarının {20/40/60/80/100/120/140/160/180/200}% kadarına eşit İyileştirir.\n\nTags: Yardakçı, İyileşme.",
 			"zhCN": "每隔 5 秒, 你的骷髅祭司的恢复效果会为你的骷髅额外恢复生命上限的 {20/40/60/80/100/120/140/160/180/200}%。\n\nTags: 爪牙, 治疗.",
-			"zhTW": "骷髏祭司的治療每 5 秒會為你的骷髏額外恢復其生命值上限的 {20/40/60/80/100/120/140/160/180/200}%。\n\nTags: 僕從, 治療."
+			"zhTW": "骷髏祭司的治療每 5 秒會為你的骷髏額外恢復其生命值上限的 {20/40/60/80/100/120/140/160/180/200}%。\n\nTags: 僕從, 治療.",
+			"thTH": "ทุก 5 วินาที, Skeleton Priest จะฟื้นฟูพลังชีวิต Skeleton ของคุณเพิ่มขึ้นอีก {20/40/60/80/100/120/140/160/180/200}% ของพลังชีวิตสูงสุดของ Skeleton.\n\nTags: Minion, Healing."
 },
 		id: 89,
 		maxPoints: 3,
@@ -3845,7 +3846,8 @@ Tags: Life, Damage Reduction, Minion.`,
 			"ruRU": "Защита смерти",
 			"trTR": "Ölümün Savunması",
 			"zhCN": "亡者之御",
-			"zhTW": "死亡防禦"
+			"zhTW": "死亡防禦",
+			"thTH": "Death's Defense"
 },
 		descriptionLocalized: {
 			"deDE": "Eure Diener können durch eine einzige Schadensinstanz nicht mehr als {70/50/30/10/-10/-30/-50/-70/-90/-110}% ihres maximalen Lebens verlieren.\n\nTags: Leben, Schadensreduktion, Diener.",
@@ -3860,7 +3862,8 @@ Tags: Life, Damage Reduction, Minion.`,
 			"ruRU": "Ваши прислужники не могут потерять больше {70/50/30/10/-10/-30/-50/-70/-90/-110}% максимального запаса здоровья от одного удара.\n\nTags: Здоровье, Уменьшение урона, Прислужник.",
 			"trTR": "Yardakçıların, tek bir hasar anında Maksimum Canlarının {70/50/30/10/-10/-30/-50/-70/-90/-110}% kadarından fazlasını kaybedemezler.\n\nTags: Can, Hasar Azaltma, Yardakçı.",
 			"zhCN": "你的仆从不会从单次攻命中受到超过生命上限 {70/50/30/10/-10/-30/-50/-70/-90/-110}% 的伤害。\n\nTags: 生命, 伤害减免, 爪牙.",
-			"zhTW": "你的僕從受到單次攻擊時,損失的生命值不會超過其生命值上限的 {70/50/30/10/-10/-30/-50/-70/-90/-110}%。\n\nTags: 生命值, 傷害減免, 僕從."
+			"zhTW": "你的僕從受到單次攻擊時,損失的生命值不會超過其生命值上限的 {70/50/30/10/-10/-30/-50/-70/-90/-110}%。\n\nTags: 生命值, 傷害減免, 僕從.",
+			"thTH": "สมุนของคุณจะไม่เสียพลังชีวิตเกินกว่า {70/50/30/10/-10/-30/-50/-70/-90/-110}% ของพลังชีวิตสูงสุด จากความเสียหายครั้งนึง.\n\nTags: Life, Damage Reduction, Minion."
 },
 		id: 90,
 		maxPoints: 3,
@@ -3885,7 +3888,8 @@ Tags: Healthy, Minion, Attack Speed.`,
 			"ruRU": "Пример для подражания",
 			"trTR": "Cesaretlendiren Lider",
 			"zhCN": "鼓舞领袖",
-			"zhTW": "激勵統率"
+			"zhTW": "激勵統率",
+			"thTH": "Inspiring Leader"
 },
 		descriptionLocalized: {
 			"deDE": "Nachdem Ihr mindestens 4 Sek. gesund gewesen seid, erhaltet Ihr und Eure Diener +{4/8/12/16/20/24/28/32/36/40}% Angriffsgeschwindigkeit.\n\nTags: Gesund, Diener, Angriffsgeschwindigkeit.",
@@ -3900,7 +3904,8 @@ Tags: Healthy, Minion, Attack Speed.`,
 			"ruRU": "Если вы поддерживаете высокий уровень здоровья в течение как минимум 4 сек., скорость атаки повышается на +{4/8/12/16/20/24/28/32/36/40}% для вас и ваших прислужников.\n\nTags: Высокое здоровье, Прислужник, Скорость атаки.",
 			"trTR": "En az 4 saniye boyunca Sağlıklı kaldıktan sonra sen ve Yardakçıların +{4/8/12/16/20/24/28/32/36/40}% Saldırı Hızı kazanırsınız.\n\nTags: Sağlıklı, Yardakçı, Saldırı Hızı.",
 			"zhCN": "处于健康状态至少 4 秒后, 你和你仆从的攻击速度提高 +{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 健康, 爪牙, 攻击速度.",
-			"zhTW": "在你保持健康狀態至少 4 秒後,你和僕從的攻擊速度提高 +{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 健康, 僕從, 攻擊速度."
+			"zhTW": "在你保持健康狀態至少 4 秒後,你和僕從的攻擊速度提高 +{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 健康, 僕從, 攻擊速度.",
+			"thTH": "เมื่ออยู่ในสถานะ Healthy เป็นเวลา 4 วินาที, คุณและสมุนได้รับความเร็วในการโจมตีเพิ่มขึ้น +{4/8/12/16/20/24/28/32/36/40}%.\n\nTags: Healthy, Minion, Attack Speed."
 },
 		id: 129,
 		maxPoints: 3,
@@ -3925,7 +3930,8 @@ Tags: Damage, Minion.`,
 			"ruRU": "Одержимый командир",
 			"trTR": "Azimli Komutan",
 			"zhCN": "冷面指挥官",
-			"zhTW": "堅決指揮者"
+			"zhTW": "堅決指揮者",
+			"thTH": "Hellbent Commander"
 },
 		descriptionLocalized: {
 			"deDE": "Eure Diener verursachen x{10/20/30/40/50/60/70/80/90/100}% mehr Schaden, solange Ihr in der Nähe seid.\n\nTags: Schaden, Diener.",
@@ -3940,7 +3946,8 @@ Tags: Damage, Minion.`,
 			"ruRU": "Ваши прислужники наносят на x{10/20/30/40/50/60/70/80/90/100}% больше урона, пока вы рядом с ними.\n\nTags: Урон, Прислужник.",
 			"trTR": "Yardakçıların, sen onlara Yakınken x{10/20/30/40/50/60/70/80/90/100}% artırılmış hasar verir.\n\nTags: Hasar, Yardakçı.",
 			"zhCN": "你的仆从在你身边时造成的伤害提高 x{10/20/30/40/50/60/70/80/90/100}%。\n\nTags: 伤害, 爪牙.",
-			"zhTW": "當你在僕從附近時,其造成的傷害提高 x{10/20/30/40/50/60/70/80/90/100}%。\n\nTags: 傷害, 僕從."
+			"zhTW": "當你在僕從附近時,其造成的傷害提高 x{10/20/30/40/50/60/70/80/90/100}%。\n\nTags: 傷害, 僕從.",
+			"thTH": "เมื่อคุณอยู่ใกล้กับสมุน, สมุนของคุณทำความเสียหายเพิ่มขึ้น x{10/20/30/40/50/60/70/80/90/100}%.\n\nTags: Damage, Minion."
 },
 		id: 91,
 		maxPoints: 3,
@@ -3967,7 +3974,8 @@ Tags: Ultimate, Damage, Cooldown, Physical.`,
 			"ruRU": "Армия мертвецов",
 			"trTR": "Ölüler Ordusu",
 			"zhCN": "亡者大军",
-			"zhTW": "死亡軍團"
+			"zhTW": "死亡軍團",
+			"thTH": "Army of the Dead"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 70 Sek.\nGlückstrefferchance: 63.796% (per use)\nRuft die tief vergrabenen Toten herbei. Die nächsten 7 Sek. erscheinen unberechenbare Skelette, explodieren in der Nähe von Gegnern und verursachen 45% Schaden.\n\nTags: Ultimativ, Schaden, Abklingzeit, Physisch.",
@@ -3982,7 +3990,8 @@ Tags: Ultimate, Damage, Cooldown, Physical.`,
 			"ruRU": "Время восстановления: 70 сек.\nВероятность удачного удара: 63.796% (per use)\nВы призываете мертвецов, погребенных глубоко под землей. Через 7 сек. из-под земли появляются нестабильные скелеты, которые взрываются рядом с противниками, нанося 45% ед. урона.\n\nTags: Мощное умение, Урон, Время восстановления, Физический урон.",
 			"trTR": "Bekleme Süresi: 70 saniye\nŞanslı Vuruş İhtimali: 63.796% (per use)\nDerinlere gömülmüş ölüleri çağır. Sonraki 7 saniye boyunca düşmanların etrafındayken patlayarak 45% hasar veren Patlayıcı İskeletler ortaya çıkar.\n\nTags: Ulti, Hasar, Bekleme Süresi, Fiziksel.",
 			"zhCN": "冷却时间: 70 秒\n幸运一击几率: 63.796% (per use)\n召唤深埋地下的亡灵。易爆骷髅会在接下来的 7 秒内出现并爆炸, 对附近的敌人造成 45% 点伤害。\n\nTags: 终极技能, 伤害, 冷却时间, 物理.",
-			"zhTW": "冷卻時間:70 秒\n幸運觸發機率:63.796% (per use)\n召喚深埋地底的死者。在接下來的 7 秒內出現易爆骷髏,在附近有敵人時爆炸,造成 45% 點傷害。\n\nTags: 絕招, 傷害, 冷卻時間, 物理."
+			"zhTW": "冷卻時間:70 秒\n幸運觸發機率:63.796% (per use)\n召喚深埋地底的死者。在接下來的 7 秒內出現易爆骷髏,在附近有敵人時爆炸,造成 45% 點傷害。\n\nTags: 絕招, 傷害, 冷卻時間, 物理.",
+			"thTH": "Cooldown: 70 วินาที\nLucky Hit Chance: 63.796% (per use)\nปลุกเรียก Volatile Skeletons ที่จะระเบิดเมื่ออยุูใกล้ศัตรู ทำความเสียหาย 45% เป็นระยะเวลา 7 วินาที.\n\nTags: Ultimate, Damage, Cooldown, Physical."
 },
 		id: 93,
 		maxPoints: 1,
@@ -4006,7 +4015,8 @@ Tags: Ultimate, Damage, Cooldown, Physical.`,
 			"ruRU": "Первородная армия мертвецов",
 			"trTR": "Üstün Ölüler Ordusu",
 			"zhCN": "至尊亡者大军",
-			"zhTW": "強烈死亡軍團"
+			"zhTW": "強烈死亡軍團",
+			"thTH": "Prime Army of the Dead"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn die Unberechenbaren Skelette von Armee der Toten explodieren, besteht eine Chance von 15%, dass sie ein Leiche hinterlassen.",
@@ -4021,7 +4031,8 @@ Tags: Ultimate, Damage, Cooldown, Physical.`,
 			"ruRU": "Взрывающиеся скелеты, призванные \"Армией мертвецов\", с вероятностью 15% оставляют после взрыва труп.",
 			"trTR": "Ölüler Ordusunun Patlayıcı İskeletleri, patladıklarında 15% ihtimalle geride bir Ceset bırakırlar.",
 			"zhCN": "亡者大军的易爆骷髅爆炸时, 有 15% 几率留下一具亡骸。",
-			"zhTW": "死亡軍團的易爆骷髏爆炸時,有 15% 機率留下一具屍體。"
+			"zhTW": "死亡軍團的易爆骷髏爆炸時,有 15% 機率留下一具屍體。",
+			"thTH": "เมื่อ Volatile Skeletons ระเบิด, มีโอกาส 15% ที่จะสร้างซากศพ."
 },
 		id: 94,
 		maxPoints: 1,
@@ -4045,7 +4056,8 @@ Tags: Ultimate, Damage, Cooldown, Physical.`,
 			"ruRU": "Неотвратимая армия мертвецов",
 			"trTR": "Yüce Ölüler Ordusu",
 			"zhCN": "至极亡者大军",
-			"zhTW": "終極死亡軍團"
+			"zhTW": "終極死亡軍團",
+			"thTH": "Supreme Army of the Dead"
 },
 		descriptionLocalized: {
 			"deDE": "Armee der Toten erweckt auch Eure Skelettkrieger und Skelettmagier.",
@@ -4060,7 +4072,8 @@ Tags: Ultimate, Damage, Cooldown, Physical.`,
 			"ruRU": "\"Армия мертвецов\" также воскрешает ваших скелетов-воинов и скелетов-магов.",
 			"trTR": "Ölüler Ordusu ayrıca İskelet Savaşçılarını ve İskelet Sihirbazlarını diriltir.",
 			"zhCN": "亡者大军也会复活你的骷髅战士和骷髅法师。",
-			"zhTW": "死亡軍團也會復活你的骷髏戰士和骷髏法師。"
+			"zhTW": "死亡軍團也會復活你的骷髏戰士和骷髏法師。",
+			"thTH": "Army of the Dead จะทำการเรียก Skeleton Warriors และ Skeleton Mages ด้วย."
 },
 		id: 95,
 		maxPoints: 1,
@@ -4087,7 +4100,8 @@ Tags: Ultimate, Blood, Damage, Cooldown, Crowd Control, Physical.`,
 			"ruRU": "Кровавая волна",
 			"trTR": "Kan Dalgası",
 			"zhCN": "血潮",
-			"zhTW": "血浪"
+			"zhTW": "血浪",
+			"thTH": "Blood Wave"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 50 Sek.\nGlückstrefferchance: 20% (per hit)\nBeschwört eine Flutwelle aus Blut, die 120% Schaden verursacht und Gegner zurückstößt.\n\nTags: Ultimativ, Blut, Schaden, Abklingzeit, Kontrollverlust, Physisch.",
@@ -4102,7 +4116,8 @@ Tags: Ultimate, Blood, Damage, Cooldown, Crowd Control, Physical.`,
 			"ruRU": "Время восстановления: 50 сек.\nВероятность удачного удара: 20% (per hit)\nСоздает волну крови, наносящую 120% ед. урона и отбрасывающую противников.\n\nTags: Мощное умение, Кровь, Урон, Время восстановления, Контроль, Физический урон.",
 			"trTR": "Bekleme Süresi: 50 saniye\nŞanslı Vuruş İhtimali: 20% (per hit)\n120% hasar veren ve düşmanları Geri Savuran bir kan dalgası oluştur.\n\nTags: Ulti, Kan, Hasar, Bekleme Süresi, Kitle Kontrolü, Fiziksel.",
 			"zhCN": "冷却时间: 50 秒\n幸运一击几率: 20% (per hit)\n召唤一道鲜血浪潮, 造成 120% 点伤害并将敌人击退。\n\nTags: 终极技能, 鲜血, 伤害, 冷却时间, 群控, 物理.",
-			"zhTW": "冷卻時間:50 秒\n幸運觸發機率: 20% (per hit)\n呼喚一波血浪,造成 120% 點傷害並擊退敵人。\n\nTags: 絕招, 鮮血, 傷害, 冷卻時間, 控場, 物理."
+			"zhTW": "冷卻時間:50 秒\n幸運觸發機率: 20% (per hit)\n呼喚一波血浪,造成 120% 點傷害並擊退敵人。\n\nTags: 絕招, 鮮血, 傷害, 冷卻時間, 控場, 物理.",
+			"thTH": "Cooldown: 50 วินาที\nLucky Hit Chance: 20% (per hit)\nสร้างคลื่นเลือดที่จะทำความเสียหาย 120% และผลักศัตรูออก.\n\nTags: Ultimate, Blood, Damage, Cooldown, Crowd Control, Physical."
 },
 		id: 96,
 		maxPoints: 1,
@@ -4126,7 +4141,8 @@ Tags: Ultimate, Blood, Damage, Cooldown, Crowd Control, Physical.`,
 			"ruRU": "Первородная кровавая волна",
 			"trTR": "Üstün Kan Dalgası",
 			"zhCN": "至尊血潮",
-			"zhTW": "強烈血浪"
+			"zhTW": "強烈血浪",
+			"thTH": "Prime Blood Wave"
 },
 		descriptionLocalized: {
 			"deDE": "Blutwelle verlangsamt Gegner 4 Sek. lang um 50%.",
@@ -4141,7 +4157,8 @@ Tags: Ultimate, Blood, Damage, Cooldown, Crowd Control, Physical.`,
 			"ruRU": "\"Кровавая волна\" замедляет противников на 50% на 4 сек.",
 			"trTR": "Kan Dalgası düşmanları 4 saniyeliğine 50% Yavaşlatır.",
 			"zhCN": "血潮使敌人减速 50%, 持续 4 秒。",
-			"zhTW": "血浪使敵人緩速 50%,持續 4 秒。"
+			"zhTW": "血浪使敵人緩速 50%,持續 4 秒。",
+			"thTH": "Blood Wave จะ Slow ศัตรู 50% เป็นระยะเวลา 4 วินาที."
 },
 		id: 97,
 		maxPoints: 1,
@@ -4165,7 +4182,8 @@ Tags: Ultimate, Blood, Damage, Cooldown, Crowd Control, Physical.`,
 			"ruRU": "Неотвратимая кровавая волна",
 			"trTR": "Yüce Kan Dalgası",
 			"zhCN": "至极血潮",
-			"zhTW": "終極血浪"
+			"zhTW": "終極血浪",
+			"thTH": "Supreme Blood Wave"
 },
 		descriptionLocalized: {
 			"deDE": "Blutwelle hinterlässt entlang des Weges 3 Blutkugeln.",
@@ -4180,7 +4198,8 @@ Tags: Ultimate, Blood, Damage, Cooldown, Crowd Control, Physical.`,
 			"ruRU": "\"Кровавая волна\" оставляет 3 сферы крови на своем пути.",
 			"trTR": "Kan Dalgası ilerlerken ardında 3 Kan Küresi bırakır.",
 			"zhCN": "血潮会在其路径上留下 3 颗生命球。",
-			"zhTW": "血浪會在行經路徑上留下 3 個生命之球。"
+			"zhTW": "血浪會在行經路徑上留下 3 個生命之球。",
+			"thTH": "Blood Wave จะสร้าง 3 Blood Orbs ตามทาง."
 },
 		id: 98,
 		maxPoints: 1,
@@ -4205,7 +4224,8 @@ Tags: Damage Reduction, Minion.`,
 			"ruRU": "Одиночка",
 			"trTR": "Yalnız Dur",
 			"zhCN": "独行者",
-			"zhTW": "孤軍奮戰"
+			"zhTW": "孤軍奮戰",
+			"thTH": "Stand Alone"
 },
 		descriptionLocalized: {
 			"deDE": "Erhöht die Schadensreduktion um {6/12/18/24/30/36/42/48/54/60}%. Jeder aktive Diener reduziert diesen Bonus um 2%.\n\nTags: Schadensreduktion, Diener.",
@@ -4220,7 +4240,8 @@ Tags: Damage Reduction, Minion.`,
 			"ruRU": "Получаемый урон уменьшается на {6/12/18/24/30/36/42/48/54/60}%. Эффективность бонуса снижается на 2% за каждого активного прислужника.\n\nTags: Уменьшение урона, Прислужник.",
 			"trTR": "Hasar Azaltmayı {6/12/18/24/30/36/42/48/54/60}% artırır. Etkin Yardakçı başına 2% azalır.\n\nTags: Hasar Azaltma, Yardakçı.",
 			"zhCN": "伤害减免提高 {6/12/18/24/30/36/42/48/54/60}%, 每有一个激活的仆从降低 2%。\n\nTags: 伤害减免, 爪牙.",
-			"zhTW": "傷害減免效果提高 {6/12/18/24/30/36/42/48/54/60}%,每擁有一名僕從減少 2%。\n\nTags: 傷害減免, 僕從."
+			"zhTW": "傷害減免效果提高 {6/12/18/24/30/36/42/48/54/60}%,每擁有一名僕從減少 2%。\n\nTags: 傷害減免, 僕從.",
+			"thTH": "ได้รับ Damage Reduction {6/12/18/24/30/36/42/48/54/60}%, ลดลง 2% ต่อจำนวนสมุนที่มี.\n\nTags: Damage Reduction, Minion."
 },
 		id: 99,
 		maxPoints: 3,
@@ -4245,7 +4266,8 @@ Tags: Minion.`,
 			"ruRU": "Помни о смерти",
 			"trTR": "Ölümün Hatırlatması",
 			"zhCN": "死亡警告",
-			"zhTW": "死亡警告"
+			"zhTW": "死亡警告",
+			"thTH": "Memento Mori"
 },
 		descriptionLocalized: {
 			"deDE": "Das Opfern von sowohl Skelettkriegern als auch Skelettmagiern erhöht ihre Opferboni um {20/40/60/80/100/120/140/160/180/200}%.\n\nTags: Diener.",
@@ -4260,7 +4282,8 @@ Tags: Minion.`,
 			"ruRU": "Если вы приносите в жертву и скелетов-воинов, и скелетов-магов, эффективность соответствующих бонусов повышается на {20/40/60/80/100/120/140/160/180/200}%.\n\nTags: Прислужник.",
 			"trTR": "Hem İskelet Savaşçıları hem de İskelet Sihirbazları kurban etmek, Kurban bonuslarını {20/40/60/80/100/120/140/160/180/200}% artırır.\n\nTags: Yardakçı.",
 			"zhCN": "同时牺牲骷髅战士和骷髅法师会使其牺牲加成提高 {20/40/60/80/100/120/140/160/180/200}%。\n\nTags: 爪牙.",
-			"zhTW": "如果同時獻祭骷髏戰士和骷髏法師,其獻祭加成效果提高 {20/40/60/80/100/120/140/160/180/200}%。\n\nTags: 僕從."
+			"zhTW": "如果同時獻祭骷髏戰士和骷髏法師,其獻祭加成效果提高 {20/40/60/80/100/120/140/160/180/200}%。\n\nTags: 僕從.",
+			"thTH": "เมื่อ Sacrifice ทั้ง Skeletal Warriors และ Skeletal Mages จะได้รับประโยชน์จากการ Sacrifice เพิ่มขึ้น {20/40/60/80/100/120/140/160/180/200}%.\n\nTags: Minion."
 },
 		id: 100,
 		maxPoints: 3,
@@ -4287,7 +4310,8 @@ Tags: Ultimate, Bone, Physical, Cooldown, Damage, Minion.`,
 			"ruRU": "Буря костей",
 			"trTR": "Kemik Fırtınası",
 			"zhCN": "白骨风暴",
-			"zhTW": "骸骨風暴"
+			"zhTW": "骸骨風暴",
+			"thTH": "Bone Storm"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 60 Sek.\nGlückstrefferchance: 39.608% (per use)\nEin wirbelnder Sturm aus Knochen umgibt Euch und Euren Golem und fügt Gegnern in der Nähe im Verlauf von 10 Sek. 180% Schaden zu.\n\nTags: Ultimativ, Knochen, Physisch, Abklingzeit, Schaden, Diener.",
@@ -4302,7 +4326,8 @@ Tags: Ultimate, Bone, Physical, Cooldown, Damage, Minion.`,
 			"ruRU": "Время восстановления: 60 сек.\nВероятность удачного удара: 39.608% (per use)\nВокруг вас и вашего голема образуется буря костей, наносящая противникам 180% ед. урона за 10 сек.\n\nTags: Мощное умение, Кости, Физический урон, Время восстановления, Урон, Прислужник.",
 			"trTR": "Bekleme Süresi: 60 saniye\nŞanslı Vuruş İhtimali: 39.608% (per use)\nSenin ve Goleminin etrafında dönen bir kemik fırtınası ortaya çıkar ve 10 saniye boyunca etrafındaki düşmanlara 180% hasar verir.\n\nTags: Ulti, Kemik, Fiziksel, Bekleme Süresi, Hasar, Yardakçı.",
 			"zhCN": "冷却时间: 60 秒\n幸运一击几率: 39.608% (per use)\n用一阵白骨风暴环绕你和你的傀儡, 在 10 秒内对周围敌人造成 180% 点伤害。\n\nTags: 终极技能, 白骨, 物理, 冷却时间, 伤害, 爪牙.",
-			"zhTW": "冷卻時間:60 秒\n幸運觸發機率:39.608% (per use)\n一陣飛旋的骸骨圍繞你和你的魔像,在 10 秒內對附近敵人造成 180% 點傷害。\n\nTags: 絕招, 骸骨, 物理, 冷卻時間, 傷害, 僕從."
+			"zhTW": "冷卻時間:60 秒\n幸運觸發機率:39.608% (per use)\n一陣飛旋的骸骨圍繞你和你的魔像,在 10 秒內對附近敵人造成 180% 點傷害。\n\nTags: 絕招, 骸骨, 物理, 冷卻時間, 傷害, 僕從.",
+			"thTH": "Cooldown: 60 วินาที\nLucky Hit Chance: 39.608% (per use)\nสร้างพายุกระดูกรอบตัวคุณและ Golem, ทำความเสียหาย 180% แก่ศัตรูรอบตัว ภายในระยะเวลา 10 วินาที.\n\nTags: Ultimate, Bone, Physical, Cooldown, Damage, Minion."
 },
 		id: 101,
 		maxPoints: 1,
@@ -4326,7 +4351,8 @@ Tags: Ultimate, Bone, Physical, Cooldown, Damage, Minion.`,
 			"ruRU": "Первородная буря костей",
 			"trTR": "Üstün Kemik Fırtınası",
 			"zhCN": "至尊白骨风暴",
-			"zhTW": "強烈骸骨風暴"
+			"zhTW": "強烈骸骨風暴",
+			"thTH": "Prime Bone Storm"
 },
 		descriptionLocalized: {
 			"deDE": "Eure Schadensreduktion ist um 15% erhöht, solange Knochensturm aktiv ist.",
@@ -4341,7 +4367,8 @@ Tags: Ultimate, Bone, Physical, Cooldown, Damage, Minion.`,
 			"ruRU": "Пока действует \"Буря костей\", вы получаете на 15% меньше урона.",
 			"trTR": "Kemik Fırtınası etkinken Hasar Azaltman 15% artar.",
 			"zhCN": "白骨风暴激活时, 你的伤害减免效果提高 15%。",
-			"zhTW": "在骸骨風暴效果期間,你的傷害減免效果提高 15%。"
+			"zhTW": "在骸骨風暴效果期間,你的傷害減免效果提高 15%。",
+			"thTH": "Damage Reduction เพิ่มขึ้น 15% ในขณะที่ Bone Storm กำลังทำงาน."
 },
 		id: 102,
 		maxPoints: 1,
@@ -4365,7 +4392,8 @@ Tags: Ultimate, Bone, Physical, Cooldown, Damage, Minion.`,
 			"ruRU": "Неотвратимая буря костей",
 			"trTR": "Yüce Kemik Fırtınası",
 			"zhCN": "至极白骨风暴",
-			"zhTW": "終極骸骨風暴"
+			"zhTW": "終極骸骨風暴",
+			"thTH": "Supreme Bone Storm"
 },
 		descriptionLocalized: {
 			"deDE": "Eure kritische Trefferchance ist um +20% erhöht, solange Knochensturm aktiv ist.",
@@ -4380,7 +4408,8 @@ Tags: Ultimate, Bone, Physical, Cooldown, Damage, Minion.`,
 			"ruRU": "Пока действует \"Буря костей\", ваша вероятность критического удара повышается на 20%.",
 			"trTR": "Kemik Fırtınası etkinken Kritik Vuruş İhtimalin +20% artar.",
 			"zhCN": "白骨风暴激活时, 你的暴击几率提高 +20%。",
-			"zhTW": "在骸骨風暴效果期間,你的爆擊機率提高 +20%。"
+			"zhTW": "在骸骨風暴效果期間,你的爆擊機率提高 +20%。",
+			"thTH": "เพิ่มโอกาสโจมตี Critical +20% ในขณะที่ Bone Storm กำลังทำงาน"
 },
 		id: 103,
 		maxPoints: 1,
@@ -4405,7 +4434,8 @@ Tags: Life, Minion, Damage.`,
 			"ruRU": "Мастер големов",
 			"trTR": "Golem Ustalığı",
 			"zhCN": "傀儡精通",
-			"zhTW": "魔像精通"
+			"zhTW": "魔像精通",
+			"thTH": "Golem Mastery"
 },
 		descriptionLocalized: {
 			"deDE": "Erhöht Schaden und Leben Eures Golems um x{25/50/75/100/125/150/175/200/225/250}%.\n\nTags: Leben, Diener, Schaden.",
@@ -4420,7 +4450,8 @@ Tags: Life, Minion, Damage.`,
 			"ruRU": "Наносимый урон и запас здоровья голема увеличиваются на x{25/50/75/100/125/150/175/200/225/250}%.\n\nTags: Здоровье, Прислужник, Урон.",
 			"trTR": "Goleminin hasarını ve Canını x{25/50/75/100/125/150/175/200/225/250}% artır.\n\nTags: Can, Yardakçı, Hasar.",
 			"zhCN": "傀儡的伤害和生命提高 x{25/50/75/100/125/150/175/200/225/250}%。\n\nTags: 生命, 爪牙, 伤害.",
-			"zhTW": "使魔像的傷害和生命值提高 x{25/50/75/100/125/150/175/200/225/250}%。\n\nTags: 生命值, 僕從, 傷害."
+			"zhTW": "使魔像的傷害和生命值提高 x{25/50/75/100/125/150/175/200/225/250}%。\n\nTags: 生命值, 僕從, 傷害.",
+			"thTH": "เพิ่มพลังโจมตี และพลังชีวิตของ Golem x{25/50/75/100/125/150/175/200/225/250}%.\n\nTags: Life, Minion, Damage."
 },
 		id: 104,
 		maxPoints: 3,
@@ -4448,7 +4479,8 @@ Tags: Damage, Essence, Bone.`,
 			"ruRU": "Окостеневшая эссенция",
 			"trTR": "Kemikleşmiş Öz",
 			"zhCN": "骨化精魂",
-			"zhTW": "骨質精華"
+			"zhTW": "骨質精華",
+			"thTH": "Ossified Essence"
 },
 		descriptionLocalized: {
 			"deDE": "Eure Knochenfertigkeiten verursachen x1% mehr Schaden für jeden Essenzpunkt über 50, den Ihr beim Wirken besitzt.\n\nTags: Schaden, Essenz, Knochen.",
@@ -4463,7 +4495,8 @@ Tags: Damage, Essence, Bone.`,
 			"ruRU": "Ваши умения костей наносят на x1% больше урона за каждую единицу эссенции, превышающую объем в 50 ед. на момент применения умения.\n\nTags: Урон, Эссенция, Кости.",
 			"trTR": "Kemik Yeteneklerin, kullanım sırasında 50 üzerinde sahip olduğun her bir Öz başına x1% artırılmış hasar verir.\n\nTags: Hasar, Öz, Kemik.",
 			"zhCN": "精魂高于 50 点时, 每多出1点精魂, 就会使你施放的白骨技能造成的伤害提高 x1%。\n\nTags: 伤害, 精魂, 白骨.",
-			"zhTW": "如果你施放技能時擁有的魂能多於 50 點,每多出一點可使骸骨技能造成的傷害提高 x1%。\n\nTags: 傷害, 魂能, 骸骨."
+			"zhTW": "如果你施放技能時擁有的魂能多於 50 點,每多出一點可使骸骨技能造成的傷害提高 x1%。\n\nTags: 傷害, 魂能, 骸骨.",
+			"thTH": "สกิล Bone ทำความเสียหายเพิ่มขึ้น x1% ต่อจำนวน Essence ที่คุณมีเกิน 50 เมื่อใช้สกิล.\n\nTags: Damage, Essence, Bone."
 },
 		id: 105,
 		maxPoints: 1,
@@ -4490,7 +4523,8 @@ Tags: Damage, Shadow, Minion.`,
 			"ruRU": "Чума тьмы",
 			"trTR": "Gölgemaraz",
 			"zhCN": "暗影凋零",
-			"zhTW": "暗影荒疫"
+			"zhTW": "暗影荒疫",
+			"thTH": "Shadowblight"
 },
 		descriptionLocalized: {
 			"deDE": "Schattenschaden infiziert Gegner 2 Sek. lang mit Schattenseuche. Ihr und Eure Diener fügen Gegnern mit Schattenseuche x10% Bonusschaden zu.\n\nJedes 10. Mal, wenn ein von Schattenseuche betroffener Gegner durch Euch oder Eure Diener Schattenschaden erleidet, erleidet er zusätzlich 22% Schattenschaden.\n\nTags: Schaden, Schatten, Diener.",
@@ -4505,7 +4539,8 @@ Tags: Damage, Shadow, Minion.`,
 			"ruRU": "Урон от темной магии заражает противников \"Чумой тьмы\" на 2 сек. Вы и ваши прислужники наносите на x10% больше урона противникам, зараженным \"Чумой тьмы\".\n\nПротивники с эффектом \"Чума тьмы\" получают 22% ед. дополнительного урона от темной магии после того, как вы или ваши прислужники наносите им урон от темной магии 10 раз.\n\nTags: Урон, Темная магия, Прислужник.",
 			"trTR": "Gölge Hasarı düşmanlara 2 saniye boyunca Gölgemaraz bulaştırır. Sen ve yardakçıların Gölgemarazlı düşmanlara x10% bonus hasar verirsiniz.\n\nGölgemaraz bulaşmış bir düşman, senden veya Yardakçılarından her 10. kez Gölge hasarı alışında fazladan 22% Gölge hasarı alır.\n\nTags: Hasar, Gölge, Yardakçı.",
 			"zhCN": "暗影伤害使敌人感染暗影凋零, 持续 2 秒。你和你的仆从对受暗影凋零影响的敌人造成的伤害提高 x10%。\n\n受到暗影凋零影响的敌人每第 10 次受到来自你或你仆从的暗影伤害, 就会额外受到 22% 点暗影伤害。\n\nTags: 伤害, 暗影, 爪牙.",
-			"zhTW": "暗影傷害會使敵人感染暗影荒疫,持續 2 秒。你和你的僕從對感染暗影荒疫的敵人造成 x10% 額外傷害。\n\n你和你的僕從每第 10 次對感染暗影荒疫敵人造成暗影傷害時,該敵人會額外受到 22% 點暗影傷害。\n\nTags: 傷害, 暗影, 僕從."
+			"zhTW": "暗影傷害會使敵人感染暗影荒疫,持續 2 秒。你和你的僕從對感染暗影荒疫的敵人造成 x10% 額外傷害。\n\n你和你的僕從每第 10 次對感染暗影荒疫敵人造成暗影傷害時,該敵人會額外受到 22% 點暗影傷害。\n\nTags: 傷害, 暗影, 僕從.",
+			"thTH": "ความเสียหาย Shadow จะทำให้ศัตรูอยู่ในสถานะ Shadowblight เป็นระยะเวลา 2 วินาที, คุณและสมุนทำความเสียหายเพิ่มขึ้น x10% แก่ศัตรูที่อยู่ในสถานะ Shadowblight.\n\nทุก 10 ครั้งที่ศัตรูที่อยู่ในสถานะ Shadowblight ได้รับความเสียหาย Shadow จากคุณหรือสมุน, ศัตรูนั้นจะได้รับความเสียหาย Shadow เพิ่มเติม 22%.\n\nTags: Damage, Shadow, Minion."
 },
 		id: 106,
 		maxPoints: 1,
@@ -4530,7 +4565,8 @@ Tags: Healthy, Overpower, Life, Blood.`,
 			"ruRU": "Бодрость Ратмы",
 			"trTR": "Rathma'nın Dinçliği",
 			"zhCN": "拉斯玛的活力",
-			"zhTW": "拉斯瑪的活力"
+			"zhTW": "拉斯瑪的活力",
+			"thTH": "Rathma's Vigor"
 },
 		descriptionLocalized: {
 			"deDE": "Erhöht Euer maximales Leben um x10%. Wenn Ihr 15 Sek. lang gesund gewesen seid, überwältigt Eure nächste Blutfertigkeit.\n\nTags: Gesund, Überwältigen, Leben, Blut.",
@@ -4545,7 +4581,8 @@ Tags: Healthy, Overpower, Life, Blood.`,
 			"ruRU": "Ваш максимальный запас здоровья увеличивается на 10%. Если высокий уровень здоровья сохраняется в течение 15 сек., следующее умение крови наносит подавляющий урон.\n\nTags: Высокое здоровье, Подавление, Здоровье, Кровь.",
 			"trTR": "Maksimum Canını x10% artır. 15 saniye boyunca Sağlıklı kaldığında bir sonraki Kan Yeteneğin Aşırı Güçlenir.\n\nTags: Sağlıklı, Aşırı Güç, Can, Kan.",
 			"zhCN": "你的生命上限提高 x10%。保持健康状态 15 秒后, 你的下一个鲜血技能造成压制。\n\nTags: 健康, 压制, 生命, 鲜血.",
-			"zhTW": "生命值上限提高 x10%。在健康狀態 15 秒後,你的下一個鮮血技能會壓制。\n\nTags: 健康, 壓制, 生命值, 鮮血."
+			"zhTW": "生命值上限提高 x10%。在健康狀態 15 秒後,你的下一個鮮血技能會壓制。\n\nTags: 健康, 壓制, 生命值, 鮮血.",
+			"thTH": "เพิ่มพลังชีวิตสูงสุด x10%, หลังจากที่อยู่ในสถานะ Healthy เป็นระยะเวลา 15 วินาที, สกิล Blood ครั้งต่อไปจะ Overpowers.\n\nTags: Healthy, Overpower, Life, Blood."
 },
 		id: 107,
 		maxPoints: 1,
@@ -4570,7 +4607,8 @@ Tags: Attack Speed, Minion.`,
 			"ruRU": "Эдикт Калана",
 			"trTR": "Kalan'ın Fermanı",
 			"zhCN": "卡兰的法令",
-			"zhTW": "卡蘭的敕令"
+			"zhTW": "卡蘭的敕令",
+			"thTH": "Kalan's Edict"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr in den letzten 3 Sek. keinen Schaden erlitten habt, erhalten Eure Diener +15% Angriffsgeschwindigkeit. Wenn Ihr über mindestens 7 Diener verfügt, verdoppelt sich dieser Bonus.\n\nTags: Angriffsgeschwindigkeit, Diener.",
@@ -4585,7 +4623,8 @@ Tags: Attack Speed, Minion.`,
 			"ruRU": "Если вы не получаете урон в течение 3 сек., скорость атаки ваших прислужников повышается на +15%. Бонус удваивается, если у вас есть хотя бы 7 прислужника:прислужников.\n\nTags: Скорость атаки, Прислужник.",
 			"trTR": "Son 3 saniye boyunca hasar almadığında Yardakçıların +15% Saldırı Hızı kazanır. En az 7 Yardakçıya sahipken bu bonus ikiye katlanır.\n\nTags: Saldırı Hızı, Yardakçı.",
 			"zhCN": "在 3 秒内没有受到伤害后, 你仆从的攻击速度提高 +15%。当你至少有 7 个仆从时, 该加成翻倍。\n\nTags: 攻击速度, 爪牙.",
-			"zhTW": "你未受到傷害 3 秒後,你的僕從攻擊速度提高 +15%。若你有至少 7 個僕從,此加成效果加倍。\n\nTags: 攻擊速度, 僕從."
+			"zhTW": "你未受到傷害 3 秒後,你的僕從攻擊速度提高 +15%。若你有至少 7 個僕從,此加成效果加倍。\n\nTags: 攻擊速度, 僕從.",
+			"thTH": "เมื่อไม่ได้รับความเสียหายเป็นระยะเวลา 3 วินาที, คุณและสมุนจะได้รับความเร็วในการโจมตีเพิ่มขึ้น +15%. เมื่อมีสมุนอย่างน้อย 7 ตัว, จะเพิ่มจำนวนนี้สองเท่า.\n\nTags: Attack Speed, Minion."
 },
 		id: 130,
 		maxPoints: 1,
@@ -4596,101 +4635,101 @@ Tags: Attack Speed, Minion.`,
 
 necromancerData["Book of the Dead"] = {
 	"Skeletal Warriors": {
-		description: `Raise a Skeleton from a Corpse to fight for you.
+		description: `เรียก Skeleton จากซากศพ.
 
-Once all of your Skeletons have been summoned, Raise Skeleton briefly summons a Skeletal Priest to empower your Minions for 5 seconds, increasing their damage by 20% and healing them for 10% of their Maximum Life.`,
+เมื่อเรียก Skeleton จนครบจำนวน, Raise Skeleton จะเรียก Skeleton Priest มาเสริมพลังให้กับสมุนของคุณ 5 วินาที, เพิ่มพลังโจมตี 20% และฟื้นฟูพลังชีวิต 10% ของพลังชีวิตสูงสุด.`,
 		name: `Raise Skeleton`,
 		"Skeletal Skirmishers": {
-			description: `Sword-wielding damage dealers that deal 30% increased damage but have 15% reduced Life.`,
+			description: `ทำความเสียหายเพิ่มขึ้น 30% แต่มีพลังชีวิตน้อยลง 15%.`,
 			id: 110,
-			sacrifice: `Your Critical Strike Chance is increased by +5%, but you can no longer raise Skeletal Warriors.`,
+			sacrifice: `คุณจะได้รับโอกาสโจมตี Critical +5%, แต่จะไม่สามารถเรียก Skeletal Warriors ได้อีก.`,
 			upgrades: [
-				`You can raise one additional Skirmisher Warrior.`,
-				`Each time you Critically Strike, your Skirmishers Warriors' next attack Critically Strikes and deals x50% bonus Critical Strike damage. Can only happen every 3 seconds.`
+				`สามารถเรียก Skirmisher Warrios เพิ่มได้หนึ่งตัว.`,
+				`ทุกครั้งที่คุณทำความเสียหาย Critical, การโจมตีครั้งต่อไปของ Skirmisher Warriors จะ Critical และทำความเสียหาย Critical เพิ่มขึ้น x50%. ผลนี้สามารถเกิดขึ้นได้ทุก 3 วินาที.`
 			]
 		},
 		"Skeletal Defenders": {
-			description: `Durable shield-bearers with 15% increased Life.`,
+			description: `พลังชีวิตเพิ่มขึ้น 15%.`,
 			id: 111,
-			sacrifice: `You gain 15% Non-Physical Resistance, but you can no longer raise Skeletal Warriors.`,
+			sacrifice: `คุณจะได้รับ 15% Non-Physical Resistance, แต่จะไม่สามารถเรียก Skeletal Warriors ได้อีก.`,
 			upgrades: [
-				`Every 6 seconds your Skeletal Defenders negate the next instance of Direct Damage they would take.`,
-				`Increase the amount of Thorns that Defender Warriors inherit from you from 30% to 40%.`
+				`ทุก 6 วินาที Skeletal Defenders จะไม่รับความเสียหายครั้งถัดไป.`,
+				`เพิ่มจำนวน Thorns ที่ Defender Warriors ได้รับจากคุณจาก 30% เป็น 40%.`
 			]
 		},
 		"Skeletal Reapers": {
-			description: `Deals area damage with a slow and powerful scythe, and has a special wind-up attack, dealing heavy damage every 10 seconds.`,
+			description: `การโจมตีพิเศษที่จะทำความเสียหายอย่างรุนแรงเป็นวงกว้างทุก 10 วินาที.`,
 			id: 112,
-			sacrifice: `You deal x15% increased Shadow Damage, but you can no longer raise Skeletal Warriors.`,
+			sacrifice: `คุณจะทำความเสียหาย Shadow เพิ่มขึ้น x15%, แต่จะไม่สามารถเรียก Skeletal Warriors ได้อีก.`,
 			upgrades: [
-				`Reaper attacks against enemies who are Immobilized, Slowed, Stunned, or Vulnerable reduce the cooldown of their powerful wind-up attack by 2 seconds.`,
-				`Reapers have a 15% chance to carve the flesh off enemies, forming a Corpse.`
+				`เมื่อ Reaper โจมตีศัตรูที่อยู่ในสถานะ Immobilized, Slowed, Stunned, หรือ Vulnerable จะลด Cooldown การโจมตีพิเศษ 2 วินาที.`,
+				`การโจมตีของ Reapers มีโอกาส 15% ที่จะสร้างซากศพ.`
 			]
 		},
 	},
 	"Skeletal Mages": {
-		description: `Raise a Skeleton from a Corpse to fight for you.
+		description: `เรียก Skeleton จากซากศพ.
 
-Once all of your Skeletons have been summoned, Raise Skeleton briefly summons a Skeletal Priest to empower your Minions for 5 seconds, increasing their damage by 20% and healing them for 10% of their Maximum Life.`,
+		เมื่อเรียก Skeleton จนครบจำนวน, Raise Skeleton จะเรียก Skeleton Priest มาเสริมพลังให้กับสมุนของคุณ 5 วินาที, เพิ่มพลังโจมตี 20% และฟื้นฟูพลังชีวิต 10% ของพลังชีวิตสูงสุด.`,
 		name: `Raise Skeleton`,
 		"Shadow Mages": {
-			description: `Deals moderate Shadow Damage.`,
+			description: `ทำความเสียหาย Shadow.`,
 			id: 113,
-			sacrifice: `Your maximum Essence is increased by 15, but you can no longer raise Skeletal Mages.`,
+			sacrifice: `เพิ่มจำนวน Essence สูงสุดของคุณ 15, แต่จะไม่สามารถเรียก Skeletal Mages ได้อีก.`,
 			upgrades: [
-				`Shadow Mage attacks have a 10% chance to Stun for 2 seconds. This cannot happen on the same enemy more than once every 5 seconds.`,
-				`Shadow Mages fire an additional shadow bolt every 5th attack.`
+				`การโจมตีของ Shadow Mage มีโอกาส 10% ที่จะ Stun เป็นระยะเวลา 2 วินาที. ไม่สามารถเกิดขึ้นกับศัตรูตัวเดิมได้มากกว่า 1 ครั้งทุก 5 วินาที.`,
+				`ทุกการโจมตีครั้งที่ 5 ของ Shadow Mages จะยิง shadow bolt เพิ่มขึ้นอีกลูก.`
 			]
 		},
 		"Cold Mages": {
-			description: `Chills and Freezes enemies.`,
+			description: `Chiils และ Freezes ศัตรู.`,
 			id: 114,
-			sacrifice: `You deal x15% increased damage to Vulnerable enemies, but you can no longer raise Skeletal Mages.`,
+			sacrifice: `คุณทำความเสียหายเพิ่มขึ้น x15% แก่ศัตรูที่อยู่ในสถานะ Vulnerable, แต่จะไม่สามารถเรียก Skeletal Mages ได้อีก.`,
 			upgrades: [
-				`Each time your Cold Mages damage enemies with their primary attack, you gain 2 Essence.`,
-				`Enemies who are Frozen by or damaged while Frozen by your Cold Mages' primary attack are made Vulnerable for 4 seconds.`
+				`ทุกครั้งที่ Cold Mages ทำความเสียหายศัตรู, คุณจะได้รับ 2 Essence.`,
+				`ศัตรูที่ถูก Frozen หรือได้รับความเสียหายในขณะที่อยู่ในสถานะ Frozen จาก Cold Mages จะอยู่ในสถานะ Vulnerable เป็นระยะเวลา 4 วินาที.`
 			]
 		},
 		"Bone Mages": {
-			description: `Uses its own bones as projectiles, dealing heavy damage for a Life cost.`,
+			description: `ใช้กระดูกของตัวเองทำการโจมตี, ทำความเสียหายอย่างรุนแรง แต่จะเสียพลังชีวิต.`,
 			id: 115,
-			sacrifice: `Your Overpower damage is increased by x40%, but you can no longer raise Skeletal Mages.`,
+			sacrifice: `คุณจะทำความเสียหาย Overpower เพิ่มขึ้น x40%, แต่จะไม่สามารถเรียก Skeletal Mages ได้อีก.`,
 			upgrades: [
-				`Reduce the Life cost of your Bone Mages' attacks from 15% to 10%. After being alive for 5 seconds, Bone Mages deal x40% increased damage.`,
-				`Each time a Bone Mage dies from its own attack, they leave behind a Corpse and Fortify you for 11% of your Base Life.`
+				`ลดจำนวนพลังชีวิตที่เสียไปจากการโจมตีจาก 15% เป็น 10%. เมื่อมีชีวิตอยู่มากกว่า 5 วินาที, Bone Mages จะทำความเสียหายเพิ่มขึ้น x40%.`,
+				`ทุกครั้งที่ Bone Mage ตายจากการโจมตีของมันเอง, มันจะสร้างซากศพ และ Fortify คุณเป็นจำนวน 11% ของพลังชีวิตพื้นฐาน.`
 			]
 		},
 	},
 	"Golem": {
-		description: `Passive: You are protected by a Golem with {#} Life that attacks for {29.6/32.6/35.5/38.5/41.5/44.4/47.4/50.3/53.3/56.3}% damage.
+		description: `Passive: เรียก Golem พลังชีวิต {#} และโจมตีทำความเสียหาย {29.6/32.6/35.5/38.5/41.5/44.4/47.4/50.3/53.3/56.3}%.
 
-When your Golem dies, it respawns after 20 seconds.`,
+ิเมื่อ Golem ตาย, มันจะฟื้นคืนชีพหลังผ่านไป 20 วินาที.`,
 		name: `Golem`,
 		"Bone Golem": {
-			description: `Active: Your Golem becomes Unstoppable and Taunts Nearby enemies and takes 30% reduced damage for the next 6 seconds. This has a 16 second cooldown.`,
+			description: `กดใช้: Golem จะได้รับสถานะ Unstoppable และ Taunt ศัตรูรอบตัว และได้รับความเสียหายลดลง 30% เป็นระยะเวลา 6 วินาที. มี Cooldown 16 วินาที.`,
 			id: 116,
-			sacrifice: `You gain +10% increased Attack Speed, but you lose the ability to summon a Golem.`,
+			sacrifice: `คุณได้รับความเร็วในการโจมตีเพิ่มขึ้น +10, แต่จะไม่สามารถเรียก Golem ได้อีก.`,
 			upgrades: [
-				`Each time your Bone Golem takes up to 20% of its Maximum Life as damage, it sheds a Corpse.`,
-				`Your Bone Golem gains 10% Maximum Life and the amount of Thorns they inherit from you is increased from 30% to 50%.`
+				`ทุกครั้งที่ Bone Golem ได้รับความเสียหาย 20% ของพลังชีวิตสูงสุด, มันจะสร้างซากศพ.`,
+				`Boone Golem จะมีพลังชีวิตสูงสุดเพิ่มขึ้น 10% และได้รับจำนวน Thorns ที่ได้รับจากคุณเพิ่มขึ้นจาก 30% เป็น 50%.`
 			]
 		},
 		"Blood Golem": {
-			description: `Active: Your Golem becomes Unstoppable and drains the blood of enemies in the area, dealing 90% damage and healing 5% of its Life for each enemy drained. Damage and healing received are tripled if only one enemy is drained. This has a 10 second cooldown.`,
+			description: `กดใช้: Golem ได้รับสถานะ Unstoppable และดูดเลือดศัตรูรอบตัว, ทำความเสียหาย 90% และฟื้นฟูพลังชีวิต 5% ต่อจำนวนศัตรูที่ได้รับความเสียหาย. ทำความเสียหายและฟื้นฟูพลังชีวิตสามเท่า หากทำความเสียหายแก่ศัตรูตัวเดียว. มี Cooldown 10 วินาที.`,
 			id: 117,
-			sacrifice: `Your Maximum Life is increased by x10%, but you lose the ability to summon a Golem.`,
+			sacrifice: `คุณได้รับพลังชีวิตสูงสุดเพิ่มขึ้น x10%, แต่จะไม่สามารถเรียก Golem ได้อีก.`,
 			upgrades: [
-				`Your Blood Golem absorbs 15% of damage you would take.`,
-				`While Healthy, your Blood Golem gains 25% Damage Reduction and x50% increased damage.`
+				`Blood Golem จะรับความเสียหายแทนคุณ 15%.`,
+				`เมือ Blood Golem อยู่ในสถานะ Healthy, มันจะได้รับ 25% Damage Reduction และทำความเสียหายเพิ่มขึ้น x50%.`
 			]
 		},
 		"Iron Golem": {
-			description: `Active: Command your Golem to go to the targeted area, they become Unstoppable and slam their fists into the ground, dealing 175% damage and Stunning surrounding enemies for 3 seconds. This has a 16 second cooldown.`,
+			description: `กดใช้: สั่งให้ Golem ไปยังพื้นที่เป้าหมาย, มันจะได้รับ Unstoppable และทุบพื้น ทำความเสียหาย 175% และ Stun ศัตรูรอบตัว เป็นระยะเวลา 3 วินาที. มี Cooldown 16 วินาที.`,
 			id: 118,
-			sacrifice: `You deal x30% increased Critical Strike Damage, but you lose the ability to summon a Golem.`,
+			sacrifice: `คุณทำความเสียหาย Critical เพิ่มขึ้น x30%, แต่จะไม่สามารถเรียก Golem ได้อีก.`,
 			upgrades: [
-				`Every 5th Iron Golem attack causes a shockwave, dealing 40% damage to the primary enemy and to enemies behind them.`,
-				`Your Iron Golem's slam attack also makes enemies Vulnerable for 3 seconds.`
+				`การโจมตีครั้งที่ 5 ของ Iron Golem จะสร้างคลื่นพลัง, ทำควมเสียหาย 40%.`,
+				`การทุบพื้นของ Iron Golem จะทำให้ศัตรูอยู่ในสถานะ Vulnerable เป็นระยะเวลา 3 วินาที.`
 			]
 		},
 	},
