@@ -4245,7 +4245,8 @@ let paragonData = {
 					"ruRU": "Когда вы убиваете противников, истекающих кровью, они взрываются, нанося ближайшим целям урон в размере 10% своего максимального запаса здоровья.",
 					"trTR": "Öldürdüğün Kanayan düşmanlar patlayarak etraftaki düşmanlara maksimum canlarının 10% kadarına eşit hasar verir.",
 					"zhCN": "你消灭的流血状态敌人产生爆炸, 对附近的敌人造成相当于其生命上限 10% 的伤害。",
-					"zhTW": "你殺死的流血敵人會爆炸,對附近敵人造成其生命值上限 10% 的傷害。"
+					"zhTW": "你殺死的流血敵人會爆炸,對附近敵人造成其生命值上限 10% 的傷害。",
+					"thTH": "เมื่อสังหารศัตรูที่อยู่ในสถานะ Bleeding มันจะระเบิดออก, ทำความเสียหาย 10% ของพลังชีวิตสูงสุดของมันแก่ศัตรูรอบๆ."
 				}
 			},
 			"Barbarian_Legendary_002": {
@@ -4264,7 +4265,8 @@ let paragonData = {
 					"ruRU": "Кровоизлияние",
 					"trTR": "Kan Kaybı",
 					"zhCN": "出血",
-					"zhTW": "大出血"
+					"zhTW": "大出血",
+					"thTH": "Hemorrhage"
 				},
 				"descriptionLocalized": {
 					"deDE": "Gegner, die mindestens 3 Sek. lang unter dem Einfluss Eurer Blutungseffekte stehen, erleiden durch Euch x12% mehr Schaden.\n\nTags: Blutung, Schaden.",
@@ -4279,7 +4281,8 @@ let paragonData = {
 					"ruRU": "Если ваш эффект кровотечения действует на цель хотя бы 3 сек., эта цель получает от вас на x12% больше урона.\n\nTags: Кровотечение, Урон.",
 					"trTR": "3 saniye veya daha uzun süre boyunca senin Kanamanın etkisinde kalan düşmanlar, senden x12% artırılmış hasar alır.\n\nTags: Kanama, Hasar.",
 					"zhCN": "受你的流血效果影响达到或超过 3 秒的敌人, 你对其造成的伤害提高 x12%。\n\nTags: 流血, 伤害.",
-					"zhTW": "敵人受到你施加的流血效果持續 3 秒以上時,你對其造成的傷害提高 x12%。\n\nTags: 流血, 傷害."
+					"zhTW": "敵人受到你施加的流血效果持續 3 秒以上時,你對其造成的傷害提高 x12%。\n\nTags: 流血, 傷害.",
+					"thTH": "เมื่อศัตรูได้รับ Bleeding จากคุณ เป็นระยะเวลา 3 วินาที หรือมากกว่านั้น จะได้รับความเสียหายจากคุณเพิ่มขึ้น x12%.\n\nTags: Bleed, Damage."
 				}
 			},
 			"Barbarian_Legendary_004": {
@@ -4298,7 +4301,8 @@ let paragonData = {
 					"ruRU": "Кровавая ярость",
 					"trTR": "Kan Öfkesi",
 					"zhCN": "血怒",
-					"zhTW": "鮮血怒火"
+					"zhTW": "鮮血怒火",
+					"thTH": "Blood Rage"
 				},
 				"descriptionLocalized": {
 					"deDE": "Beim Töten eines blutenden Gegners besteht eine Chance von 10%, 5 Sek. lang in den Berserkermodus zu verfallen.\n\nTags: Blutung, Berserkermodus.",
@@ -4313,7 +4317,8 @@ let paragonData = {
 					"ruRU": "Когда вы убиваете истекающего кровью противника, вы с вероятностью 10% получаете эффект берсерк на 5 сек.\n\nTags: Кровотечение, Берсерк.",
 					"trTR": "Kanayan bir düşmanı öldürmek 10% ihtimalle 5 saniyeliğine Başıbozukluk kazandırır.\n\nTags: Kanama, Başıbozukluk.",
 					"zhCN": "消灭一名流血敌人有 10% 几率使你进入狂暴状态, 持续 5 秒。\n\nTags: 流血, 狂暴.",
-					"zhTW": "擊殺流血的敵人有 10% 機率獲得狂暴,持續 5 秒。\n\nTags: 流血, 狂暴."
+					"zhTW": "擊殺流血的敵人有 10% 機率獲得狂暴,持續 5 秒。\n\nTags: 流血, 狂暴.",
+					"thTH": "เมื่อสังหารศัตรูที่อยู่ในสถานะ Bleeding มีโอกาส 10% ที่จะได้รับ Berserking เป็นระยะเวลา 5 วินาที.\n\nTags: Bleed, Berserking."
 				}
 			},
 			"Barbarian_Legendary_005": {
@@ -4332,7 +4337,8 @@ let paragonData = {
 					"ruRU": "Прирожденный лидер",
 					"trTR": "Doğuştan Lider",
 					"zhCN": "天生领袖",
-					"zhTW": "天生領袖"
+					"zhTW": "天生領袖",
+					"thTH": "Natural Leader"
 				},
 				"descriptionLocalized": {
 					"deDE": "Erhöht die Macht Eurer Ruffertigkeiten um 35%.\n\nTags: Ruf.",
@@ -4347,7 +4353,8 @@ let paragonData = {
 					"ruRU": "Эффективность ваших умений категории \"Крик\" повышается на 35%.\n\nTags: Крик.",
 					"trTR": "Çığlık Yeteneklerinin gücünü 35% artırır.\n\nTags: Çığlık.",
 					"zhCN": "你的战吼技能的强度提高 35%。\n\nTags: 战吼.",
-					"zhTW": "使你的怒吼技能威力提升 35%。\n\nTags: 怒吼."
+					"zhTW": "使你的怒吼技能威力提升 35%。\n\nTags: 怒吼.",
+					"thTH": "เพิ่มความสามารถของสกิล Shout ของคุณ 35%.\n\nTags: Shout"
 				}
 			},
 			"Barbarian_Legendary_009": {
@@ -4366,7 +4373,8 @@ let paragonData = {
 					"ruRU": "Расправа",
 					"trTR": "Katliam",
 					"zhCN": "屠戮者",
-					"zhTW": "屠殺"
+					"zhTW": "屠殺",
+					"thTH": "Carnage"
 				},
 				"descriptionLocalized": {
 					"deDE": "Im Berserkermodus erhöhen kritische Treffer Eure Angriffsgeschwindigkeit 6 Sek. lang um +2%, bis maximal +8%.\n\nTags: Berserkermodus, Kritische Treffer, Angriffsgeschwindigkeit.",
@@ -4381,7 +4389,8 @@ let paragonData = {
 					"ruRU": "Пока вы находитесь в режиме берсерка, критические удары повышают вашу скорость атаки на +2%, вплоть до +8%, на 6 сек.\n\nTags: Берсерк, Критические удары, Скорость атаки.",
 					"trTR": "Başıbozukluk sırasında Kritik Vuruşlar Saldırı Hızını 6 saniyeliğine +2% artırır. Artış en fazla +8% olabilir.\n\nTags: Başıbozukluk, Kritik Vuruşlar, Saldırı Hızı.",
 					"zhCN": "狂暴状态下, 暴击使你的攻击速度提高 +2%, 最多提高 +8%, 持续 6 秒。\n\nTags: 狂暴, 暴击, 攻击速度.",
-					"zhTW": "在狂暴狀態下,爆擊會使你的攻擊速度提高 +2%,最多提高 +8%,持續 6 秒。\n\nTags: 狂暴, 爆擊, 攻擊速度."
+					"zhTW": "在狂暴狀態下,爆擊會使你的攻擊速度提高 +2%,最多提高 +8%,持續 6 秒。\n\nTags: 狂暴, 爆擊, 攻擊速度.",
+					"thTH": "ในขณะที่ Berserking, การโจมตี Critical จะเพิ่มความเร็วในการโจมตี +2%, สูงสุด +8%, เป็นระยะเวลา 6 วินาที.\n\nTags: Berserking, Critical Strikes, Attack Speed."
 				}
 			},
 			"Barbarian_Legendary_010": {
@@ -4399,7 +4408,8 @@ let paragonData = {
 					"ruRU": "В состоянии берсерка ваши умения категории \"Защита\" восстанавливаются на 50% быстрее.",
 					"trTR": "Başıbozuk hâldeyken Savunma Yeteneklerin 50% daha hızlı dolar.",
 					"zhCN": "狂暴状态下, 你的防御技能的回复速度提高 50%。",
-					"zhTW": "在狂暴狀態下,你的 防禦技能使用次數回復速度提高 50%。"
+					"zhTW": "在狂暴狀態下,你的 防禦技能使用次數回復速度提高 50%。",
+					"thTH": "ในขณะที่ Berserk, สกิล Defensive จะลด Cooldown เร็วขึ้น 50%."
 				}
 			},
 			"Barbarian_Legendary_011": {
@@ -4418,7 +4428,8 @@ let paragonData = {
 					"ruRU": "Разжигатель войны",
 					"trTR": "Savaşın Müjdecisi",
 					"zhCN": "战争使者",
-					"zhTW": "戰爭使者"
+					"zhTW": "戰爭使者",
+					"thTH": "Warbringer"
 				},
 				"descriptionLocalized": {
 					"deDE": "Jedes Mal, wenn Ihr 75 Wut verbraucht, erhaltet Ihr 12% Eures maximalen Lebens als Stählung.\n\nTags: Wut, Stählung.",
@@ -4433,7 +4444,8 @@ let paragonData = {
 					"ruRU": "За каждые потраченные 75 ед. ярости вы получаете укрепление в объеме 12% максимального запаса здоровья.\n\nTags: Ярость, Укрепление.",
 					"trTR": "Harcadığın her 75 Hiddet başına Maksimum Canının 12% kadarını Güçlendirme olarak kazan.\n\nTags: Hiddet, Güçlendirme.",
 					"zhCN": "你每消耗 75 点怒气, 强固你 12% 生命上限 。\n\nTags: 怒气, 强固.",
-					"zhTW": "你每花費 75 點怒氣,獲得等同生命值上限 12%的強韌。\n\nTags: 怒氣, 強韌."
+					"zhTW": "你每花費 75 點怒氣,獲得等同生命值上限 12%的強韌。\n\nTags: 怒氣, 強韌.",
+					"thTH": "ทุกครั้งที่ใช้ 75 Fury, ได้รับ Fortify 12% ของพลังชีวิตสูงสุด.\n\nTags: Fury, Fortify."
 				}
 			},
 			"Barbarian_Legendary_014": {
@@ -4452,7 +4464,8 @@ let paragonData = {
 					"ruRU": "Дециматор",
 					"trTR": "Yıkıcı",
 					"zhCN": "残杀者",
-					"zhTW": "屠殺者"
+					"zhTW": "屠殺者",
+					"thTH": "Decimator"
 				},
 				"descriptionLocalized": {
 					"deDE": "Glückstreffer: Bei Angriffen mit zweihändigen Hiebwaffen besteht eine Chance von 8%, Gegner 2 Sek. lang verwundbar zu machen.\n\nTags: Verwundbar, Glückstreffer, Hiebwaffe, Zweihändig.",
@@ -4467,7 +4480,8 @@ let paragonData = {
 					"ruRU": "Удачный удар: атаки двуручным рубящим оружием с вероятностью до 8% делают противников уязвимыми на 2 сек.\n\nTags: Уязвимость, Удачный удар, Рубящее, Двуручное.",
 					"trTR": "Şanslı Vuruş: Çift El Kesici Silah saldırıları en fazla 8% ihtimalle düşmanları 2 saniyeliğine Savunmasız hâle getirir.\n\nTags: Savunmasız, Şanslı Vuruş, Kesici, Çift El.",
 					"zhCN": "幸运一击: 使用双手劈砍武器攻击最多有 8% 几率使敌人陷入易伤状态, 持续 2 秒。\n\nTags: 易伤, 幸运一击, 劈斩, 双手.",
-					"zhTW": "幸運觸發:雙手斬擊武器攻擊有最高 8% 機率造成敵人易傷,持續 2 秒。\n\nTags: 易傷, 幸運觸發, 斬擊, 雙手."
+					"zhTW": "幸運觸發:雙手斬擊武器攻擊有最高 8% 機率造成敵人易傷,持續 2 秒。\n\nTags: 易傷, 幸運觸發, 斬擊, 雙手.",
+					"thTH": "Lucky Hit: อาวุธสองมือ Slashing มีโอกาส 8% ที่จะทำให้ศัตรูอยู่ในสถานะ Vulnerable เป็นระยะเวลา 2 วินาที.\n\nTags: Vulnerable, Lucky Hit, Slashing, Two-Handed."
 				}
 			},
 			"Barbarian_Legendary_015": {
@@ -4486,7 +4500,8 @@ let paragonData = {
 					"ruRU": "Костолом",
 					"trTR": "Kemik Kıran",
 					"zhCN": "碎骨者",
-					"zhTW": "碎骨者"
+					"zhTW": "碎骨者",
+					"thTH": "Bone Breaker"
 				},
 				"descriptionLocalized": {
 					"deDE": "Das Überwältigen mit zweihändigen Wuchtwaffen betäubt Gegner {#} Sek. lang und verleiht Euch {#}% Eures maximalen Lebens als Stählung.\n\nTags: Überwältigen, Kontrollverlust, Stählung, Zweihändig, Wuchtwaffe.",
@@ -4501,7 +4516,8 @@ let paragonData = {
 					"ruRU": "Подавляющий урон двуручным дробящим оружием оглушает противников на {#} сек. И дает вам укрепление в объеме {#}% максимального запаса здоровья.\n\nTags: Подавление, Контроль, Укрепление, Двуручное, Дробящее оружие.",
 					"trTR": "Çift El Ezici Silahınla gerçekleştirilen Aşırı Güç, düşmanları {#} saniyeliğine Sersemletir ve Maksimum Canının {#}% kadarını Güçlendirme olarak kazandırır.\n\nTags: Aşırı Güç, Kitle Kontrolü, Güçlendirme, Çift El, Ezici.",
 					"zhCN": "使用双手钝击武器攻击造成的压制击晕敌人 {#} 秒, 并强固你 {#}% 生命上限。\n\nTags: 压制, 群控, 强固, 双手, 钝击.",
-					"zhTW": "使用雙手鈍擊武器壓制時,會擊昏敵人,持續 {#} 秒。同時賦予你等同生命值上限 {#}%的強韌。\n\nTags: 壓制, 控場, 強韌, 雙手, 鈍擊."
+					"zhTW": "使用雙手鈍擊武器壓制時,會擊昏敵人,持續 {#} 秒。同時賦予你等同生命值上限 {#}%的強韌。\n\nTags: 壓制, 控場, 強韌, 雙手, 鈍擊.",
+					"thTH": "เมื่อ Overpower ด้วยอาวุธสองมือ Bludgeoning ศัตรูจะอยู่ในสถานะ Stun {#} วินาที และคุณจะได้รับ Fortify {#}% ของพลังชีวิตสูงสุด.\n\nTags: Overpower, Crowd Control, Fortify, Two-Handed, Bludgeoning."
 				}
 			},
 			"Barbarian_Legendary_016": {
@@ -4520,7 +4536,8 @@ let paragonData = {
 					"ruRU": "Безупречная техника",
 					"trTR": "Kusursuz Teknik",
 					"zhCN": "无瑕技法",
-					"zhTW": "無瑕技藝"
+					"zhTW": "無瑕技藝",
+					"thTH": "Flawless Technique"
 				},
 				"descriptionLocalized": {
 					"deDE": "Wenn Ihr Gegnern mit Einhandwaffen Schaden zufügt, wird Eure kritische Trefferchance 2 Sek. lang um x1% erhöht, bis zu x5%. Dieser Effekt kann nur einmal pro Einsatz oder zweimal pro Sekunde während des Kanalisierens von Wirbelwind auftreten.\n\nTags: Kritische Treffer, Zwei Waffen.",
@@ -4535,7 +4552,8 @@ let paragonData = {
 					"ruRU": "Когда вы наносите противникам урон одноручным оружием, вероятность критического удара повышается на x1% на 2 сек. вплоть до x5%. Срабатывает один раз за применение умения или два раза в секунду при поддержании \"Вихря\".\n\nTags: Критические удары, Оружие в каждой руке.",
 					"trTR": "Tek El Silahlarla düşmanlara hasar vermek, Kritik Vuruş İhtimalini 2 saniyeliğine x1% artırır. Artış en fazla x5% olabilir. Bu, Yetenek kullanımı başına sadece bir kez veya Burgacı yönlendiriyorken saniye başına iki kez gerçekleşebilir.\n\nTags: Kritik Vuruşlar, İkili Silah.",
 					"zhCN": "使用单手武器对敌人造成伤害会使你的暴击几率提高 x1%, 持续 2 秒, 最多提高 x5%。该效果在单次技能施放期间只能触发一次, 在引导旋风斩时每秒可触发两次。\n\nTags: 暴击, 双持.",
-					"zhTW": "以單手武器對敵人造成傷害會使你的爆擊機率提高 x1%,持續 2 秒,最多提高 x5%。每次施放技能時只能觸發一次,或是在引導旋風斬時每秒可觸發兩次。\n\nTags: 爆擊, 雙持."
+					"zhTW": "以單手武器對敵人造成傷害會使你的爆擊機率提高 x1%,持續 2 秒,最多提高 x5%。每次施放技能時只能觸發一次,或是在引導旋風斬時每秒可觸發兩次。\n\nTags: 爆擊, 雙持.",
+					"thTH": "เมื่อทำความเสียหายด้วยอาวุธมือเดียว จะเพิ่มโอกาสในการโจมตี Critical x1% เป็นระยะเวลา 2 วินาที, สูงสุด x5%. ผลนี้เกิดได้ครั้งเดียวต่อการใช้สกิลหนึ่งครั้ง. หรือสองครั้งต่อวินาทีขณะที่ใช้สกิล Whirlwind.\n\nTags: Critical Strikes, Dual Wield."
 				}
 			},
 			"Barbarian_Legendary_017": {
@@ -4554,7 +4572,8 @@ let paragonData = {
 					"ruRU": "Мастерское владение оружием",
 					"trTR": "Silah Ustası",
 					"zhCN": "武器大师",
-					"zhTW": "武器大師"
+					"zhTW": "武器大師",
+					"thTH": "Weapons Master"
 				},
 				"descriptionLocalized": {
 					"deDE": "Beim Waffenwechsel erhaltet Ihr 3 Wut.\n\nTags: Wut.",
@@ -4569,7 +4588,8 @@ let paragonData = {
 					"ruRU": "При смене оружия вы накапливаете 3 ед. ярости.\n\nTags: Ярость.",
 					"trTR": "Silah değiştirmek sana 3 Hiddet kazandırır.\n\nTags: Hiddet.",
 					"zhCN": "切换武器使你获得 3 点怒气。\n\nTags: 怒气.",
-					"zhTW": "切換武器會賦予你 3 點怒氣。\n\nTags: 怒氣."
+					"zhTW": "切換武器會賦予你 3 點怒氣。\n\nTags: 怒氣.",
+					"thTH": "ทุกครั้งที่สลับอาวุธจะได้รับ 3 Fury.\n\nTags: Fury."
 				}
 			},
 			"Barbarian_Magic_BerserkDamage": {
@@ -5593,7 +5613,8 @@ let paragonData = {
 					"ruRU": "Вкушение",
 					"trTR": "Soğurucu",
 					"zhCN": "吸收者",
-					"zhTW": "暴飲者"
+					"zhTW": "暴飲者",
+					"thTH": "Imbiber"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}% Schaden, solange Ihr gesund seid.",
@@ -5608,7 +5629,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, наносимый урон при высоком уровне здоровья увеличивается на +{3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına Sağlıklıyken +{3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,你在健康状态下造成的伤害提高 +{3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}%。",
-					"zhTW": "在範圍內每購買 5 點意志,健康時造成的傷害就會提高 {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}%。"
+					"zhTW": "在範圍內每購買 5 點意志,健康時造成的傷害就會提高 {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}%。",
+					"thTH": "ทุก 5 Willpower ที่คุณซื้อในระยะ, คุณจะทำความเสียหายในขณะที่อยู่ในสถานะ Healthy เพิ่มขึ้น +{3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet +30% mehr Heilung durch Tränke.",
@@ -5623,7 +5645,8 @@ let paragonData = {
 					"ruRU": "Зелья восполняют на +30% больше здоровья.",
 					"trTR": "+30% artırılmış İksir İyileştirmesi kazanırsın.",
 					"zhCN": "你的药水治疗效果提高 +30%。",
-					"zhTW": "從藥水獲得的治療效果提高 +30%。"
+					"zhTW": "從藥水獲得的治療效果提高 +30%。",
+					"thTH": "ได้รับการฟื้นฟูพลังชีวิตจาก Potion เพิ่มขึ้น +30%."
 				},
 				"thresholdRequirements": "25 Willpower"
 			},
@@ -5644,7 +5667,8 @@ let paragonData = {
 					"ruRU": "Защита границ",
 					"trTR": "Bölgeci",
 					"zhCN": "领地",
-					"zhTW": "地盤"
+					"zhTW": "地盤",
+					"thTH": "Territorial"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr Gegnern in der Nähe +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
@@ -5659,7 +5683,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый ближним целям, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Yakın hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,你对近距目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對近距離目標造成的傷害提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"zhTW": "在範圍內每購買 5 點敏捷,你對近距離目標造成的傷害提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูที่อยู่ใกล้ตัวเพิ่มขึ้น +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet Sek. lang 10% Schadensreduktion gegen Gegner in der Nähe.",
@@ -5674,7 +5699,8 @@ let paragonData = {
 					"ruRU": "Вы получаете на 10% меньше урона от находящихся рядом противников.",
 					"trTR": "Yakın düşmanlara karşı 10% Hasar Azaltma kazanırsın.",
 					"zhCN": "你从近距敌人处受到的伤害降低 10%。",
-					"zhTW": "你對上近距離敵人時,獲得 10% 傷害減免。"
+					"zhTW": "你對上近距離敵人時,獲得 10% 傷害減免。",
+					"thTH": "ได้รับ 10% Damage Reduction แก่ศัตรูที่อยู่ใกล้ตัว."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -5695,7 +5721,8 @@ let paragonData = {
 					"ruRU": "Уловка",
 					"trTR": "Hile",
 					"zhCN": "利用",
-					"zhTW": "剝削手段"
+					"zhTW": "剝削手段",
+					"thTH": "Exploit"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1.5/1.725/1.95/2.175/2.4/2.625/2.85/3.075/3.3/3.525/3.75/3.975/4.2/4.425/4.65/4.875/5.1/5.325/5.55/5.775/6}% Schaden zu.",
@@ -5710,7 +5737,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1.5/1.725/1.95/2.175/2.4/2.625/2.85/3.075/3.3/3.525/3.75/3.975/4.2/4.425/4.65/4.875/5.1/5.325/5.55/5.775/6}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1.5/1.725/1.95/2.175/2.4/2.625/2.85/3.075/3.3/3.525/3.75/3.975/4.2/4.425/4.65/4.875/5.1/5.325/5.55/5.775/6}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1.5/1.725/1.95/2.175/2.4/2.625/2.85/3.075/3.3/3.525/3.75/3.975/4.2/4.425/4.65/4.875/5.1/5.325/5.55/5.775/6}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 {1.5/1.725/1.95/2.175/2.4/2.625/2.85/3.075/3.3/3.525/3.75/3.975/4.2/4.425/4.65/4.875/5.1/5.325/5.55/5.775/6}%。"
+					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 {1.5/1.725/1.95/2.175/2.4/2.625/2.85/3.075/3.3/3.525/3.75/3.975/4.2/4.425/4.65/4.875/5.1/5.325/5.55/5.775/6}%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Vulnerable เพิ่มขึ้น +{1.5/1.725/1.95/2.175/2.4/2.625/2.85/3.075/3.3/3.525/3.75/3.975/4.2/4.425/4.65/4.875/5.1/5.325/5.55/5.775/6}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr einem Gegner Schaden zufügt, wird er 3 Sek. lang verwundbar. Dies ist pro Gegner nur einmal alle 20 Sek. möglich.",
@@ -5725,7 +5753,8 @@ let paragonData = {
 					"ruRU": "Когда вы раните противника, он становится уязвимым на 3 сек. Эффект срабатывает для одной цели не чаще раза в 20 сек.",
 					"trTR": "Bir düşman senden hasar aldığında 3 saniyeliğine Savunmasız hâle gelir. Bu, düşman başına en fazla 20 saniyede bir kez gerçekleşebilir.",
 					"zhCN": "一名敌人受到你造成的伤害时会受到易伤效果, 持续 3 秒。该效果对每个敌人每 20 秒只能触发一次。",
-					"zhTW": "當你對敵人造成傷害,敵人會進入易傷狀態,持續 3 秒。此效果每個敵人每 20 秒最多觸發一次。"
+					"zhTW": "當你對敵人造成傷害,敵人會進入易傷狀態,持續 3 秒。此效果每個敵人每 20 秒最多觸發一次。",
+					"thTH": "เมื่อศัตรูได้รับความเสียหายจากคุณ, มันจะอยู่ในสถานะ Vulnerable เป็นระยะเวลา 3 วินาที. ผลนี้ไม่สามารถเกิดกับศัตรูตัวเดิมได้เป็นระยะเวลา 20 วินาที."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -5746,7 +5775,8 @@ let paragonData = {
 					"ruRU": "Амбидекстр",
 					"trTR": "Çift Elli",
 					"zhCN": "灵巧",
-					"zhTW": "左右開弓"
+					"zhTW": "左右開弓",
+					"thTH": "Ambidextrous"
 				},
 				"descLocalized": {
 					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%.",
@@ -5761,7 +5791,8 @@ let paragonData = {
 					"ruRU": "Усиливает все магические узлы в радиусе действия на +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%.",
 					"trTR": "Menzildeki tüm Sihirli düğümlere +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}% bonus verir.",
 					"zhCN": "给予辐射范围内所有魔法节点 +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外 +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%。"
+					"zhTW": "範圍內所有魔法節點的效果額外 +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%。",
+					"thTH": "Magic nodes ภายในระยะจะมีผลเพิ่มขึ้น +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr verursacht x8% mehr Schaden, wenn Ihr Einhandwaffen führt.",
@@ -5776,7 +5807,8 @@ let paragonData = {
 					"ruRU": "При использовании одноручного оружия вы наносите на x8% больше урона.",
 					"trTR": "Tek El silahlar kullanırken x8% artırılmış hasar verirsin.",
 					"zhCN": "装备单手武器时, 你造成的伤害提高 x8%。",
-					"zhTW": "使用單手武器時,你造成的傷害提高 x8%。"
+					"zhTW": "使用單手武器時,你造成的傷害提高 x8%。",
+					"thTH": "ทำความเสียหายเพิ่มขึ้น x8% เมื่อใช้อาวุธมือเดียว."
 				},
 				"thresholdRequirements": "40 Strength"
 			},
@@ -5797,7 +5829,8 @@ let paragonData = {
 					"ruRU": "Мощь",
 					"trTR": "Kudret",
 					"zhCN": "勇力",
-					"zhTW": "威力"
+					"zhTW": "威力",
+					"thTH": "Might"
 				},
 				"descLocalized": {
 					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%.",
@@ -5812,7 +5845,8 @@ let paragonData = {
 					"ruRU": "Усиливает все магические узлы в радиусе действия на +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%.",
 					"trTR": "Menzildeki tüm Sihirli düğümlere +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}% bonus verir.",
 					"zhCN": "给予辐射范围内所有魔法节点 +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外 +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%。"
+					"zhTW": "範圍內所有魔法節點的效果額外 +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%。",
+					"thTH": "Magic nodes ภายในระยะจะมีผลเพิ่มขึ้น +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr verursacht x8% mehr Schaden, wenn Ihr Zweihandwaffen führt.",
@@ -5827,7 +5861,8 @@ let paragonData = {
 					"ruRU": "При использовании двуручного оружия вы наносите на x8% больше урона.",
 					"trTR": "Çift El silahlar kullanırken x8% artırılmış hasar verirsin.",
 					"zhCN": "装备双手武器时, 你造成的伤害提高 x8%。",
-					"zhTW": "使用雙手武器時,你造成的傷害提高 x8%。"
+					"zhTW": "使用雙手武器時,你造成的傷害提高 x8%。",
+					"thTH": "ทำความเสียหายเพิ่มขึ้น x8% เมื่อใช้อาวุธสองมือ."
 				},
 				"thresholdRequirements": "40 Strength"
 			},
@@ -5848,7 +5883,8 @@ let paragonData = {
 					"ruRU": "Тесак",
 					"trTR": "Satır",
 					"zhCN": "削砍",
-					"zhTW": "劈斬者"
+					"zhTW": "劈斬者",
+					"thTH": "Cleaver"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte verursacht Ihr +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% Schaden, während Ihr eine Axt tragt.",
@@ -5863,7 +5899,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон с топором увеличивается на +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%.",
 					"trTR": "Menzilde satın alınan her 5 Kuvvet başına bir Balta kullanıyorken +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点力量,你手持斧类武器时造成的伤害提高 +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
-					"zhTW": "在範圍內每購買 5 點力量,使用斧頭時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。"
+					"zhTW": "在範圍內每購買 5 點力量,使用斧頭時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"thTH": "ทุก 5 Strength ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ใช้ขวานเพิ่มขึ้น +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr eine Axt führt, verursacht Ihr x12% mehr kritischen Trefferschaden.",
@@ -5878,7 +5915,8 @@ let paragonData = {
 					"ruRU": "При использовании топоров вы наносите на x12% больше критического урона.",
 					"trTR": "Balta kullanırken x12% artırılmış Kritik Vuruş Hasarı verirsin.",
 					"zhCN": "装备斧类武器时, 你造成的暴击伤害提高 x12%。",
-					"zhTW": "使用斧頭時,你造成的爆擊傷害提高 x12%。"
+					"zhTW": "使用斧頭時,你造成的爆擊傷害提高 x12%。",
+					"thTH": "ขณะที่ใช้ขวาน, ทำความเสียหาย Critical เพิ่มขึ้น x12%."
 				},
 				"thresholdRequirements": "40 Strength"
 			},
@@ -5899,7 +5937,8 @@ let paragonData = {
 					"ruRU": "Возмущение",
 					"trTR": "Köpürmüş",
 					"zhCN": "恼怒",
-					"zhTW": "沸騰"
+					"zhTW": "沸騰",
+					"thTH": "Seething"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte verursacht Ihr +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% Schaden, während Ihr ein Schwert tragt.",
@@ -5914,7 +5953,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон с мечом увеличивается на +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%.",
 					"trTR": "Menzilde satın alınan her 5 Kuvvet başına bir Kılıç kullanıyorken +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点力量,你手持剑类武器时造成的伤害提高 +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
-					"zhTW": "在範圍內每購買 5 點力量,使用劍時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。"
+					"zhTW": "在範圍內每購買 5 點力量,使用劍時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"thTH": "ทุก 5 Strength ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ใช้ดาบเพิ่มขึ้น +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Während Ihr ein Schwert führt, erhaltet Ihr durch das Töten eines Gegners 3 Wut.",
@@ -5929,7 +5969,8 @@ let paragonData = {
 					"ruRU": "При использовании мечей вы накапливаете 3 ед. ярости за каждого убитого противника.",
 					"trTR": "Kılıç kullanırken bir düşmanı öldürdüğünde 3 Hiddet kazanırsın.",
 					"zhCN": "装备剑类武器时, 消灭一名敌人可获得 3 点怒气。",
-					"zhTW": "使用劍時,你每殺死一個敵人可獲得 3 點怒氣。"
+					"zhTW": "使用劍時,你每殺死一個敵人可獲得 3 點怒氣。",
+					"thTH": "ขณะที่ใช้ดาบ, ได้รับ 3 Fury เมื่อสังหารศัตรู."
 				},
 				"thresholdRequirements": "40 Strength"
 			},
@@ -5950,7 +5991,8 @@ let paragonData = {
 					"ruRU": "Крушитель",
 					"trTR": "Ezici",
 					"zhCN": "碾压者",
-					"zhTW": "粉碎者"
+					"zhTW": "粉碎者",
+					"thTH": "Crusher"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte verursacht Ihr +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% Schaden, wenn Ihr einen Streitkolben tragt.",
@@ -5965,7 +6007,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон с булавой увеличивается на +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%.",
 					"trTR": "Menzilde satın alınan her 5 Kuvvet başına bir Gürz kullanıyorken +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点力量,你手持锤类武器时造成的伤害提高 +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
-					"zhTW": "在範圍內每購買 5 點力量,使用釘鎚時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。"
+					"zhTW": "在範圍內每購買 5 點力量,使用釘鎚時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"thTH": "ทุก 5 Strength ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ใช้ Mace เพิ่มขึ้น +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr einen Streitkolben führt, verursacht Ihr x30% mehr Überwältigungsschaden.",
@@ -5980,7 +6023,8 @@ let paragonData = {
 					"ruRU": "При использовании булав вы наносите на x30% больше подавляющего урона.",
 					"trTR": "Gürz kullanırken x30% artırılmış Aşırı Güç hasarı verirsin.",
 					"zhCN": "装备锤类武器时, 你造成的压制伤害提高 x30%。",
-					"zhTW": "使用釘鎚時,你造成的壓制傷害提高 x30%。"
+					"zhTW": "使用釘鎚時,你造成的壓制傷害提高 x30%。",
+					"thTH": "ขณะที่ใช้ Mace, คุณจะทำความเสียหาย Overpower เพิ่มขึ้น x30%."
 				},
 				"thresholdRequirements": "40 Strength"
 			},
@@ -6001,7 +6045,8 @@ let paragonData = {
 					"ruRU": "Палач",
 					"trTR": "İnfazcı",
 					"zhCN": "处决者",
-					"zhTW": "處決者"
+					"zhTW": "處決者",
+					"thTH": "Executioner"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte verursacht Ihr +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% Schaden, während Ihr eine Stangenwaffe tragt.",
@@ -6016,7 +6061,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон с древковым оружием увеличивается на +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%.",
 					"trTR": "Menzilde satın alınan her 5 Kuvvet başına bir Gönderli Silah kullanıyorken +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点力量,你手持长柄武器时造成的伤害提高 +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
-					"zhTW": "在範圍內每購買 5 點力量,使用長柄武器時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。"
+					"zhTW": "在範圍內每購買 5 點力量,使用長柄武器時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"thTH": "ทุก 5 Strength ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ใช้ Polearm เพิ่มขึ้น +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr eine Stangenwaffe führt, fügt Ihr gesunden oder verletzten Gegnern x10% mehr Schaden zu.",
@@ -6031,7 +6077,8 @@ let paragonData = {
 					"ruRU": "При использовании древкового оружия вы наносите на x10% больше урона целям с высоким или низким уровнем здоровья.",
 					"trTR": "Gönderli Silah kullanırken Sağlıklı veya Yaralı düşmanlara x10% artırılmış hasar verirsin.",
 					"zhCN": "装备长柄武器时, 你对健康或受伤敌人造成的伤害提高 x10%。",
-					"zhTW": "使用長柄武器時,你對健康或受傷敵人造成的傷害提高 x10%。"
+					"zhTW": "使用長柄武器時,你對健康或受傷敵人造成的傷害提高 x10%。",
+					"thTH": "ขณะที่ใช้ Polearm, ทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Injured เพิ่มขึ้น x10%"
 				},
 				"thresholdRequirements": "40 Strength"
 			},
@@ -6052,7 +6099,8 @@ let paragonData = {
 					"ruRU": "Праведный гнев",
 					"trTR": "Hiddet",
 					"zhCN": "怒火",
-					"zhTW": "怨怒"
+					"zhTW": "怨怒",
+					"thTH": "Ire"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte verursacht Ihr +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% Schaden, während Ihr im im Berserkermodus seid.",
@@ -6067,7 +6115,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы, открытые в радиусе действия, наносимый урон в состоянии берсерка увеличивается на +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%.",
 					"trTR": "Menzilde satın alınan her 5 Kuvvet başına Başıbozukluk sırasında +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点力量,你在狂暴状态下造成的伤害提高 +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
-					"zhTW": "在範圍內每購買 5 點力量,狂暴時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。"
+					"zhTW": "在範圍內每購買 5 點力量,狂暴時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"thTH": "ทุก 5 Strength ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ Berserking เพิ่มขึ้น +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Im Berserkermodus erleidet Ihr 10% weniger Schaden durch Elitegegner.",
@@ -6082,7 +6131,8 @@ let paragonData = {
 					"ruRU": "Пока действует режим берсерка, вы получаете на 10% меньше урона от особых противников.",
 					"trTR": "Başıbozuk hâldeyken Seçkinlerden 10% azaltılmış hasar alırsın.",
 					"zhCN": "处于狂暴状态时, 你受到精英怪的伤害降低 10%。",
-					"zhTW": "狂暴時,精英怪物對你造成的傷害降低 10%。"
+					"zhTW": "狂暴時,精英怪物對你造成的傷害降低 10%。",
+					"thTH": "ขณะที่ Berserking, ได้รับความเสียหายลดลง x10% จากศัตรู Elites."
 				},
 				"thresholdRequirements": "40 Strength"
 			},
@@ -6103,7 +6153,8 @@ let paragonData = {
 					"ruRU": "Судья",
 					"trTR": "Mareşal",
 					"zhCN": "统帅",
-					"zhTW": "元帥"
+					"zhTW": "元帥",
+					"thTH": "Marshal"
 				},
 				"descLocalized": {
 					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%.",
@@ -6118,7 +6169,8 @@ let paragonData = {
 					"ruRU": "Усиливает все магические узлы в радиусе действия на +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%.",
 					"trTR": "Menzildeki tüm Sihirli düğümlere +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}% bonus verir.",
 					"zhCN": "给予辐射范围内所有魔法节点 +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外 +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%。"
+					"zhTW": "範圍內所有魔法節點的效果額外 +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%。",
+					"thTH": "Magic nodes ภายในระยะจะมีผลเพิ่มขึ้น +{40/48/56/64/72/80/88/96/104/112/120/128/136/144/152/160/168/176/184/192/200}%"
 				},
 				"bonusLocalized": {
 					"deDE": "Nach dem Wirken einer Ruffertigkeit verringert sich die aktive Abklingzeit aller anderen Rufe um 1.2 Sek.",
@@ -6133,7 +6185,8 @@ let paragonData = {
 					"ruRU": "Когда вы применяете умение категории \"Крик\", время восстановления других умений этой категории сокращается на 1.2 сек.",
 					"trTR": "Bir Çığlık Yeteneği kullandıktan sonra diğer tüm Çığlık Yeteneklerinin Bekleme Süresi 1| saniye azalır.",
 					"zhCN": "施放一个战吼技能后, 所有其他战吼技能的剩余冷却时间缩短 1.2 秒。",
-					"zhTW": "施放怒吼技能後,所有其他怒吼技能的現有冷卻時間縮短 1.2 秒。"
+					"zhTW": "施放怒吼技能後,所有其他怒吼技能的現有冷卻時間縮短 1.2 秒。",
+					"thTH": "หลังจากที่ใช้สกิล Shout, Cooldown ของสกิล Shout อื่นๆจะลดลง 1.2 วินาที."
 				},
 				"thresholdRequirements": "40 Strength"
 			},
@@ -6154,7 +6207,8 @@ let paragonData = {
 					"ruRU": "Питающая кровь",
 					"trTR": "Kanla Beslenen",
 					"zhCN": "鲜血喂食者",
-					"zhTW": "飼血"
+					"zhTW": "飼血",
+					"thTH": "Bloodfeeder"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr blutenden Gegnern +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% Schaden zu.",
@@ -6169,7 +6223,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый целям с кровотечением, увеличивается на +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Kanayan hedeflere +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,你对流血目标造成的伤害提高 +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對流血目標造成的傷害提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。"
+					"zhTW": "在範圍內每購買 5 點敏捷,你對流血目標造成的傷害提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูที่ Bleeding เพิ่มขึ้น +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr habt eine 5% höhere kritische Trefferchance gegen blutende Gegner.",
@@ -6184,7 +6239,8 @@ let paragonData = {
 					"ruRU": "Когда вы атакуете истекающих кровью противников, вероятность критического удара повышается на +5%.",
 					"trTR": "Kanayan düşmanlara karşı 5% artırılmış Kritik Vuruş İhtimaline sahip olursun.",
 					"zhCN": "你对流血敌人造成暴击的几率提高 5%。",
-					"zhTW": "你對流血敵人的爆擊機率提高 5%。"
+					"zhTW": "你對流血敵人的爆擊機率提高 5%。",
+					"thTH": "เพิ่มโอกาสโจมตี Critical 5% แก่ศัตรูที่ Bleeding."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -6205,7 +6261,8 @@ let paragonData = {
 					"ruRU": "Гнев",
 					"trTR": "Gazap",
 					"zhCN": "愤怒",
-					"zhTW": "忿怒"
+					"zhTW": "忿怒",
+					"thTH": "Wrath"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Kernfertigkeiten +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}% kritischen Trefferschaden.",
@@ -6220,7 +6277,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, критический урон от основных умений увеличивается на +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Çekirdek Yetenekler +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}% artırılmış Kritik Vuruş Hasarı verir.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,核心技能造成的暴击伤害提高 +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,核心技能造成的爆擊傷害就會提高 {2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}%。"
+					"zhTW": "在範圍內每購買 5 點敏捷,核心技能造成的爆擊傷害就會提高 {2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, สกิล Core ทำความเสียหาย Critical เพิ่มขึ้น +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Fertigkeiten, die kritisch treffen, erzeugen 3 Wut.",
@@ -6235,7 +6293,8 @@ let paragonData = {
 					"ruRU": "Умения, наносящие критический урон, позволяют накопить 3 ед. ярости.",
 					"trTR": "Kritik Vuruş gerçekleştiren Yetenekler 3 Hiddet üretir.",
 					"zhCN": "技能暴击时产生 3 点怒气。",
-					"zhTW": "技能爆擊時會產生 3 點怒氣。"
+					"zhTW": "技能爆擊時會產生 3 點怒氣。",
+					"thTH": "เมื่อใช้สกิลทำความเสียหาย Critical จะได้รับ 3 Fury."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -6256,7 +6315,8 @@ let paragonData = {
 					"ruRU": "Мастер оружия",
 					"trTR": "Silah Ustası",
 					"zhCN": "武器大师",
-					"zhTW": "武器大師"
+					"zhTW": "武器大師",
+					"thTH": "Weapon Master"
 				},
 				"descLocalized": {
 					"deDE": "Paragonknoten in Reichweite erhalten einen Bonus von +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% auf ihre Modifikatoren für physischen Schaden und Schadensreduktion.",
@@ -6271,7 +6331,8 @@ let paragonData = {
 					"ruRU": "Модификации увеличения и уменьшения физического урона усиливаются на +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% для узлов совершенствования в радиусе действия.",
 					"trTR": "Menzildeki mükemmeliyet düğümleri, Fiziksel hasar ve hasar azaltma düzenleyicilerine +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% bonus kazanır.",
 					"zhCN": "辐射范围内的巅峰节点获得 +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% 加成至物理伤害和伤害减免。",
-					"zhTW": "範圍內顛峰節點的物理傷害和傷害減免屬性 +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%。"
+					"zhTW": "範圍內顛峰節點的物理傷害和傷害減免屬性 +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%。",
+					"thTH": "Paragon nodes ภายในระยะจะได้รับการเพิ่มความเสียหาย Physical และ Damage Reduction เพิ่มขึ้น +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr mit einer Waffenbeherrschungsfertigkeit trefft, verringert sich die aktive Abklingzeit einer anderen zufälligen Waffenbeherrschungsfertigkeit um 2 Sek.",
@@ -6286,7 +6347,8 @@ let paragonData = {
 					"ruRU": "Когда вы поражаете цель умением категории \"Мастер оружия\", время восстановления другого случайного умения этой категории сокращается на 2 сек.",
 					"trTR": "Bir Silah Ustalığı Yeteneğiyle vurmak, rastgele başka bir Silah Ustalığı Yeteneğinin aktif Bekleme Süresini 2 saniye azaltır.",
 					"zhCN": "武器精通技能命中时, 随机使另一个武器精通技能的冷却时间缩短 2 秒。",
-					"zhTW": "以武器專精技能擊中目標,會使另一個隨機武器專精技能的現有冷卻時間縮短 2 秒。"
+					"zhTW": "以武器專精技能擊中目標,會使另一個隨機武器專精技能的現有冷卻時間縮短 2 秒。",
+					"thTH": "เมื่อทำความเสียหายด้วยสกิล Weapon Mastery จะสุ่มลด Cooldown สกิล Weapon Mastery อื่น 2 วินาที."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -6307,7 +6369,8 @@ let paragonData = {
 					"ruRU": "Смертельное натяжение",
 					"trTR": "Ölümcül Gerilme",
 					"zhCN": "致命吸引",
-					"zhTW": "致死招式"
+					"zhTW": "致死招式",
+					"thTH": "Mortal Draw"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Fertigkeiten, die zu einer anderen Waffe wechseln, +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}% Schaden.",
@@ -6322,7 +6385,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон от умений, меняющих оружие, увеличивается на +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına başka bir silaha Geçiş Yapan Yetenekler +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}% artırılmış hasar verir.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,切换至不同武器的技能造成的伤害提高 +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,切換不同武器的技能造成的傷害就會提高 {4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}%。"
+					"zhTW": "在範圍內每購買 5 點敏捷,切換不同武器的技能造成的傷害就會提高 {4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, สกิลที่สลับอาวุธจะทำความเสียหายเพิ่มขึ้น +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}%"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr Eure Waffen wechselt, besteht eine Chance von 18%, dass der Schaden der Fertigkeit kritisch trifft.",
@@ -6337,7 +6401,8 @@ let paragonData = {
 					"ruRU": "После смены оружия ваше умение с вероятностью 18% наносит критический урон.",
 					"trTR": "Silah değiştirmek 18% ihtimalle Yeteneğin hasarının Kritik Vuruş gerçekleştirmesini sağlar.",
 					"zhCN": "切换武器有 18% 几率使下一个技能暴击。",
-					"zhTW": "切換武器時,有 18% 機率使技能傷害產生爆擊。"
+					"zhTW": "切換武器時,有 18% 機率使技能傷害產生爆擊。",
+					"thTH": "สกิลที่สลับอาวุธมีโอกาส 18% ที่จะทำความเสียหาย Critical."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -6358,7 +6423,8 @@ let paragonData = {
 					"ruRU": "Мщение",
 					"trTR": "İntikam",
 					"zhCN": "复仇",
-					"zhTW": "復仇"
+					"zhTW": "復仇",
+					"thTH": "Revenge"
 				},
 				"descLocalized": {
 					"deDE": "Verleiht allen seltenen Knoten in Reichweite einen Bonus von +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%.",
@@ -6373,7 +6439,8 @@ let paragonData = {
 					"ruRU": "Усиливает все редкие узлы в радиусе действия на +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%.",
 					"trTR": "Menzildeki tüm Nadir düğümlere +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% bonus verir.",
 					"zhCN": "给予辐射范围内所有稀有节点 +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% 加成。",
-					"zhTW": "範圍內所有稀有節點的效果 +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%。"
+					"zhTW": "範圍內所有稀有節點的效果 +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%。",
+					"thTH": "Rare nodes ภายในระยะจะมีผลเพิ่มขึ้น +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Das Verursachen von Dornenschaden erhöht jeglichen durch Euch erlittenen Schaden des Gegners 10 Sek. lang um x1%, bis maximal x8%.",
@@ -6388,7 +6455,8 @@ let paragonData = {
 					"ruRU": "Урон от эффекта шипов на 10 сек. увеличивает весь урон, который цель получает от вас, на x1% вплоть до x8%.",
 					"trTR": "Diken hasarı, düşmanın senden aldığı tüm hasarı 10 saniyeliğine x1% artırır. Artış en fazla x8% olabilir.",
 					"zhCN": "对敌人造成荆棘伤害会使你对其造成的所有伤害提高 x1%, 最多提高 x8%, 持续 10 秒。",
-					"zhTW": "對敵人造成荊棘傷害,會使你對其造成的所有傷害提高 x1%,最多提高x8%,持續 10 秒。"
+					"zhTW": "對敵人造成荊棘傷害,會使你對其造成的所有傷害提高 x1%,最多提高x8%,持續 10 秒。",
+					"thTH": "เมื่อทำความเสียหาย Thorns แก่ศัตรู ศัตรูนั้นจะได้รับความเสียหายจากคุณเพิ่มขึ้น x1%, สูงสุด x8%, เป็นระยะเวลา 10 วินาที."
 				},
 				"thresholdRequirements": "25 Willpower"
 			},
@@ -6409,7 +6477,8 @@ let paragonData = {
 					"ruRU": "Бесстрашие",
 					"trTR": "Gözü Pek",
 					"zhCN": "无惧",
-					"zhTW": "無懼"
+					"zhTW": "無懼",
+					"thTH": "Undaunted"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% Schaden, während Ihr gestählt seid.",
@@ -6424,7 +6493,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, наносимый урон во время эффекта укрепления увеличивается на +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına Güçlendirilmişken +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,你在强固状态下造成的伤害提高 +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
-					"zhTW": "在範圍內每購買 5 點意志,強韌時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。"
+					"zhTW": "在範圍內每購買 5 點意志,強韌時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ Fortified เพิ่มขึ้น +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet bis zu 10% Schadensreduktion, je mehr Stählung Ihr besitzt.",
@@ -6439,7 +6509,8 @@ let paragonData = {
 					"ruRU": "Укрепление уменьшает получаемый вами урон максимум на 10%. Уменьшение урона зависит от объема укрепления.",
 					"trTR": "Güçlendirme miktarın arttıkça en fazla 10% olmak üzere Hasar Azaltma kazanırsın.",
 					"zhCN": "根据你的强固程度, 你获得最多 10% 伤害减免。",
-					"zhTW": "你獲得越多強韌,傷害減免的效果就越高,上限為 10%。"
+					"zhTW": "你獲得越多強韌,傷害減免的效果就越高,上限為 10%。",
+					"thTH": "ได้รับสูงสุด 10% Damage Reduction ตามจำนวน Fortify ที่คุณมี."
 				},
 				"thresholdRequirements": "25 Willpower"
 			},
@@ -6460,7 +6531,8 @@ let paragonData = {
 					"ruRU": "Подчинение",
 					"trTR": "Hükmet",
 					"zhCN": "支配",
-					"zhTW": "支配"
+					"zhTW": "支配",
+					"thTH": "Dominate"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% Überwältigungsschaden.",
@@ -6475,7 +6547,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, подавляющий урон увеличивается на +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% artırılmış Aşırı Güç hasarı verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,你造成的压制伤害提高 +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%。",
-					"zhTW": "在範圍內每購買 5 點意志,你造成的壓制傷害就會提高 {9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%。"
+					"zhTW": "在範圍內每購買 5 點意志,你造成的壓制傷害就會提高 {9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%。",
+					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหาย Overpower เพิ่มขึ้น +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Nachdem Ihr 30 Sek. lang nicht überwältigt habt, überwältigt Euer nächster Angriff.",
@@ -6490,7 +6563,8 @@ let paragonData = {
 					"ruRU": "Когда подавляющие атаки не срабатывают в течение 30 сек., ваша следующая атака гарантированно нанесет подавляющий урон.",
 					"trTR": "30 saniye boyunca Aşırı Güç uygulamadığında sonraki saldırın Aşırı Güçlenir.",
 					"zhCN": "30 秒内未造成压制后, 你的下一次攻击造成压制。",
-					"zhTW": "沒有壓制效果 30 秒後,你的下一次攻擊會造成壓制。"
+					"zhTW": "沒有壓制效果 30 秒後,你的下一次攻擊會造成壓制。",
+					"thTH": "เมื่อไม่ได้ทำความเสียหาย Overpower เป็นระยะเวลา 30 วินาที, การโจมตีครั้งต่อไปจะ Overpower."
 				},
 				"thresholdRequirements": "25 Willpower"
 			},
@@ -6511,7 +6585,8 @@ let paragonData = {
 					"ruRU": "Потрошение",
 					"trTR": "Bağırsaklarını Çıkar",
 					"zhCN": "开膛破肚",
-					"zhTW": "破膛"
+					"zhTW": "破膛",
+					"thTH": "Disembowel"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% Blutungsschaden.",
@@ -6526,7 +6601,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон от кровотечения увеличивается на +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% artırılmış Kanama hasarı verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,你造成的流血伤害提高 +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
-					"zhTW": "在範圍內每購買 5 點意志,造成的流血傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。"
+					"zhTW": "在範圍內每購買 5 點意志,造成的流血傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหาย Bleeding เพิ่มขึ้น +{3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr einen blutenden Gegner tötet, besteht eine Chance von 10%, die Abklingzeiten Eurer nicht-ultimativen aktiven Abklingzeiten um 1 Sek. zu verringern.",
@@ -6541,7 +6617,8 @@ let paragonData = {
 					"ruRU": "Когда вы убиваете истекающих кровью противников, время восстановления ваших умений сокращается на 10% на 1 сек. Не действует на мощные умения.",
 					"trTR": "Kanayan bir düşmanı öldürmek 10% ihtimalle Ulti Olmayan aktif Bekleme Sürelerini 1 saniye azaltır.",
 					"zhCN": "消灭流血的敌人有 10% 几率使你的非终极技能的剩余冷却时间缩短 1 秒。",
-					"zhTW": "擊殺流血的敵人有 10% 機率使你的非絕招現有冷卻時間縮短 1 秒。"
+					"zhTW": "擊殺流血的敵人有 10% 機率使你的非絕招現有冷卻時間縮短 1 秒。",
+					"thTH": "เมื่อสังหารศัตรูที่ Bleeding มีโอกาส 10% ที่จะลด Cooldown สกิลที่ไม่ใช้สกิล Ultimate 1 วินาที."
 				},
 				"thresholdRequirements": "25 Willpower"
 			},
@@ -6562,7 +6639,8 @@ let paragonData = {
 					"ruRU": "Потасовка",
 					"trTR": "Kavga",
 					"zhCN": "搏斗",
-					"zhTW": "亂鬥"
+					"zhTW": "亂鬥",
+					"thTH": "Brawl"
 				},
 				"descLocalized": {
 					"deDE": "Paragonknoten in Reichweite erhalten einen Bonus von +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% auf ihre Modifikatoren für physischen Schaden und Schadensreduktion.",
@@ -6577,7 +6655,8 @@ let paragonData = {
 					"ruRU": "Модификации увеличения и уменьшения физического урона усиливаются на +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% для узлов совершенствования в радиусе действия.",
 					"trTR": "Menzildeki mükemmeliyet düğümleri, Fiziksel hasar ve hasar azaltma düzenleyicilerine +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% bonus kazanır.",
 					"zhCN": "辐射范围内的巅峰节点获得 +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% 加成至物理伤害和伤害减免。",
-					"zhTW": "範圍內顛峰節點的物理傷害和傷害減免屬性 +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%。"
+					"zhTW": "範圍內顛峰節點的物理傷害和傷害減免屬性 +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%。",
+					"thTH": "Paragon nodes ภายในระยะจะได้รับการเพิ่มความเสียหาย Physical และ Damage Reduction เพิ่มขึ้น +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Raufboldfertigkeiten verursachen x18% mehr Schaden.",
@@ -6592,7 +6671,8 @@ let paragonData = {
 					"ruRU": "Умения категории \"Бой без правил\" наносят на x18% больше урона.",
 					"trTR": "Kapışma Yetenekleri x18% artırılmış hasar verir.",
 					"zhCN": "搏斗技能造成的伤害提高 x18%。",
-					"zhTW": "爭鬥技能造成的傷害提高 x18%。"
+					"zhTW": "爭鬥技能造成的傷害提高 x18%。",
+					"thTH": "สกิล Brawling ทำความเสียหายเพิ่มขึ้น x18%."
 				},
 				"thresholdRequirements": "25 Willpower"
 			}
