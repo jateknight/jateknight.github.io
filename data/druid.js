@@ -5879,7 +5879,7 @@ druidData["Spirit Boons"] = {
 			id: 148
 		},
 		"Avian Wrath": {
-			description: `ได้รับ x30% ความเสียหายการโจมตี Critical.`,
+			description: `ทำความเสียหายการโจมตี Critical เพิ่มขึ้น x30%.`,
 			id: 149
 		}
 	},
